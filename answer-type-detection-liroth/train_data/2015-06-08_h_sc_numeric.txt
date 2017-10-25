@@ -1,0 +1,177 @@
+Welche Kontonummer hat das der WWF Deutschland?#NUM_CODE
+An welche Postleitzahlen muss die Post gehen damit sie in Berlin ankommt?#NUM_CODE
+Welches Postfach hat Fielmann in Dresden?#NUM_CODE
+Was sind die Hexadezimalcodes der Farbe Blau in RGB Modell?#NUM_CODE
+Welche Autokennzeichen gibt es in Europa?#NUM_CODE
+Wieviele Tasten hat eine deutsche Tastatur?#NUM_COUNT
+Wie hoch ist die Zahl der monatlichen Flugzeugunfälle in Amerika?#NUM_COUNT
+Wie viele Beine haben zwei Menschen?#NUM_COUNT
+Wie hoch war die Arbeitslosenzahl 2014 in Polen?#NUM_COUNT
+Wann fand die letzte Landung auf dem Mond statt?#NUM_DATE
+In welchem Jahr wurde Barack Obama gewählt?#NUM_DATE
+An welchem Tag ist Ostern?#NUM_DATE
+Wann hat Bill Gates Geburtstag?#NUM_DATE
+Wie lautet das Sterbedatum von Albert Einstein?#NUM_DATE
+Wie weit ist es von Berlin nach Dresden?#NUM_DISTANCE
+Wie groß ist der Abstand zwischen Sonne und Merkur?#NUM_DISTANCE
+Wie weit ist Dreden von Berlin entfernt?#NUM_DISTANCE
+Wie groß ist die Distanz zwischen Chemnitz und dem Leipzig?#NUM_DISTANCE
+Was kostet ein Golf?#NUM_MONEY
+Was muss man für ein Kühlschrank bei AEG bezahlen?#NUM_MONEY
+Wieviel kostet ein Tee bei McDonalds?#NUM_MONEY
+Wie teuer ist ein Auto maximal?#NUM_MONEY
+Wie teuer ist eine Zahnpasta?#NUM_MONEY
+Welche Tabellenpostition in der NBA belegen die Dallas Mavericks gerade?#NUM_ORDER
+Welchen Platz gewann Heinz Harald Frentzen 2002 in der Weltmeisterschaft?#NUM_ORDER
+Auf welchem Platz beendete Borussia Dortmund die Saison?#NUM_ORDER
+Welchen Rang hat Amerika auf der Reichenliste?#NUM_ORDER
+Auf welcher Seite beginnt ein jedes Buch?#NUM_ORDER
+Wie lange dauerte der 1. Weltkrieg?#NUM_PERIOD
+Wie viele Semester ist die Studienzeit für Information auf der HTW Dresden?#NUM_PERIOD
+Wie hoch ist die Lebenserwartung in Japan in Jahren?#NUM_PERIOD
+Wie lange dauert es bis man von Kopenhagen nach Stockholm gelaufen ist?#NUM_PERIOD
+Wie lang verweilt eine junge Biene im Nest?#NUM_PERIOD
+Wie hoch ist die Sterberate bei Katzensäuglingen?#NUM_PERCENT
+Wie hoch ist der Anteil der Tiere in Deutschland in Städten?#NUM_PERCENT
+Aus wie viel Prozent Chlorophyll besteht eine Rose?#NUM_PERCENT
+Wieviel Prozente hat Rum?#NUM_PERCENT
+Wie hoch ist der Zuckergehalt einer Cola?#NUM_PERCENT
+Wie groß ist der Anteil von o2 Molekülen in einem Autoreifen?#NUM_PERCENT
+Wie schnell ist ein Murmeltier?#NUM_SPEED
+Was ist die Maximalgeschwindigkeit auf der Autobahn?#NUM_SPEED
+Was ist die Mindestgeschwindigkeit die man auf der Autobahn fahren muss?#NUM_SPEED
+Wie hoch ist das Tempolimit auf schwedischen Landstraßen?#NUM_SPEED
+Ab wieviel kmH schnell kann man auf der Landstraße fahren?#NUM_SPEED
+Wie hoch ist die Durschnittstemperatur im Winter in Deutschland?#NUM_TEMP
+Ab wieviel Grad Hitze verdampft Öl?#NUM_TEMP
+Wie hoch ist die Temperatur eines Automotors?#NUM_TEMP
+Wie kalt ist der kälteste Ort Russlands?#NUM_TEMP
+Ab welcher Temperatur beginnt Blut zu kochen?#NUM_TEMP
+Wie hoch ist der Mount Blanc?#NUM_VOLSIZE
+Wie viel Quadratmeter umfassen Brasilien?#NUM_VOLSIZE
+Wie groß ist die Landfläche Indiens?#NUM_VOLSIZE
+Wie breit ist der Amazonas?#NUM_VOLSIZE
+Wie groß ist die Fläche des Uranus?#NUM_VOLSIZE
+Wie viel wiegt ein durchschnittlicher Meteriot?#NUM_WEIGHT
+Auf wie viele Kilogramm bringt es ein Elefant?#NUM_WEIGHT
+Wie schwer ist eine Mücke?#NUM_WEIGHT
+Was wiegt ein Elefant?#NUM_WEIGHT
+Welche Masse hat eine Fliege?#NUM_WEIGHT
+Wie lautet die IBAN der Deutschen Bank?#NUM_CODE
+Welche PLZ hat Stade?#NUM_CODE
+Wie lautet die Telefonnummer des Kanzleramts?#NUM_CODE
+Wie lautet die ISBN des Buches "Escher Gödel Bach"?#NUM_CODE
+Wie lautet der Produktcode des Landwirtschafts-Simulators?#NUM_CODE
+Wie viele Einwohner leben in Leipzig?#NUM_COUNT
+Wie viele Stadtteile hat Dortmund?#NUM_COUNT
+Wie oft gewann Deutschland die Fußball-Weltmeisterschaft?#NUM_COUNT
+In wie viele Staaten ist Norwegen unterteilt?#NUM_COUNT
+Wie viele Menschen leben in Kanada?#NUM_COUNT
+Wann starb Charles Babbage?#NUM_DATE
+Wann war die Mondlandung?#NUM_DATE
+Wann ist Weihnachten?#NUM_DATE
+An welchem Tag starb Karl der Große?#NUM_DATE
+An welchem Tag betrat der erste russische Soldat Berlin?#NUM_DATE
+Wie viele Kilometer liegen Boston und Dallas auseinander?#NUM_DISTANCE
+Wie tief ist die Ostsee?#NUM_DISTANCE
+Wie hoch ist der Mound Blanc?#NUM_DISTANCE
+Wie weit ist es von Kamenz nach Cottbus entfernt?#NUM_DISTANCE
+Wie groß ist die Entfernung zwischen London und Berlin?#NUM_DISTANCE
+Wie teuer ist ein Audi A3?#NUM_MONEY
+Wie viel kostet ein adidas Schuh?#NUM_MONEY
+Was kostete ein Trabant?#NUM_MONEY
+Wie hoch waren die Produktionskosten für den ersten Mercedes?#NUM_MONEY
+Wie hoch war der höchste Geldgewinn beim Rodeo?#NUM_MONEY
+Welchen Platz belegte ALBA Berlin in der Saison 2013/2014?#NUM_ORDER
+Welchen Platz oder Rang belegte Borussia Dortmund letzte Saison?#NUM_ORDER
+Welche Ordnungszahl hat Wasser im Periodensystem?#NUM_ORDER
+Welchen Rang nahm "Der Schwarm" in der Bestsellerliste ein?#NUM_ORDER
+Welchen Platz belegte Eintracht Frankfurt letzte Saison?#NUM_ORDER
+Wie lange ging der Erste Weltkrieg?#NUM_PERIOD
+Wie lange brauchte die Queen Mary für ihre erste Fahrt?#NUM_PERIOD
+Wie lange schrieb Mandred Spitzer an "Geist im Netz"?#NUM_PERIOD
+Wie alt ist der größte Mensch der Welt geworden?#NUM_PERIOD
+Wie lange dauert es, bis ein Lichtphoton der Sonne die Andromeda Galaxie erreicht?#NUM_PERIOD
+Wie hoch ist die Arbeitslosenquote in Norwegen?#NUM_PERCENT
+Wie hoch ist die Trefferquote beim Lotto?#NUM_PERCENT
+Wie viel Prozent der Weltbevölkerung trinken kein Alkohol?#NUM_PERCENT
+Wie hoch ist die Suizidrate in Finnland#NUM_PERCENT
+Wie viel Prozent Sauerstoff ist in der Luft?#NUM_PERCENT
+Wie schnell ist ein ein Photon?#NUM_SPEED
+Wie schnell ist der schnellste Monster-Truck?#NUM_SPEED
+Wie langsam ist eine das langsamste Tier?#NUM_SPEED
+Wie hoch ist die Geschwindigkeit eines Formel1 Autos beim Start?#NUM_SPEED
+Welches Tempo hat ein Löwe?#NUM_SPEED
+Welche Temperatur herrscht im Amazonas Gebiet?#NUM_TEMP
+Wie kalt ist es im Bismarck Bay?#NUM_TEMP
+Wie warm ist eine Herdplatte?#NUM_TEMP
+Wie hoch ist die Durchschnittstemperatur in Kenia?#NUM_TEMP
+Wie kalt ist das Schwarze Meer?#NUM_TEMP
+Welchen Umfang hat Deutschland?#NUM_VOLSIZE
+Wie groß kann ein Bananenbaum werden?#NUM_VOLSIZE
+Welches Volumen hat eine römische Gallone?#NUM_VOLSIZE
+Welches Volmen besitzt ein Katzenmagen?#NUM_VOLSIZE
+Was ist der Umfang von Frankreich?#NUM_VOLSIZE
+Wie schwer ist ein Elefant?#NUM_WEIGHT
+Wie viel wiegt ein durchschnittler Mensch?#NUM_WEIGHT
+Welches Gewicht hat ein Neutron?#NUM_WEIGHT
+Wie viel Kilo nimmt ein Mensch im Weltall ab?#NUM_WEIGHT
+Wie viel wiegt eine ganze Kolonie Ameisen?#NUM_WEIGHT
+Was ist die Postleitzahl von Quarkenbrück?#NUM_CODE
+Welchen Code hat die Stadt Berlin?#NUM_CODE
+Welche Telefonnummer hat die Polizei?#NUM_CODE
+Welche Telefonnummer hat die Wasserwacht?#NUM_CODE
+Was ist die Kennung vom Terminal in Barcelona?#NUM_CODE
+Wieviele Menschen leben auf Dörfern?#NUM_COUNT
+Wieviel Gurken brauch ich für einen Gurkensalat?#NUM_COUNT
+Wieviel CDs produzierte Herbert Grönemeyer?#NUM_COUNT
+Wie viele Bücher von Joseph Weizenbaum wurden verkauft?#NUM_COUNT
+Wieviel Liter Wein trinkt man jährlich auf der Welt?#NUM_COUNT
+Wann starb Kaiser Nero?#NUM_DATE
+An welchem Datum fand der Kriegseintritt der USA statt?#NUM_DATE
+Wann wurde die Mond Mission gestartet?#NUM_DATE
+An welchem Tag tratt das Deutsche Grundgesetz in Kraft?#NUM_DATE
+Wann wurde Alon Musk geboren?#NUM_DATE
+Wie groß ist die Entfernung zwischen Erde und Mond?#NUM_DISTANCE
+Wie weit ist Weimar von Erfurt entfernt?#NUM_DISTANCE
+Was ist die Distanz zwischen Los Angeles und dem Silicon Valley?#NUM_DISTANCE
+Wie weit sind Cuxhaven und Hamburg auseinander?#NUM_DISTANCE
+Was ist die Entfernung von hier zum Mars?#NUM_DISTANCE
+Wie teuer ist das Spiel "Bioshock"?#NUM_MONEY
+Wieviel kostet der der neuste Audi?#NUM_MONEY
+Was lege ich an Geld für eine Melone hin?#NUM_MONEY
+Wie teuer war das erste Auto aller Zeiten?#NUM_MONEY
+Wieviel kostete das erste Produkt von Alon Musk?#NUM_MONEY
+Welche Kapitel von Harry Potter sind die Spannendsten?#NUM_ORDER
+Welchen Platz macht Japan bei den exportierten Produkten?#NUM_ORDER
+Welchen Platz hatten die Boston Celtics auf der Rangliste im Jahr 2014?#NUM_ORDER
+Welchen Rang erreichte Katharina Witt im Jahre 2006?#NUM_ORDER
+Welche Platzierung belegten die Toronto Raptors in der Saison 2010?#NUM_ORDER
+Wie lang war Angela Merkel Bundeskanzlerin?#NUM_PERIOD
+Wie lang braucht ein Formel1 Auto bis es eine Runde im Nürburgring gefahren ist?#NUM_PERIOD
+Wie alt ist Michelangelo geworden?#NUM_PERIOD
+Wie lange dauert es bis ein Katzenbaby schlüpft?#NUM_PERIOD
+Wieviel Prozent der Weltbevölkerung ist unter 40 Jahren?#NUM_PERCENT
+Wie ist die Rate eines durchschnittlichen 3-Punkte Wurfes?#NUM_PERCENT
+Welcher Anteil der deutschen Bauarbeiter ist unter 30 Jahren?#NUM_PERCENT
+Welche Prozentzahl erreichte die FDP bei der Wahl 2008?#NUM_PERCENT
+Wieviel Prozent Alkohol hat Obstler?#NUM_PERCENT
+Wie schnell ist ein Mittelklasse-Wagen?#NUM_SPEED
+Welche Schnelligkeit erreicht ein Paddepboot?#NUM_SPEED
+Mit welcher Geschwindigkeit fährt ein LKW im Durchschnitt?#NUM_SPEED
+Mit welchem Tempo darf man auf spanischen Landstraßen fahren?#NUM_SPEED
+Wie schnell darf man in norwegischen Dörfern maximal fahren?#NUM_SPEED
+Wie heiß kann ein Motorblock durchschnittlich werden?#NUM_TEMP
+Wieviel Grad kalt ist es an der tiefsten Stelle im Schwarzen Meer?#NUM_TEMP
+Wie kalt war der kälteste Tag dieses Jahr in Kroatien?#NUM_TEMP
+Welche Temperatur war am 10.10.2010 in Gelsenkirchen?#NUM_TEMP
+Wie ist die Durchschnittstemperatur in Israel?#NUM_TEMP
+Wie groß ist Moskau?#NUM_VOLSIZE
+Was ist das Volumen eines herkömmlichen Eimers?#NUM_VOLSIZE
+Welchen Umfang hat Thüringen?#NUM_VOLSIZE
+Welche Ausdehnung hat das kaspische Meer?#NUM_VOLSIZE
+Wie schwer ist Shaquille O'Neal?#NUM_WEIGHT
+Wieviel wiegt ein Elch?#NUM_WEIGHT
+Welche Masse hat ein durchschnittlicher LKW?#NUM_WEIGHT
+Welches Körpergewicht hat ein Dinosaurier?#NUM_WEIGHT
+Welche Last bringt ein Straußs auf die Waage?#NUM_WEIGHT

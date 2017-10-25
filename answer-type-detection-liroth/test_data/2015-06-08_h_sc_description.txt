@@ -1,0 +1,80 @@
+Was ist die Definition von Informatik?#DES_DEFINITION
+Wie definiert man das Wort Biologie?#DES_DEFINITION
+Wie erklärt man Architektur?#DES_DEFINITION
+Wie lautet die Erklärung vom Ziegenproblem?#DES_DEFINITION
+Wie erklärt man das Hamiltonkreisproblem?#DES_DEFINITION
+Wie erklärt man die Quadradur des Kreises?#DES_DEFINITION
+Was ist die Erklärung vom Brückenproblem?#DES_DEFINITION
+Wie erklärt man das Problem des Handelsreisenden?#DES_DEFINITION
+Wie erklärt man das Schachproblem?#DES_DEFINITION
+Wie lautet die Erklärung des Erfüllbarkeitsproblems?#DES_DEFINITION
+Was ist ein Startup?#DES_DESCRIPTION
+Was ist eine Zielgruppe?#DES_DESCRIPTION
+Was ist Aggressiver Humanismus?#DES_DESCRIPTION
+Wie beschreibt man eine Zielgruppe?#DES_DESCRIPTION
+Wie beschreibt man Lösbarkeit?#DES_DESCRIPTION
+Was ist die Beschreibung von Esperanto?#DES_DESCRIPTION
+Wie beschreibt man ein Auto?#DES_DESCRIPTION
+Was ist die Beschreibung vder Evolution?#DES_DESCRIPTION
+Wie kann man die natürliche Selektion beschreiben?#DES_DESCRIPTION
+Wie würde man die Mondphasen beschreiben?#DES_DESCRIPTION
+Wie fahren Lkws?#DES_MANNER
+Wie funktioniert ein Zweitakter?#DES_MANNER
+Wie arbeitet ein Viertakter?#DES_MANNER
+Wie funktioniert ein Extraktor?#DES_MANNER
+Was ist die Funkionsweise eines Motors?#DES_MANNER
+Wie läuft eine Gans?#DES_MANNER
+Wie bewegen sich Gänse fort?#DES_MANNER
+Wie läuft ein Pferd?#DES_MANNER
+Wie öffnet man ein Geschäft?#DES_MANNER
+Wie regelt man die Steuererklärung?#DES_MANNER
+Was ist der Grund für eine Blasenerkältung?#DES_REASON
+Welcher Grund liegt vor wenn man Insolvent geht?#DES_REASON
+Was sind die Gründe für einen Aktieneinbruch?#DES_REASON
+Welcher Grund ist wichtig bei einem Erfolgreichen Börsengang?#DES_REASON
+Welche Gründe gibt es für eine Hochzeit?#DES_REASON
+Was sind die Gründe für einen Unternehmens-Exit?#DES_REASON
+Welchen Grund gibt es für Diabetes?#DES_REASON
+Was sind die Gründe für Kopfschmerzen?#DES_REASON
+Was sind die Gründe für Verdauungsprobleme?#DES_REASON
+Welche Gründe gibt es für einen Schlaganfall?#DES_REASON
+Wie wird Computer definiert?#DES_DEFINITION
+Durch was definiert sich eine Allee?#DES_DEFINITION
+Wie lautet die Definition für Browser?#DES_DEFINITION
+Wie definiert man Kurvendiskussion?#DES_DEFINITION
+Wie erklärt man Kommunismus?#DES_DEFINITION
+Was ist Demokratie?#DES_DESCRIPTION
+Was ist ein Sanguiniker?#DES_DESCRIPTION
+Wie ist Psychologie?#DES_DESCRIPTION
+Was ist ein Notizbuch?#DES_DESCRIPTION
+Was ist Geografie?#DES_DESCRIPTION
+Wie ist das Verhalten eines Eichhörnchens beim Nüsse sammeln?#DES_MANNER
+Wie funktioniert die Abseitsfalle?#DES_MANNER
+Wie werden die Auslastungen von Straßen ermittelt?#DES_MANNER
+Wie entstehen Pilze im Wald?#DES_MANNER
+Wie funktioniert ein Autoradio?#DES_MANNER
+Warum dauert es so lange bis ein Kind geboren wird?#DES_REASON
+Warum entsteht ein Wurmloch?#DES_REASON
+Was ist der Grund für Radiowellen?#DES_REASON
+Wieso werden Umweltverschmutzer nicht inhaftiert?#DES_REASON
+Weshalb stirbt eine Eintagsfliege nach einem Tag?#DES_REASON
+Was ist die Definition von Biologie?#DES_DEFINITION
+Wie definiert man Kommunismus?#DES_DEFINITION
+Kannst du Demokratie definieren?#DES_DEFINITION
+Wie erklärt man Seenot?#DES_DEFINITION
+Wie definiert sich ein Personal Computer?#DES_DEFINITION
+Was ist Rum?#DES_DESCRIPTION
+Wie beschreibt man Motocross?#DES_DESCRIPTION
+Was ist ein Seeräuber?#DES_DESCRIPTION
+Wie kann man Statistik beschreiben?#DES_DESCRIPTION
+Was ist eine Schaukel?#DES_DESCRIPTION
+Wie funktioniert ein Konter?#DES_MANNER
+Wie funktioniert das Bankensystem?#DES_MANNER
+Wie arbeitet eine Drohne?#DES_MANNER
+Wie umkreist ein Plant seinen Stern?#DES_MANNER
+Wie verhält sich jemand der eine Bipolare Störung hat?#DES_MANNER
+Aus welchem Grund muss man sich beim Einwohnermeldeamt melden?#DES_REASON
+Was sind die Gründe für Rückenmschmerzen?#DES_REASON
+Was ist der Grund für Konrad Zuses Tod#DES_REASON
+Was ist der Grund für den Ersten Weltkrieg?#DES_REASON
+Aus welchen Gründen wurde die Datenvorratsspeicherung beschlossen?#DES_REASON

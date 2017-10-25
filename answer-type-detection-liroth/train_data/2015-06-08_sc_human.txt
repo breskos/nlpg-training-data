@@ -1,0 +1,119 @@
+Welche Firma baute die ersten Computer?#HUM_GROUP
+Welche Unternehmen haben sich direkt nach der Wende in Deutschland gegründet?#HUM_GROUP
+Welche Gemeinschaft gründete sich als Geheimbund?#HUM_GROUP
+Welcher Verein hat das Ziel die Tiere auf der Welt zu beschützen?#HUM_GROUP
+Welche Organisationen wollen die Massentierhaltung verbieten?#HUM_GROUP
+Wer eroberte als erster Mensch Nordamerika?#HUM_INDIVIDUAL
+Wer regierte die USA im Jahre 1964?#HUM_INDIVIDUAL
+Welche Persönlichkeit starb im Jahre 1988?#HUM_INDIVIDUAL
+Welche Menschen waren für TTIP verantwortlich?#HUM_INDIVIDUAL
+Welche Person ist aktuell Präsident von Russland?#HUM_INDIVIDUAL
+Welchen Beruf übt Lebron James aus?#HUM_TITLE
+Welche Berufe hat Hermann Hesse ausgeübt?#HUM_TITLE
+Welchen akademischen Grad hat Nelson Mandela?#HUM_TITLE
+Welche Titel gewann Wladimir Klitschko?#HUM_TITLE
+Welchen Rang hat Barack Obama in der amerikanischen Armee?#HUM_TITLE
+Wer ist Michael Schumacher?#HUM_DESCRIPTION
+Wer war Monet?#HUM_DESCRIPTION
+Wer war Michelangelo?#HUM_DESCRIPTION
+Wer ist Karl Friedrich Schinkel?#HUM_DESCRIPTION
+Wer ist Bill Gates?#HUM_DESCRIPTION
+Welche Partei steht in Deutschland für Umweltschutz?#HUM_GROUP
+Welche Unternehmen gibt es in Dresden#HUM_GROUP
+Welche Orden gibt es heute noch?#HUM_GROUP
+Welcher Verein setzt sich für den Umweltschutz ein?#HUM_GROUP
+Welche Organisationen setzen sich für die Massentierhaltung ein?#HUM_GROUP
+Wer betrat als erster Mensch den Mond?#HUM_INDIVIDUAL
+Wer schrieb Harry Potter?#HUM_INDIVIDUAL
+Welche Persönlichkeit hat am 18. Oktober Geburtstag?#HUM_INDIVIDUAL
+Welche Menschen setzen sich gegen Ausländer ein?#HUM_INDIVIDUAL
+Welche Person ist aktuell in den Medien präsent?#HUM_INDIVIDUAL
+Welchen Beruf übt Sasha Grey?#HUM_TITLE
+Welche Berufe hat Gina Wild?#HUM_TITLE
+Welchen akademischen Grad hat Vitali Klitschko?#HUM_TITLE
+Welche Titel gewann Franz Beckenbauer?#HUM_TITLE
+Welche Auszeichnung hat Elton John?#HUM_TITLE
+Wer ist Vivian Schmitt?#HUM_DESCRIPTION
+Wer war Dali?#HUM_DESCRIPTION
+Wer war Canaletto?#HUM_DESCRIPTION
+Wer ist Jan Böhmermann?#HUM_DESCRIPTION
+Wer ist Eiichiro Oda?#HUM_DESCRIPTION
+Welcher gemeinnützige Verein setzt sich in Deutschland für den Naturschutz ein?#HUM_GROUP
+Wie heißt die Firma die das iPhone herstellt?#HUM_GROUP
+Wie nennt sich der Geheimdienst Israels?#HUM_GROUP
+Von welcher Organisation war Uli Hoeneß viele Jahre Präsident?#HUM_GROUP
+Welche Gruppierung kämpfte für die Unabhängigkeit des Baskenlandes?#HUM_GROUP
+Wie heißt das Staatsoberhaupt der Mongolei?#HUM_INDIVIDUAL
+Wer ist verantwortlich für den Tod Kennedys?#HUM_INDIVIDUAL
+Welcher Mensch war der erste auf dem Mond?#HUM_INDIVIDUAL
+Welcher Schauspieler gewann mehr als drei Oscars?#HUM_INDIVIDUAL
+Wer ist die Schönste im ganzen Land?#HUM_INDIVIDUAL
+Welchen militärischen Rang hat "Snowflake" in dem Film "Full Metal Jacket"?#HUM_TITLE
+Welche Position hat Obama in der US Armee?#HUM_TITLE
+Welchen Titel trug Gandhi?#HUM_TITLE
+Welche Bezeichnung trägt Mohammed im Islam?#HUM_TITLE
+Als was arbeitete Konrad Zuse?#HUM_TITLE
+Wer ist Darth Vader?#HUM_DESCRIPTION
+Wer war Theo Albrecht?#HUM_DESCRIPTION
+Wer war Simo Häyhä?#HUM_DESCRIPTION
+Wer ist Ban Ki-Moon?#HUM_DESCRIPTION
+Wer ist Kim Yong-Un?#HUM_DESCRIPTION
+Welche Firma ist Deutschlands erfolgreichster Sportartikelhersteller?#HUM_GROUP
+Welches Unternehmen hat die meisten Marken?#HUM_GROUP
+Welcher Verband vereinigt unter seinem Dach die Schwimmverbände in den Bundesländern in Deutschland?#HUM_GROUP
+Wie heißt Deutschlands erfolgreichster Autohersteller?#HUM_GROUP
+Wie lautet die Behörde, die das international öffentliche Gesundheitswesen koordiniert?#HUM_GROUP
+Wer begründete die Relativitätstheorie?#HUM_INDIVIDUAL
+Welcher Maler zeichnete das Werk “Der Schrei”?#HUM_INDIVIDUAL
+Wer war der King of Pop?#HUM_INDIVIDUAL
+Wer ist momentan Präsident der Vereinigten Statten?#HUM_INDIVIDUAL
+Wer schrieb “Romeo und Julia”?#HUM_INDIVIDUAL
+Welchen Beruf übte Marie Curie aus?#HUM_TITLE
+Welchen militärischen Grad hatte Prinz William?#HUM_TITLE
+Welchen Beruf übt Queen Elisabeth aus?#HUM_TITLE
+Was macht Robert Kirkman als Beruf?#HUM_TITLE
+Welche Titel gewann Alexander Popov?#HUM_TITLE
+Wer ist Shakespeare?#HUM_DESCRIPTION
+Wer ist Hans Zimmer?#HUM_DESCRIPTION
+Wer war Mozert?#HUM_DESCRIPTION
+Wer war Mahatma Gandhi?#HUM_DESCRIPTION
+Wer war Martin Luther King?#HUM_DESCRIPTION
+Welche Organisation versenkte im August 2008 Granitblöcke in der Deutschen Bucht?#HUM_GROUP
+Welche Agentur entwickelte den Werbeslogan "Geiz ist geil!"?#HUM_GROUP
+Welche Unternehmen beherbergt der Main Tower in Frankfurt am Main?#HUM_GROUP
+Welche Firmen waren am Manhattan Project beteiligt?#HUM_GROUP
+Welches Architekturbüro baute das Paul-Löbe-Haus in Berlin?#HUM_GROUP
+Wer verhüllte 1995 den Reichstag in Berlin?#HUM_INDIVIDUAL
+Wer ist der erfolgreichste Apnoe-Taucher der Welt?#HUM_INDIVIDUAL
+Wer führte die erste Herztransplantation durch?#HUM_INDIVIDUAL
+Welche Staatschefs trafen sich 1945 auf der Jalta-Konferenz?#HUM_INDIVIDUAL
+Wer war 1998 CEO bei Microsoft?#HUM_INDIVIDUAL
+Was ist Mark Shuttleworth von Beruf?#HUM_TITLE
+Welche Ehrendoktortitel hat Angela Merkel?#HUM_TITLE
+Welchen Order of the British Empire besaß Peter Ustinov?#HUM_TITLE
+Welchen akademischen Titel erlangt man durch eine Dissertation?#HUM_TITLE
+Welchen militärischen Rang hat der Oberbefehlshaber der norwegischen Streitkräfte?#HUM_TITLE
+Wer ist Hercule Poirot?#HUM_DESCRIPTION
+Wer war Hildegard von Bingen?#HUM_DESCRIPTION
+Wer war der Mann mit der Eisernen Maske?#HUM_DESCRIPTION
+Wer ist Lady Gaga?#HUM_DESCRIPTION
+Wer war Andy Warhol?#HUM_DESCRIPTION
+Welches Unternehmen hat einen angebissenen Apfel als Logo?#HUM_GROUP
+Welche unternehmen sind im Tourismussegment der Lausitzer Region aktiv?#HUM_GROUP
+Welche Firma ist Deutschlands größter Bahndiensleister?#HUM_GROUP
+Welcher große Chiphersteller ist in Dresden ansässig?#HUM_GROUP
+Welche Firma hat die Restaurierungsarbeiten des Fußbodens im Rokokosaal der Herzogin Anna Amalia Bibliothek in Weimar durchgeführt?#HUM_GROUP
+Welche Personen wurden mit dem Bundesverdienstkreuz ausgezeichnet?#HUM_INDIVIDUAL
+Wer sind die aktuellen UN-Botschafter?#HUM_INDIVIDUAL
+Wer gilt als der reichste Mann der Welt?#HUM_INDIVIDUAL
+Wer ist aktuell Rektor der Technischen Universität Dresden?#HUM_INDIVIDUAL
+Wer führte die Schulpflicht in Deutschland ein?#HUM_INDIVIDUAL
+Was ist Tadao Ando ursprünglich von Beruf gewesen?#HUM_TITLE
+was war Alfred Nobel von Beruf?#HUM_TITLE
+Welchen akademischen Grad erlangte Annette Schawan?#HUM_TITLE
+Welchen Titel hat Theodor zu Gutenberg verloren?#HUM_TITLE
+Wer war Otto von Bismarck?#HUM_DESCRIPTION
+Wer ist Angela Merkel?#HUM_DESCRIPTION
+Wer war Walter Gropius?#HUM_DESCRIPTION
+Wer ist Barack Obama?#HUM_DESCRIPTION
+Wer ist Edward Snowden?#HUM_DESCRIPTION

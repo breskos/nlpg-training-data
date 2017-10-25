@@ -1,0 +1,1548 @@
+abbreviation#abbreviation#Was ist die Abkürzung von "Und so weiter"?
+abbreviation#abbreviation#Wie sagt man kürzer zu "zum Beispiel"?
+abbreviation#abbreviation#Wie ist die Abbreviation von Compact Disk?
+abbreviation#abbreviation#Wie kürzt man How I Met Your Mother ab?
+abbreviation#abbreviation#Was ist die kurze Variante von Natural Language Processing?
+abbreviation#expression#Wie sagt man zu .com?
+abbreviation#expression#Was ist die lange Form von HDD?
+abbreviation#expression#Wie sagt man länger zu StVO?
+abbreviation#expression#Gibt es eine lange Bezeichnung für HTW?
+abbreviation#expression#Was bedeutet WWF ausgeschrieben?
+description#definition#Was ist die Definition von Weltschmerz?
+description#definition#Wie definiert man Informatik?
+description#definition#Kannst du Informatik definieren?
+description#definition#Wie erklärt man Frauenparkplätze?
+description#definition#Wie definiert sich eine Qualle?
+description#description#Was ist Absinthe?
+description#description#Wie beschreibt man Tee?
+description#description#Was ist ein MacBook?
+description#description#Wie kann man das Wort Pizzeria beschreiben?
+description#description#Was ist ein Jugendstil-Bau?
+description#manner#Wie funktioniert das Studium?
+description#manner#Wie geht Basketball?
+description#manner#Wie arbeitet ein Computer?
+description#manner#Wie umkreist ein Comet die Erde?
+description#manner#Wie verhält sich jemand der Alzheimer hat?
+description#reason#Aus welchem Grund muss man sich beim Meldeamt melden?
+description#reason#Was sind die Gründe für Kopfschmerzen?
+description#reason#Was ist der Grund für Konrad Zuses Tod?
+description#reason#Was ist der Grund für den Fall der Mauer?
+description#reason#Aus welchen Gründen wurde die Vorratsdatenspeicherung beschlossen?
+entity#animal#Welches Tier ist 60kg schwer?
+entity#animal#Welche Tiere können fliegen?
+entity#animal#Welche Tiere haben Flügel und fliegen länger als 3 Stunden?
+entity#animal#Welche Tiere sind in Europa zu Hause?
+entity#animal#Welche Tiere sind leben in Südamerika?
+entity#body#In welchem Teil des Körpers wird Essen verdaut?
+entity#body#Welche Bereiche gibt es im menschlichen Gehirn?
+entity#body#Was ist der größte Muskel des Körpers?
+entity#body#Welcher Teil des Körpers beinhält das Limbische System?
+entity#body#Aus welchen Teilen besteht das menschliche Auge?
+entity#color#Welche Farbe hat einen hohen Rotanteil?
+entity#color#Welche Farbe nutzte Michelangelo bei seiner Madonna?
+entity#color#Welche Farben sind im Logo von McDonalds?
+entity#color#Was sind die Farben in der Fahne von Deutschland?
+entity#color#Wie sieht die Farbe aus, die das Meer hat?
+entity#creative#Welche Kunstwerke malte Michelangelo?
+entity#creative#Welches Gemälde ist von Canaletto?
+entity#creative#Welches Bild hat Leonardo da Vinci gemalt?
+entity#creative#Wie heißt das Bild, dass Canaletto gemalt hat?
+entity#currency#Welche Währung wird in China benutzt?
+entity#currency#Welche Währungen werden in Europa benutzt?
+entity#currency#Mit welchem Geld bezahlt man in Paraguay?
+entity#currency#Wie heißt das Geld mit dem man in China bezahlt?
+entity#currency#Welchen Namen hat das Geld mit dem man in Russland bezahlt?
+entity#medicine#Wie heißt die Krankheit die man bekommt, wenn man zu lang im kalten ist?
+entity#medicine#Wie nennt man die Krankheit, die den Tod verursacht?
+entity#medicine#Welche Krankheiten gibt es in Europa?
+entity#medicine#Welche Krankheit kommt häufig in Südamerika vor?
+entity#medicine#An was erkrankt man, bei zu viel Zucker im Blut?
+entity#event#Welches Event fand am 21.12.2012 in Berlin statt?
+entity#event#Was für ein Event findet jährlich in Dresden statt?
+entity#event#Welche Veranstaltung ist in München im Oktober?
+entity#event#Was für eine Versammlung findet im Januar in Dresden statt?
+entity#event#Wie heißt die Show von Mario Barth?
+entity#food#Welches Getränk besteht aus Vermouth und Kräutern?
+entity#food#Was ist das älteste Bier aus Deutschland?
+entity#food#Welche Getränke sind mit Rum gemacht?
+entity#food#Welche Gerichte mit Spaghetti gibt es?
+entity#food#Welches Essen mit Kartoffeln ist sehr gesund für die Gesundheit?
+entity#instrument#Welche Instrumente bestehen aus Holz?
+entity#instrument#Welches Musik-Instrument ist sehr laut?
+entity#instrument#Welche Instrumente wurden schon in der Antike gespielt?
+entity#instrument#Welches Instrument spielt im normalen Orchester?
+entity#lang#Welche Sprache wird in Paraguay gesprochen?
+entity#lang#Welche Sprachen spricht man in Europa?
+entity#lang#Welche Sprechweise herrscht in Schweden vor?
+entity#lang#Von welcher Mundart stammt das Indogermanische ab?
+entity#lang#Welche Redensart wird in Südafrika gesprochen?
+entity#letter#Welcher Buchstabe ist der älteste in der deutschen Sprache?
+entity#letter#Welche Buchstaben gibt es in der Runenschrift?
+entity#letter#Welcher Letter kommt auf der Tastatur nach A und S?
+entity#letter#Welche Schriftzeichen gibt in der chinesischen Sprache?
+entity#letter#Welches Schriftzeichen ist im McDonalds Logo?
+entity#other#Welche Videoformate gibt es?
+entity#other#Wofür hielten die Inker und Maya die Konquistadore?
+entity#other#Was hat Martin Luther an die Kirche in Wittenberg geschlagen?
+entity#other#Wie hießt das Schwert von König Arthur?
+entity#other#Was muss man tun, um ein Held zu sein?
+entity#plant#Welche Pflanze wächst bei trockenen Temmperaturen?
+entity#plant#Aus welchen Pflanzen kann man Tee machen?
+entity#plant#Welches Gewächs blüht auch im Winter?
+entity#plant#Welcher Baum wächst in Paraguay?
+entity#plant#Welche Blume kann man gut verschenken?
+entity#product#Welche Auto-Marke ist die erfolgreichste in den USA?
+entity#product#Welches Produkt ist das teuerste der Welt?
+entity#product#Welcher Artikel wird in Deutschland am häufigsten gekauft?
+entity#product#Welche Auto-Hersteller gibt es in Asien?
+entity#product#Welche Waren stellt IBM her?
+entity#religion#Welche Religionen gibt es in Asien?
+entity#religion#Welche Religion wurde von Abraham gegründet?
+entity#religion#Welche Glaubensrichtung herrscht in Israel vor?
+entity#religion#Welcher Glaube ist in den USA verbreitet?
+entity#religion#Welche religiöse Lehre herrscht in Deutschland vor?
+entity#sport#Welche Mannschaft ist die erfolgreichste in der Geschichte?
+entity#sport#Welche typischen Ballsportarten gibt es in Europa?
+entity#sport#Welche Sportart wird in Asien gespielt?
+entity#sport#Wie heißt die Sportart die im Wasser stattfindet?
+entity#sport#Welche Teams spielen in der NBA Basketball?
+entity#substance#Welches Benzin nutzen Flugzeuge?
+entity#substance#Was ist die Hauptzutat von Joghurt?
+entity#substance#Wie setzt sich Stahl chemisch zusammen?
+entity#substance#Was sind die Bestandteile von Geldmünzen?
+entity#substance#Aus welchen Bestandteilen besteht Glas?
+entity#symbol#Was ist das keltische Symbol des Lebens?
+entity#symbol#Was ist das indische Zeichen für die Sonne?
+entity#symbol#Welche Symbole benutzen die Kelten?
+entity#symbol#Welches Zeichen hat Mercedes als Logo?
+entity#symbol#Welches Kennzeichen haben die Illuminati?
+entity#technique#Wie heißt die Methode mit der man lernt zu dunken?
+entity#technique#Mit welchem Verfahren kann man Alkohol brennen?
+entity#technique#Mit welcher Vorgehensweise sind die Römer in die Schlacht gezogen?
+entity#technique#Wie heißt die Strategie von erfolgreichen Wirtschaftsfirmen?
+entity#technique#Mit welchen Taktiken haben die Römer ihre Schlachten geschlagen?
+entity#term#Wie sagt man in niederländisch "Ich liebe dich"?
+entity#term#Wie bezeichnet man einen Roboter noch?
+entity#term#Was sagt ein Deutscher zu einem Österreicher?
+entity#term#Was ist die englische Übersetzung von Kunde?
+entity#term#Wie übersetzt man Liebe ins Schwedische?
+entity#vehicle#Welche Helikopter hat die Bundeswehr?
+entity#vehicle#Welche Autos stellt BMW her?
+entity#vehicle#Wie hieß das Schiff von Christopher Columbus?
+entity#vehicle#Welches Namen hat das Auto in Knight Rider?
+entity#vehicle#Wie heißt das Auto von BMW das im Jahr 2012 herauskam?
+entity#word#Welches Wort steht am meisten auf Straßenschildern?
+entity#word#Welche Wörter stehen am Bundestag?
+entity#word#Welchen Satz sagte Barack Obama bei seiner Antrittsrede?
+entity#word#Welche Wörter waren der Inhalt der französischen Revolution?
+entity#word#Welches Wort steht für einen faulen Menschen?
+human#group#Welche Firma baute die ersten Computer?
+human#group#Welche Unternehmen haben sich direkt nach der Wende in Deutschland gegründet?
+human#group#Welche Gemeinschaft gründete sich als Geheimbund?
+human#group#Welcher Verein hat das Ziel die Tiere auf der Welt zu beschützen?
+human#group#Welche Organisationen wollen die Massentierhaltung verbieten?
+human#individual#Wer eroberte als erster Mensch Nordamerika?
+human#individual#Wer regierte die USA im Jahre 1964?
+human#individual#Welche Persönlichkeit starb im Jahre 1988?
+human#individual#Welche Menschen waren für TTIP verantwortlich?
+human#individual#Welche Person ist aktuell Präsident von Russland?
+human#title#Welchen Beruf übt Lebron James aus?
+human#title#Welche Berufe hat Hermann Hesse ausgeübt?
+human#title#Welchen akademischen Grad hat Nelson Mandela?
+human#title#Welche Titel gewann Wladimir Klitschko?
+human#title#Welchen Rang hat Barack Obama in der amerikanischen Armee?
+human#description#Wer ist Michael Schumacher?
+human#description#Wer war Monet?
+human#description#Wer war Michelangelo?
+human#description#Wer ist Karl Friedrich Schinkel?
+human#description#Wer ist Bill Gates?
+location#city#Welche Städte gibt es in Deutschland?
+location#city#Was ist die Hauptstadt von Deutschland?
+location#city#Was ist die Landeshauptstadt von Sachsen?
+location#city#Welche Stadt ist bei Christen beliebt?
+location#city#Welcher Großstadt ist bekannt für das Brandenburger Tor?
+location#country#Welches Land hat ein Ahornblatt in der Flagge?
+location#country#Welche Länder gibt es in Afrika?
+location#country#Welches Land hat die meisten Einwohner?
+location#country#Welche Länder haben den größten Wohlstand?
+location#country#Welche Länder haben die Farbe blau in der Flagge?
+location#mountain#Welcher Berg ist der größte in Europa?
+location#mountain#Welches Gebirge verläuft durch Russland?
+location#mountain#Welche Felsen gibt es in Asien?
+location#mountain#Welche Gipfel hat Südamerika?
+location#mountain#Auf welchen Berge liegt Schnee?
+location#other#Wo war der erste Übergang der Mauer?
+location#other#Wo ist der erste Zoo in Deutschland?
+location#other#Welcher Ort wird für die Freizeit in Dresden empfohlen?
+location#other#In welchem Stadion spielt Hertha BSC Berlin?
+location#other#Wo werden Silicium Chips hergestellt?
+location#state#In welchem Bundesland liegt Essen?
+location#state#In welchen Bundesländern regiert die CDU?
+location#state#In welchen Bundesländern kann man in Bars rauchen?
+location#state#Wie heißt das Bundesland in dem die Stadt Erfurt liegt?
+location#state#Was ist das größte Bundesland in Deutschland?
+numeric#code#Was ist die Postleitzahl von Erfurt?
+numeric#code#Welchen Code hat die XMXD?
+numeric#code#Welche Telefonnummer hat die Feuerwehr?
+numeric#code#Welche Telefonnummer hat die HTW Dresden?
+numeric#code#Was ist die Kennung vom Berliner Flughafen?
+numeric#count#Wieviele Menschen leben in Städten?
+numeric#count#Wieviel Eier brauche ich für einen Eiweißcocktail?
+numeric#count#Wieviel Alben verkaufte Snoop Dogg in seiner Karriere?
+numeric#count#Wie ist die Anzahl aller verkauften Bücher von 50 Shades of Grey?
+numeric#count#Wieviel Liter Bier trinkt jeder Deutsche jährlich?
+numeric#date#Wann starb Konrad Zuse?
+numeric#date#An welchem Datum fand der Mauerfall statt?
+numeric#date#Wann wurde die Mars Mission gestartet?
+numeric#date#An welchem Tag kam E.T. auf die Erde?
+numeric#date#Wann wurde Konrad Zuse geboren?
+numeric#distance#Wie groß ist die Entfernung zwischen Erde und Mars?
+numeric#distance#Wie weit ist Dresden von Berlin entfernt?
+numeric#distance#Was ist die Distanz zwischen New York und Detroit?
+numeric#distance#Wie weit sind 50cm?
+numeric#distance#Was ist die Entfernung von hier zum Mond?
+numeric#money#Wie teuer ist das neue Spiel GTA V?
+numeric#money#Wieviel kostet der BMW Gina?
+numeric#money#Was lege ich an Geld hin, wenn ich ein Marsriegel kaufe?
+numeric#money#Wie teuer war der erste Fernseher im Jahr 1990?
+numeric#money#Wieviel kostete das erste Auto von Henry Ford?
+numeric#order#Welches Kapitel von Harry Potter ist das Spannendste?
+numeric#order#Welchen Platz macht Deutschland bei den Exporten?
+numeric#order#Welchen Platz hatte Wladimir Klitschko auf der Rangliste im Jahr 2013?
+numeric#order#Welchen Rang erreichte Lena Gößling im Jahre 2014?
+numeric#order#Welche Platzierung belegten die New York Knicks in der Saison 2013?
+numeric#other#Wieviel Aktivierung hat ein Neuron wenn es feuert?
+numeric#other#Was ist der Längen- und Breitengrad von Berlin?
+numeric#other#Wieviel Leute leben in Japan?
+numeric#other#Wie hoch ist die Frequenz von VHF?
+numeric#other#Wie hoch war die Arbeitslosenzahl im Jahr 2000?
+numeric#period#Wie lang war Gerhard Schröder Bundeskanzler?
+numeric#period#Wie lang braucht das Blut, bis es durch den Kreislauf ist?
+numeric#period#Wie alt ist Konrad Zuse geworden?
+numeric#period#Wie lange dauert es bei einer durchschnittlichen Henne, bis sie 19 Eier gelegt hat?
+numeric#percent#Wieviel Prozent der deutschen Bevölkerung ist unter 20 Jahren?
+numeric#percent#Wie ist die Rate der richtigen Antworten bei Wer wird Millionär?
+numeric#percent#Welcher Anteil der deutschen Lehrer ist unter 30 Jahre?
+numeric#percent#Welche Prozentzahl erreichte die CDU bei der Wahl 2014?
+numeric#percent#Wieviel Prozent Alkohol hat Absinthe?
+numeric#speed#Wie schnell ist ein durchschnittliches Auto?
+numeric#speed#Welche Schnelligkeit erreicht ein Flugzeug?
+numeric#speed#Mit welcher Geschwindigkeit fährt ein U-Boot im Durchschnitt?
+numeric#speed#Mit welchem Tempo darf man auf deutschen Autobahnen fahren?
+numeric#speed#Wie schnell darf man in deutschen Ortschaften maximal fahren?
+numeric#temp#Wie heiß kann ein Vulcan werden?
+numeric#temp#Wieviel Grad kalt ist es an der tiefsten Stelle im Ozean?
+numeric#temp#Wie kalt war der kälteste Tag im Jahre 2010 in Deutschland?
+numeric#temp#Welche Temperatur war am 12.12.2012 in Berlin?
+numeric#temp#Wie ist die Durchschnittstemperatur in Südafrika?
+numeric#volsize#Wie groß ist Deutschland?
+numeric#volsize#Was ist das Volumen einer Coladose?
+numeric#volsize#Welchen Umfang hat das Land Sachsen?
+numeric#volsize#Welche Ausdehnung hat die Ostsee?
+numeric#weight#Wie schwer ist Dirk Nowitzki?
+numeric#weight#Wieviel wiegt eine Qualle im Durchschnitt?
+numeric#weight#Welche Masse hat ein durchschnittliches Auto?
+numeric#weight#Welches Körpergewicht hat ein Elefant?
+numeric#weight#Welche Last bringt ein ausgewachsenes Känguru auf die Waage?
+abbreviation#abbreviation#Was ist die Abkürzung von "Mit freundlichen Grüßen"?
+abbreviation#abbreviation#Wie sagt man kürzer zu "in diesem Sinne"?
+abbreviation#abbreviation#Wie ist die Abbreviation von Germanys next Topmodel?
+abbreviation#abbreviation#Wie kürzt man „Hab dich ganz doll lieb ab“?
+abbreviation#abbreviation#Was ist die kurze Variante von Enterprise Learning Management?
+abbreviation#expression#Wie sagt man zu .to?
+abbreviation#expression#Was ist die lange Form von BMI?
+abbreviation#expression#Wie sagt man länger zu StGB?
+abbreviation#expression#Gibt es eine lange Bezeichnung für CSD?
+abbreviation#expression#Was bedeutet ZDF ausgeschrieben?
+description#definition#Was ist die Definition von Instabilität?
+description#definition#Wie definiert man Lernen?
+description#definition#Kannst du Biomechanik definieren?
+description#definition#Wie erklärt man Bücher?
+description#definition#Wie definiert sich ein Haus?
+description#description#Was ist Wind?
+description#description#Wie beschreibt man Liebe?
+description#description#Was ist ein Binominalkoeffizient?
+description#description#Wie kann man das Wort Spielplatz beschreiben?
+description#description#Was ist ein Herrenhaus?
+description#manner#Wie funktioniert das Abitur?
+description#manner#Wie geht Sex?
+description#manner#Wie arbeitet ein Mechaniker?
+description#manner#Wie gehen die Ameisen?
+description#manner#Wie verhält sich ein krankes Kind?
+description#reason#Aus welchem Grund ist der Himmel blau?
+description#reason#Was sind die Gründe für Nervosität?
+description#reason#Was ist der Grund für Gaudis Tod?
+description#reason#Was ist der Grund für den zweiten Weltkrieg?
+description#reason#Aus welchen Gründen wurde die rezeptfreie Pille danach beschlossen?
+entity#animal#Welches Tier ist 100kg schwer?
+entity#animal#Welche Tiere können kriechen?
+entity#animal#Welche Tiere haben Flossen, aber haben trotzdem Lungen?
+entity#animal#Welche Tiere sind in Australien zu Hause?
+entity#animal#Welche Tiere leben in Spanien?
+entity#body#In welchem Teil des Körpers wird Alkohol abgebaut?
+entity#body#Welche Muskeln gibt es am Kopf?
+entity#body#Was sind primäre Geschlechtsorgane?
+entity#body#Welcher Teil des Körpers ist für das Sehen verantwortlich?
+entity#body#Aus wie vielen Muskeln besteht ein Unterarm?
+entity#color#Welche Farbe hat ein Blatt?
+entity#color#Welche Farbe hat eine Feuerwehr?
+entity#color#Welche Farben sind im Logo von Globalfoundries?
+entity#color#Was sind die Farben im Wappen der Stadt Hoyerswerda?
+entity#color#Wie sieht die Farbe aus, die das Blut hat?
+entity#creative#Welche Kunstwerke malte Edvard Munch?
+entity#creative#Welches Gemälde ist von Picasso?
+entity#creative#Welches Bild hat Rembrandt gemalt?
+entity#creative#Wie heißt das Bild, dass im Louvre hängt?
+entity#currency#Welche Währung wird in Taiwan benutzt?
+entity#currency#Welche Währungen werden in Asien benutzt?
+entity#currency#Mit welchem Geld bezahlt man in Kasachstan?
+entity#currency#Wie heißt das Geld mit dem man in Rumänien bezahlt?
+entity#currency#Welchen Namen hat das Geld mit dem man in Nordamerika bezahlt?
+entity#medicine#Wie heißt die Krankheit die man bekommt, wenn man seine Zähne nicht putzt?
+entity#medicine#Wie nennt man die Krankheit, die Übelkeit verursacht?
+entity#medicine#Welche Krankheiten gibt es in Australien?
+entity#medicine#Welche Krankheit kommt häufig bei Neugeborenen vor?
+entity#medicine#An was erkrankt man, zu hohem Blutdruck?
+entity#event#Welches Event findet jedes Jahr in Lärz statt?
+entity#event#Was für ein Event findet jährlich am Nürburgring statt?
+entity#event#Welche Veranstaltung ist in München im Oktober?
+entity#event#Wie heißt das das bekannteste Festival der Welt?
+entity#event#Wie heißt die Show von Serdar Somuncu?
+entity#food#Welches Getränk hält wach?
+entity#food#Was ist Antipasti?
+entity#food#Welche Getränke sind mit Wodka gemacht?
+entity#food#Welche Gerichte kann man überbacken?
+entity#food#Mit welchem Essen findet man keine Freunde?
+entity#instrument#Welche Instrumente zählen zu den Blechblasinstrumenten?
+entity#instrument#Welches Instrument ist einfach zu lernen?
+entity#instrument#Welche Instrumente kommen in „Peter und der Wolf“ vor?
+entity#instrument#Welche Rhythmusinstrumente gibt es?
+entity#instrument#Welches Instrument spielt in einer Band?
+entity#lang#Welche Sprache wird in Japan gesprochen?
+entity#lang#Welche Sprachen spricht man in Südamerika?
+entity#lang#Welche Sprache ist die häufigste auf der Welt?
+entity#lang#Aus welcher Sprachfamilie kommt die deutsche Sprache?
+entity#lang#Welche Redensart wird in China gesprochen?
+entity#letter#Welcher Buchstabe ist der häufigste in der deutschen Sprache?
+entity#letter#Welche Buchstaben gibt es in der arabischen Sprache?
+entity#letter#Welcher Letter kommt auf der Tastatur nach C und V?
+entity#letter#Welche Schriftzeichen gibt in der japanischen Sprache?
+entity#letter#Welcher Buchstabe ist der erste im Alphabet?
+entity#other#Welche Abteilungen hat eine Firma?
+entity#other#Wofür hielten die Menschen früher die Erde?
+entity#other#Was wird kürzer je länger man daran zieht?
+entity#other#Wie hießt die Eule von Harry Potter?
+entity#other#Was muss man tun, um eine Frau flachzulegen?
+entity#plant#Welche Pflanze benötigt wenig Wasser?
+entity#plant#Aus welchen Pflanzen kann man Salben machen?
+entity#plant#Welches Gewächs blüht auf dem Wasser?
+entity#plant#Welcher Baum ist der älteste der Welt?
+entity#plant#Welche Blume schenkt man seiner Liebsten?
+entity#product#Welche Fastfood-Marke ist die erfolgreichste in den USA?
+entity#product#Welches Produkt hat den meisten Markenwert?
+entity#product#Welcher Artikel wird zum Putzen der Zähne gebraucht?
+entity#product#Welche Auto-Hersteller gibt es in Deutschland?
+entity#product#Welche Waren stellt Mars her?
+entity#religion#Welche monotheistischen Religionen gibt es?
+entity#religion#Welche Religion prägte das Mittelalter?
+entity#religion#Welche Glaubensrichtung wurde von L. Ron Hubbard gegründet?
+entity#religion#Welcher Glaube ist in Japan verbreitet?
+entity#religion#Welche religiöse Lehre herrscht in Indien vor?
+entity#sport#Welches Land hat die meisten olympischen Medaillen?
+entity#sport#Welche typischen Mannschaftssportarten gibt es in Europa?
+entity#sport#Welche Sportart ist in Amerika populär?
+entity#sport#Wie heißt die Sportart die mit Wellen zu tun hat?
+entity#sport#Welche Teams spielen in der Champions League?
+entity#substance#Welches Flüssigkeit gefriert bei 0°C?
+entity#substance#Was ist die Hauptzutat für Käse?
+entity#substance#Wie setzt sich Blut chemisch zusammen?
+entity#substance#Was sind die Bestandteile von Plastik?
+entity#substance#Aus welchen Bestandteilen besteht Sperma?
+entity#symbol#Was ist das chinesische Symbol des Lebens?
+entity#symbol#Was ist das altägyptische Zeichen für die Sonne?
+entity#symbol#Welche Symbole benutzen die Germanen?
+entity#symbol#Welches Zeichen hat Apple als Logo?
+numeric#code#Welches Kennzeichen haben die markierte Produkte?
+entity#technique#Wie heißt die Methode mit der man lernt zu streiten?
+entity#technique#Mit welchem Verfahren kann man Stahl verhütten?
+entity#technique#Mit welcher Strategie haben die Alliierten den Zweiten Weltkrieg gewonnen?
+entity#technique#Wie heißt die Strategie von Unilever?
+entity#technique#Mit welcher Technik gelingt es Strom zu erzeugen?
+entity#term#Wie sagt man auf Italienisch "Ich liebe dich"?
+entity#term#Wie bezeichnet man ein Auto noch?
+entity#term#Was sagt ein Perser zu Türken?
+entity#term#Was ist die englische Übersetzung von Baum?
+entity#term#Wie übersetzt man Zorn ins Rumänische?
+entity#vehicle#Welches Flugzeug ist am 24.03.2015 abgestürzt?
+entity#vehicle#Welche Autos stellt VW her?
+entity#vehicle#Wie heißt das Auto von Batman?
+entity#vehicle#Wie hieß das Flugzeug, das mit Überschallgeschwindigkeit fliegen konnte?
+entity#vehicle#Wie heißt das größte Flugzeug der Welt?
+entity#word#Welches Wort steht bezeichnet einen Fluss in China?
+entity#word#Welche Wörter stehen in einem Kalender?
+entity#word#Welchen Satz sagte John F. Kennedy bei seiner Rede in Berlin?
+entity#word#Welche Wörter waren der Inhalt des amerikanischen Freiheitsvertrages?
+entity#word#Welches Wort steht für einen schlechten Witz?
+human#group#Welche Partei steht in Deutschland für Umweltschutz?
+human#group#Welche Unternehmen gibt es in Dresden
+human#group#Welche Orden gibt es heute noch?
+human#group#Welcher Verein setzt sich für den Umweltschutz ein?
+human#group#Welche Organisationen setzen sich für die Massentierhaltung ein?
+human#individual#Wer betrat als erster Mensch den Mond?
+human#individual#Wer schrieb Harry Potter?
+human#individual#Welche Persönlichkeit hat am 18. Oktober Geburtstag?
+human#individual#Welche Menschen setzen sich gegen Ausländer ein?
+human#individual#Welche Person ist aktuell in den Medien präsent?
+human#title#Welchen Beruf übt Sasha Grey?
+human#title#Welche Berufe hat Gina Wild?
+human#title#Welchen akademischen Grad hat Vitali Klitschko?
+human#title#Welche Titel gewann Franz Beckenbauer?
+human#title#Welche Auszeichnung hat Elton John?
+human#description#Wer ist Vivian Schmitt?
+human#description#Wer war Dali?
+human#description#Wer war Canaletto?
+human#description#Wer ist Jan Böhmermann?
+human#description#Wer ist Eiichiro Oda?
+location#city#Welche Städte gibt es in Russland?
+location#city#Was ist die Hauptstadt von Kasachstan?
+location#city#Was ist die Landeshauptstadt von Brandenburg?
+location#city#Welche Stadt ist bei Muslimen beliebt?
+location#city#Welche Stadt ist bekannt für die Band Kraftklub?
+location#country#Welches Land die größte Fläche?
+location#country#Welche Länder gibt es in Asien?
+location#country#Welches Land hat den niedrigsten Lebensstandard?
+location#country#Welche Länder haben mehr Frauen als Männer?
+location#country#Welche Länder haben die Farbe Grün in der Flagge?
+location#mountain#Welcher Berg ist der größte der Welt?
+location#mountain#Welches Gebirge liegt in Sachsen?
+location#mountain#Welche Felsen gibt es in Europa?
+location#mountain#Welche Gipfel zählen zu den gefährlichsten der Welt?
+location#mountain#Auf welchen gibt es einen Lift?
+location#other#Wo ist Stalin begraben?
+location#other#Wo ist die älteste Universität Deutschlands?
+location#other#Welcher Ort liegt auf einem Berg?
+location#other#In welchem Stadion spielt der 1. FC Köln?
+location#other#Wo werden Snickers hergestellt?
+location#state#In welchem Bundesland liegt Kassel?
+location#state#In welchen Bundesländern regiert die SPD?
+location#state#In welchen Bundesländern kann man in Bars nicht rauchen?
+location#state#Wie heißt das Bundesland in dem die Stadt Köln liegt?
+location#state#Was ist das kleinste Bundesland in Deutschland?
+numeric#code#Was ist die Postleitzahl von Hamburg?
+numeric#code#Welche Telefonnummer hat der Bundeskanzler?
+numeric#code#Wer hat die Telefonnummer 110?
+numeric#code#Welche Telefonnummer hat die TU Dresden?
+numeric#code#Was ist die Kennung vom Dresdener Flughafen?
+numeric#count#Wieviele Menschen leben auf Inseln?
+numeric#count#Wieviel Zucker verträgt ein Mensch am Tag?
+numeric#count#Wieviel Alben verkaufte Money Boy in seiner Karriere?
+numeric#count#Wie ist die Anzahl aller verkauften Bücher von Die Stadt der träumenden Bücher?
+numeric#count#Wieviel Liter Wodka trinkt jeder Deutsche jährlich?
+numeric#date#Wann starb Elvis Presley?
+numeric#date#An welchem Datum endete der Zweite Weltkrieg?
+numeric#date#Wann wurde Amerika entdeckt?
+numeric#date#An welchem Tag tötete sich Kurt Cobain?
+numeric#date#Wann wurde Roman Herzog geboren?
+numeric#distance#Wie groß ist die Entfernung zwischen Dortmund und Düsseldorf?
+numeric#distance#Wie weit ist Köln von Barcelona entfernt?
+numeric#distance#Was ist die Distanz zwischen Kiew und Rostock?
+numeric#distance#Wie weit sind 100km?
+numeric#distance#Was ist die Entfernung von hier zum Mars?
+numeric#money#Wie teuer ist das Spiel Skyrim?
+numeric#money#Wieviel kostet ein VW Golf?
+numeric#money#Was bezahle ich für eine Packung Kondome von Ritex?
+numeric#money#Wie teuer war der erste PC?
+numeric#money#Wieviel kostete das erste gedruckte Buch?
+numeric#order#Welches Staffel von Dragon Ball Z ist die letzte?
+numeric#order#Welchen Platz macht China bei den Exporten?
+numeric#order#Welchen Platz hatte Bayern München Ende 2014 in der Bundesliga?
+numeric#order#Welchen Rang erreichte Richard Freitag im Jahre 2014?
+numeric#order#Welche Platzierung belegte Erzgebirge Auein der Saison 2013?
+numeric#other#Wieviel Grad benötigt Wasser um zu verdampfen?
+numeric#other#Was ist der Längen- und Breitengrad von Dörgenhausen?
+numeric#other#Wieviel Leute leben in Chile?
+numeric#other#Wie hoch ist die Zugspitze?
+numeric#other#Wie hoch war die Arbeitslosenzahl im Jahr 2010?
+numeric#period#Wie lang war Helmuth Schmidt Bundeskanzler?
+numeric#count#Wie viele Tage hat ein Jahr?
+numeric#period#Wie alt ist Amy Winehouse geworden?
+numeric#period#Wie lange dauert es im Durchschnitt bis eine Frau zum Orgasmus kommt?
+numeric#percent#Wieviel Prozent der deutschen Bevölkerung masturbiert mehrmals am Tag?
+numeric#percent#Wie ist die Rate der Toten bei Langstreckenflügen?
+numeric#percent#Welcher Anteil der deutschen Lehrer ist unter 40 Jahre?
+numeric#percent#Welche Prozentzahl erreichte die FDP bei der Wahl 2014?
+numeric#percent#Wieviel Prozent Alkohol hat Jägermeister?
+numeric#speed#Wie schnell ist ein durchschnittliches Containerschiff?
+numeric#speed#Welche Schnelligkeit erreicht ein Gepard?
+numeric#speed#Mit welcher Geschwindigkeit fährt ein Omnibus im Durchschnitt?
+numeric#speed#Mit welchem Tempo darf man auf deutschen Bundesstrassen fahren?
+numeric#speed#Wie schnell kann ein ICE werden?
+numeric#temp#Wie heiß ist die Sonne?
+numeric#temp#Wieviel Grad hat flüssiger Stickstoff?
+numeric#temp#Wie kalt war der kälteste Tag im Jahre 2013 in Deutschland?
+numeric#temp#Welche Temperatur war am 09.03.2013 in Düsseldorf?
+numeric#temp#Wie ist die Durchschnittstemperatur in Japan?
+numeric#volsize#Wie groß ist Russland?
+numeric#volsize#Was ist das Volumen einer Plastetüte?
+numeric#volsize#Welchen Umfang hat die Stadt Dresden?
+numeric#volsize#Welche Ausdehnung hat der Pazifik?
+numeric#weight#Wie schwer ist Brad Pitt?
+numeric#weight#Wieviel wiegt ein Nashorn im Durchschnitt?
+numeric#weight#Welche Masse hat ein ausgewachsener Blauwal?
+numeric#weight#Welches Körpergewicht hat ein Warzenschwein?
+numeric#weight#Welche Last bringt ein durchschnittlicher Medizinstudent auf die Waage?
+abbreviation#abbreviation#Was ist die Abkürzung von Abkürzung?
+abbreviation#abbreviation#Was ist das Kennzeichen von Belgien?
+abbreviation#abbreviation#Wie schreibt man "Um Antwort wird gebeten" kürzer?
+abbreviation#abbreviation#Wie wäre eine kurze Variante von "Kraftfahrzeug"?
+abbreviation#abbreviation#Was könnte eine Abkürzung von "Wirtshaus für Tiere" sein?
+abbreviation#expression#Was bedeutet "MfG" ausgeschrieben?
+abbreviation#expression#Was ist die lange Form von ATF?
+abbreviation#expression#Was bedeutet die Abkürzung K.O.?
+abbreviation#expression#Welchen Sinn hat die Buchstabenkombination GEMA?
+abbreviation#expression#Was ist die Langform von UNESCO?
+description#definition#Was ist die Definition von Gerechtigkeit?
+description#definition#Wie definierst du dich?
+description#definition#Was macht ein Erste-Welt-Land aus?
+description#definition#Definiere den Begriff Roboter.
+description#definition#Wie wird die Mehrzahl im Deutschen gebildet?
+description#description#Was ist ein Blue Screen?
+description#description#Wie sieht eine Universität von innen aus?
+description#description#Wie schmeckt Pizza?
+description#description#Was ist das tolle an dem iPhone?
+description#manner#Wie funktioniert Mathematik?
+description#manner#Wie kann man eine Kugel wenden?
+description#manner#Wie sollte man eine Mango öffnen um besser an das Fruchtfleisch zu gelangen?
+description#manner#Wie gelangt man auf das Dach eines Hauses wenn es keine Feuerleiter gibt?
+description#manner#Wie läuft ein Pingiun?
+description#reason#Aus welchem Grund hat Hong Kong immer noch keine eigene Regierung?
+description#reason#Warum ist ein Mac besser als ein PC?
+description#reason#Wieso muss eine einflussreiche Person, die Millionen an Steuern hinterzieht, nicht genauso ins Gefängnis wie jeder normale Bürger der dies täte?
+description#reason#Was spricht für den Mindestlohn?
+description#reason#Gibt es einen Grund weshalb Windows für ein Update neu starten muss?
+entity#animal#Welches ist das schnellste Tier der Welt?
+entity#animal#Welche Tiere haben existiert, die schwerer als 10 Tonnen waren?
+entity#animal#Welche Dinosaurier konnten fliegen?
+entity#animal#Welche Tierarten können sowohl schwimmen, laufen, als auch fliegen?
+entity#animal#Zu welcher Gattung gehören Pferde?
+entity#body#Welche Körperteile durchwandert eine Pizza wenn man sie isst?
+entity#body#An welchen Stellen bildet sich am häufigsten Krebs bei Frauen?
+entity#body#Welcher Körperteil einer Qualle ist nicht transparent?
+entity#body#Welches ist das größte Organ des Menschen?
+entity#body#An welchem Organ kann man am meisten Hitze ertragen?
+entity#color#Welche Farbe hat Wasser?
+entity#color#In welchen Farben gibt es Crystal Meth?
+entity#color#Welchen Farbton hat das Blaue Wunder in Dresden wirklich?
+entity#color#Was ist die beliebteste Lieblingsfarbe?
+entity#color#Was kommt dabei heraus, wenn man rot und blau mischt?
+entity#creative#Wie heißt nochmal das berühmte Deckengemälde in der Sixtinischen Kapelle?
+entity#creative#Welches berühmte Bild von Leonardo da Vinci ist im Louvre ausgestellt?
+entity#creative#Welche Gemälde malte Picasso?
+entity#creative#Für welches Werk ist Dali bekannt?
+entity#creative#Was ist das kleinste Bild der Welt?
+entity#currency#Welche Währung benutzen die Menschen auf der Krim?
+entity#currency#Welche Währungen haben den Cent als Münzeinheit?
+entity#currency#Welches Geld haben die Leute in Neufundland eigentlich?
+entity#currency#Mit welchem Geld bezahlt man in Schottland?
+entity#currency#Was ist die wertloseste Währung der Welt?
+entity#medicine#Welche Epidemie ist derzeit in Afrika ausgebrochen?
+entity#medicine#Was hilft gegen Kopfschmerzen?
+entity#medicine#Wogegen hilft Aspirin?
+entity#medicine#Welches Virus verursacht AIDS?
+entity#event#Wie heißt die Show von Dave Chapelle?
+entity#event#Wie heißt dieses großartige Musikfestival in Mecklenburg-Vorpommern?
+entity#event#Welche Metal-Festivals gibt es nächstes Jahr in Deutschland?
+entity#event#Was ist die beliebteste Fernsehshow in Amerika?
+entity#event#Welche Konzerte gab es in Dresden 2013?
+entity#food#Was gibt es bei McDonalds zu Essen?
+entity#food#Was isst man in China?
+entity#food#Was kann man nur sehr schwer mit Stäbchen essen?
+entity#food#Welche Genussmittel verursachen mutmaßlich Krebs?
+entity#food#Was gibt es in Italien leckeres zu essen?
+entity#instrument#Was sind die Instrumente, die am schwersten zu erlernen sind?
+entity#instrument#Welche Holzblasinstrumente gibt es?
+entity#instrument#Welche Instrumente haben Saiten?
+entity#instrument#Welches Zupfinstrument hat 4 Saiten?
+entity#lang#Was spricht man in Südamerika?
+entity#lang#Welche Dialekte gibt es in Deutschland?
+entity#lang#Welche Sprachen spricht Angela Merkel?
+entity#lang#Welche Fremdsprachen werden in Berliner Mittelschulen gelehrt?
+entity#lang#Welche Redensarten gibt es in den Baltischen Staaten?
+entity#letter#Womit beginnt das Alphabet im Chineschen?
+entity#letter#Welche Buchstaben hat das Wort Ente wenn man E nicht mitzählt?
+entity#letter#Welcher ist der letzte Buchstabe des Wortes so?
+entity#letter#Welche Schriftzeichen sind im Deutschen zwar geläufig, jedoch im ASCII Zeichensatz nicht enthalten?
+entity#letter#Welches ist der häufigste Buchstabe in er deutschen Sprache?
+entity#other#Welchen Arbeitstitel trägt Windows 10?
+entity#other#Welches Musikstück von Thomas Bergersen wurde auf der Eröffnungszeremonie der Fußballweltmeisterschaft 2014 gespielt?
+entity#other#Wofür kämpften die Rebellen in der französischen Revolution?
+entity#other#Womit brachte Neo die Matrix zu Fall?
+entity#other#Was wird zu Ostern für Kinder versteckt?
+entity#plant#Welche noch existierende Baumart stellt den höchsten Baum der Welt?
+entity#plant#Welche Pilze sind giftig?
+entity#plant#Welche beliebte Knollenpflanze brachte Christoph Columbus nach Europa?
+entity#plant#Wie nennt man die Frucht des Kaktus?
+entity#plant#Wie nennt sich die Pflanzengattung der Engelstrompete?
+entity#product#Gibt es ein Handy dessen Akku länger als einen Tag hält?
+entity#product#Welche ist die teuerste Uhrenmarke der Welt?
+entity#product#Welchen Gegenstand braucht man zum Golf spielen?
+entity#product#Mit welchem Eingabegerät bedient man Computer?
+entity#product#Was benutzt man zum Zähne putzen?
+entity#religion#Gibt es eine Religion in der man einer Ziege dient?
+entity#religion#Welche Sekten-Ausgründungen des Christentums gibt es?
+entity#religion#Welche religiöse Gruppe trägt ein Nudelsieb als Kopfbedeckung? 
+entity#religion#Welche Glaubensrichtung wurde von L. Ron Hubbard gegründet?
+entity#religion#Welche Religion ist die richtige für mich als Student?
+entity#sport#In welcher Mannschaftssportart wurde Deutschland 2014 Weltmeister?
+entity#sport#Von welcher Sportart ist die WTF der Dachverband?
+entity#sport#Welche Ballsportart lässt sich auch gut im Wasser spielen?
+entity#sport#Bei welchem Spiel braucht man einen Ball, ein Netz, und Sand?
+entity#sport#Wie heißt eine japanische Kampfsportart bei der Kutten getragen werden und man versucht den Gegner auf den Rücken zu werfen?
+entity#substance#Woraus besteht Feuer?
+entity#substance#Wie setzt sich die Sonne chemisch zusammen?
+entity#substance#Welches Element entsteht bei der Spaltung von Uran 238?
+entity#substance#Was ist der Hauptbestandteil von einer handelsüblichen Batterie?
+entity#substance#Aus welchen Elementen besteht Chlorophyll?
+entity#symbol#Welche Symbole sind vom deutschen Verfassungsschutz verboten?
+entity#symbol#Welches Zeichen wird häufig zur Kennzeichnung für Währungen genutzt?
+entity#symbol#Mit welchem Zeichen wird in europäischen Sprachen das Ende eines Satzes gekennzeichnet?
+entity#symbol#Womit wird in Notenheften eine Pause in einem Musikstück markiert?
+entity#symbol#Wie nennt man das umgekehrte Ausrufezeichen welches im Spanischen existiert?
+entity#technique#Mit welcher Technik kann man Ziegel mit der Hand zerbrechen?
+entity#technique#Wie heißt die Methode um Schnaps herzustellen?
+entity#technique#Was ist Chuck Norris' berühmteste Kampftechnik?
+entity#technique#Mit welcher Technik der maschinellen Lernens kann ein Agent durch Ausprobieren von Aktionen seine Strategie verbessern?
+entity#technique#Welche Strategie hilft beim Lernen für Klassenarbeiten?
+entity#term#Wie bezeichnet man eine Regierungsform in der zwar eine Familie das Land symbolisch regiert, die Tagespolitik aber von gewählten Volksvertetern übernommen wird?
+entity#term#Wie sagt man zu dem Trick um jemanden mit dem Arm auf dem Rücken zu fixieren?
+entity#term#Wie sagen Mexikaner zu weißen Nordamerikanern?
+entity#term#Was sind spanische Flüche?
+entity#term#Wie nennt sich dieser kleine Zipfel der manchmal zwischen zwei Erdnusshälften ist?
+entity#vehicle#Wie hieß das Flugzeug mit dem die erste Atombombe abgeworfen wurde?
+entity#vehicle#Welches Kreuzfahrtschiff ging 1912 an einem Eisberg zu bruch?
+entity#vehicle#Was war der Name der ersten Raumstation im Weltall?
+entity#vehicle#Mit welchem Transportmittel werden Astronauten ins Weltall befördert?
+entity#vehicle#Welche Bezeichnugn tragen die pferdebetriebenen Fahrzeuge, die auch heute noch in Paraguay eingesetzt werden?
+entity#word#Welcher Schriftzug war über dem Eingangstor zum Konzentrationslager Buchenwald zu lesen?
+entity#word#Welche Worte sagte Faust zu Mephisto in Auerbachs Keller?
+entity#word#Mit welchen Worten leitete Martin Luther King seine berühmte Rede ein?
+entity#word#Welche Worte sind die ersten die ein Baby lernt zu sprechen?
+entity#word#Welches Wort merkiert den Ausgang auf dem Hauptahnhof in Prag?
+human#group#Welcher gemeinnützige Verein setzt sich in Deutschland für den Naturschutz ein?
+human#group#Wie heißt die Firma die das iPhone herstellt?
+human#group#Wie nennt sich der Geheimdienst Israels?
+human#group#Von welcher Organisation war Uli Hoeneß viele Jahre Präsident?
+human#group#Welche Gruppierung kämpfte für die Unabhängigkeit des Baskenlandes?
+human#individual#Wie heißt das Staatsoberhaupt der Mongolei?
+human#individual#Wer ist verantwortlich für den Tod Kennedys?
+human#individual#Welcher Mensch war der erste auf dem Mond?
+human#individual#Welcher Schauspieler gewann mehr als drei Oscars?
+human#individual#Wer ist die Schönste im ganzen Land?
+human#title#Welchen militärischen Rang hat "Snowflake" in dem Film "Full Metal Jacket"?
+human#title#Welche Position hat Obama in der US Armee?
+human#title#Welchen Titel trug Gandhi?
+human#title#Welche Bezeichnung trägt Mohammed im Islam?
+human#title#Als was arbeitete Konrad Zuse?
+human#description#Wer ist Darth Vader?
+human#description#Wer war Theo Albrecht?
+human#description#Wer war Simo Häyhä?
+human#description#Wer ist Ban Ki-Moon?
+human#description#Wer ist Kim Yong-Un?
+location#city#In Welche Stadt steht der Eiffelturm?
+location#city#Was ist die Hauptstadt Taiwans?
+location#city#Welche ist die größte Stadt Sachsens?
+location#city#In welcher Stadt wurde Adolf Hitler geboren?
+location#city#Wo fanden die Olymischen Winterspiele 1972 statt?
+location#country#In welchen Ländern ist Mariuhana legal erwerblich?
+location#country#In welchem Land essen sie Hunde?
+location#country#Welches Land hat die glücklichsten Einwohner?
+location#country#Welches europäische Land liegt vollständig auf einer Insel?
+location#country#Von welchem Staat war Nelson Mandela Präsident?
+location#mountain#Welches Gebirge trennt die iberische Halbinsel von Europa?
+location#mountain#Wie heißt der zweithöchste Gipfel der Welt?
+location#mountain#Zu welchem Gebirgsmassiv gehört der Mount Everest?
+location#mountain#Die Nordwand welches Berges wurde von Heinrich Harrer erstbestiegen?
+location#mountain#Wie nennt sich die hächste Erhebung Argentiniens?
+location#other#Wo gibt es das billigste Essen?
+location#other#Welches Restaurant hat das beste Eisbein in Dresden?
+location#other#An welchem Ort wurde die Berliner Mauer zuerst geöffnet?
+location#other#Wo lebt Michael Schumacher heute?
+location#other#Wo ist Stonehenge?
+location#state#In welchen Bundesstaaten der USA kann man Gras kaufen?
+location#state#Welche Staaten der USA haben die Todesstrafe?
+location#state#Wie heißt das kleinste Bundesland Deutschlands?
+location#state#In welchem Bundesland liegt Berlin?
+location#state#Welche autonomen Regionen hat Spanien?
+numeric#code#Welche Kontonummer hat das Deutsche Rote Kreuz?
+numeric#code#An welche Postleitzahl muss ein Brief gesendet werden damit er in Dresden Löbtau ankommt?
+numeric#code#Welches Postfach hat die HTW?
+numeric#code#Was ist der Hexadezimalcode der Farbe Rot in RGB?
+numeric#code#Welches Autokennzeichen hat Finnland?
+numeric#count#Wieviele Sprachen muss man sprechen um bilinugual zu sein?
+numeric#count#Wie hoch ist die Zahl der jährlichen tödlichen Verkehrsunfälle in Europa?
+numeric#count#Wie viele Ohren hat der Mensch?
+numeric#count#Wie hoch war die Arbeitslosenzahl 2011 in Portugal?
+numeric#date#Wann fand die erste Mondlandung statt?
+numeric#date#In welchem Jahr wurden die USA unabhängig?
+numeric#date#An welchem Tag ist Weihnachten?
+numeric#date#Wann hat Konrad Zuse Geburtstag?
+numeric#date#Wie lautet das Sterbedatum von Konrad Zuse?
+numeric#distance#Wie weit ist es von Kamerun bis Kenia?
+numeric#distance#Wie groß ist der Abstand zwischen Erde und Sonne?
+numeric#distance#Wie weit ist Dreden von Berlin entfernt?
+numeric#distance#Wie groß ist die Distanz zwischen Wittichenau und dem Mond?
+numeric#money#Was kostet die Welt?
+numeric#money#Was muss man für ein iPhone bei Ebay bezahlen?
+numeric#money#Wieviel kostet ein Kaffee bei Starbucks?
+numeric#money#Wie teuer ist ein Haus mindestens?
+numeric#money#Wie erschwinglich ist ein Heimroboter?
+numeric#order#Welche Tabellenpostition in der Bundesliga belegt Dortmund gerade?
+numeric#order#Welchen Platz gewann Michael Schumacher in der Formel 1 2006?
+numeric#order#In welchem Stockwerk des A-Gebäudes ist die Gründerschmiede?
+numeric#order#Welchen Rang hat Bolivien auf der Armutsliste?
+numeric#order#Auf welcher Seite beginnt ein jedes Buch?
+numeric#other#Wie hoch ist die Frequenz von rotem Licht?
+numeric#other#Was ist die Wahrscheinlichkeit vom Blitz getroffen zu werden?
+numeric#other#Wieviel Strahlung kann der Mensch vertragen?
+numeric#other#Wie hoch ist die Dosis der Strahlung die man auf einen Transatrlantikflug abbekommt?
+numeric#other#Wie sauber sind unsere Füsse?
+numeric#period#Wie lange währte der dreißigjährige Krieg?
+numeric#period#Wie viele Semester ist die Regelstudienzeit für Germanistik an der TU Dresden?
+numeric#period#Wie hoch ist die Lebenserwartung in Japan?
+numeric#period#Wie lange dauert es GTA V durchzuspielen?
+numeric#period#Wie lang verweilt ein Menschliches Baby im Bauch der Mutter?
+numeric#percent#Wie hoch ist die Sterblichkeitsrate bei Hundewelpen?
+numeric#percent#Wie hoch ist der Anteil der Menschen in Deutschland mit Abitur?
+numeric#percent#Aus wie viel Prozent Wasserstoff besteht die Sonne?
+numeric#percent#Wieviel Alkohol ist in Wodka?
+numeric#percent#Wie hoch ist der Salzgehalt der Ostsee?
+numeric#percent#Wie groß ist der Teil der Beölkerung Argentiniens der auf dem Land lebt?
+numeric#speed#Wie schnell ist eine Schnecke?
+numeric#speed#Was ist die Maximalgeschwindigkeit innerorts?
+numeric#speed#Was ist die Mindestgeschwindigkeit die ein Objekt benötigt um die Erdathmosphäre zu verlassen?
+numeric#speed#Wie hoch ist das Tempolimit auf italienischen Autobahnen?
+numeric#speed#Ab wieviel KmH zu viel gibt es Punkte in Flensburg?
+numeric#temp#Wie hoch ist die Durschnittstemperatur im Sommer in Luxemburg?
+numeric#temp#Ab wieviel Grad verdampft Wasser?
+numeric#temp#Wie hoch ist Zimmertemperatur?
+numeric#temp#Wie kalt ist der kälteste Ort der Welt?
+numeric#temp#Ab welcher Temperatur beginnt Fieber?
+numeric#volsize#Wie hoch ist der Mount Everest?
+numeric#volsize#Wie viele Liter sind eine Gallone?
+numeric#volsize#Wie groß ist die Landfläche Chinas?
+numeric#volsize#Wie breit ist der Ärmelkanal?
+numeric#volsize#Wie hoch ist der Radius des Mondes?
+numeric#weight#Wie viel wiegt ein Pulsar?
+numeric#weight#Auf wie viele Kilogramm bringt es Sigmar Gabriel?
+numeric#weight#Wie fett ist Reiner Calmund?
+numeric#weight#Was wiegt ein Elefant?
+numeric#weight#Welche Masse hat ein Elektron?
+abbreviation#abbreviation#Wie lautet die Abkürzung von Hennes und Mauritz?
+abbreviation#abbreviation#Wie ist die Kurzform von Game of thrones?
+abbreviation#abbreviation#Wie wird Master of Arts abgekürzt?
+abbreviation#abbreviation#Wie ist die Kurzform von Desoxyribonukleinsäure?
+abbreviation#abbreviation#Wie lautet die Abkürzung von Periduralanästhesie?
+abbreviation#expression#Wie lautet die Langform von Dipl.-Wirt.-Ing.?
+abbreviation#expression#Was bedeutet FH ausgeschrieben?
+abbreviation#expression#Was bedeutet rofl?
+abbreviation#expression#Wie ist die Langform von HIM?
+abbreviation#expression#Was heißt SEO ausgeschrieben?
+description#definition#Wie wird Liebe definiert?
+description#definition#Durch was definiert sich eine Sonnenfinsternis?
+description#definition#Wie lautet die Definition von Kunst?
+description#definition#Wie definiert man Geisteskrankheit?
+description#definition#Wie erklärt man Loyalität?
+description#description#Was ist Politik?
+description#description#Was ist eine Programmiersprache?
+description#description#Wie ist Empathie?
+description#description#Was ist ein Choleriker?
+description#description#Was ist Naturheilkunde?
+description#manner#Wie ist das Verhalten eines bipolar gestörten Menschen?
+description#manner#Wie funktioniert ein Funkwecker?
+description#manner#Wie werden Einschaltquoten von TV Sendungen ermittelt?
+description#manner#Wie entstehen Krebszellen im Körper?
+description#manner#Wie entschlüsselt man Hieroglyphen?
+description#reason#Warum dauert es so lange bis das Licht der Sonne auf die Erde trifft?
+description#reason#Warum entstehen schwarze Löcher?
+description#reason#Was ist der Grund für fehlende Empathie?
+description#reason#Wieso werden Tierquäler nicht weggesperrt?
+description#reason#Weshalb verliert das Ökosystem sein Gleichgewicht?
+entity#animal#Welche Tiere sind Spinnentiere?
+entity#animal#Welche Tiere sind nachtaktiv?
+entity#animal#Welches Tier lebt in der Arktis?
+entity#animal#Welches Tier ist schwerer als eine Tonne?
+entity#animal#Welche Tiere sind vom aussterben bedrohte Arten?
+entity#body#Welches ist das kleinste Organ des menschlichen Körpers?
+entity#body#Welche Körperbestandteile/Organe sind irreparabel?
+entity#body#Welche Körperteile sind bei Vampiren beliebt?
+entity#body#Welche Körperbestandteile beinhalten Eiweiß?
+entity#body#Welches Körperteil besitzt die meisten Bakterien?
+entity#color#Welche Farbe hat die Nacht?
+entity#color#Wie heißt die Farbe im Telekom Logo?
+entity#color#Welche Farben sieht man in einem Kaleidoskop?
+entity#color#Mit welcher Farbe wird die Liebe in Verbindung gebracht?
+entity#color#Welche Farben kann eine Katze unterscheiden?
+entity#creative#Welches Bild zeichnete Edvard Munch?
+entity#creative#Welche Gemälde zeichnete Salvador Dalí?
+entity#creative#Welches Kunstwerk zeichnete van Gogh?
+entity#creative#Welche Bilder sind von Victoria Frances?
+entity#creative#Welches Werk entwarf Joan Miró?
+entity#currency#Wie heißt die Währung in Kanada?
+entity#currency#Mit was bezahlt man in Japan?
+entity#currency#Welche Währung hat Grönland?
+entity#currency#Wie heißt die Währung in Kuba?
+entity#currency#Welche Währung wird in auf den Galapagos Inseln benutzt?
+entity#medicine#Welche Krankheiten wurden im Laufe der Jahre ausgerottet?
+entity#medicine#Welche Krankheit verläuft immer tödlich?
+entity#medicine#Welche Krankheiten gibt es in Afrika?
+entity#medicine#Welche Medikamente werden bei Diabetes verabreicht?
+entity#medicine#Welche Medikamente werden bei Krebs verschrieben?
+entity#event#Was für eine Veranstaltung findet jährlich in Leipzig zu Pfingsten statt?
+entity#event#Welches Event findet jährlich am ersten Juli Wochenende in Stralsund statt?
+entity#event#Was für eine Veranstaltung findet am 24.12 so gut wie weltweit statt?
+entity#event#Wie hieß die Show von Rihanna zur Tour 2013?
+entity#event#Wie hieß die geplante Show von Michael Jackson zu seinem Comeback?
+entity#food#Welches Getränk besteht zum Großteil aus Zucker?
+entity#food#Was ist die beliebteste Süßigkeit?
+entity#food#Welche Speise ist bei Kindern sehr beliebt?
+entity#food#Was isst man, wenn man krank ist, um wieder gesund zu werden?
+entity#food#In welchen Getränken ist Alkohol vorhanden?
+entity#instrument#Welche Instrumente besitzen Saiten?
+entity#instrument#Welche Instrumente werden geschlagen?
+entity#instrument#Welche Musikinstrumente gehören zu den Streichinstrumenten?
+entity#instrument#Welches ist das größte Musikinstrument?
+entity#instrument#Welches ist das älteste Musikinstrument?
+entity#lang#Welche Sprache spricht man in Kenia?
+entity#lang#Welche Sprache wird in Grönland gesprochen?
+entity#lang#Wie spricht man auf den Philippinen?
+entity#lang#Welche Sprachen werden in Kanada gesprochen?
+entity#lang#Welche Sprachen werden in Skandinavien gesprochen?
+entity#letter#Welche Buchstaben gibt es im japanischen Alphabet?
+entity#letter#Welcher Buchstabe wird am häufigsten in der deutschen Sprache benutzt?
+entity#letter#Welche Buchstaben gibt es in anderen Sprachen nicht?
+entity#letter#Welche Buchstaben kommen nicht in der deutschen Sprache vor?
+entity#letter# Welcher Buchstabe ist der jüngste der deutschen Sprache?
+entity#other#Welche Möglichkeiten gibt es Dateien zu verschlüsseln?
+entity#other#Wie wird man die Angst vor Nadeln los?
+entity#other#Was ist der leckerste Kuchen auf der Welt?
+entity#other#Gibt es den Lotuseffekt auch für menschliche Haare?
+entity#other#Kommt der Körper theoretisch gesehen auch ohne Schlaf aus?
+entity#plant#Welche Pflanzen sind Sumpfpflanzen?
+entity#plant#Was gibt es für fleischfressende Pflanzen?
+entity#plant#Welche Pflanzen sind für den Menschen giftig?
+entity#plant#Was ist der älteste Baum der Erde?
+entity#plant#Welche Pflanzen kann man essen?
+entity#product#Welche Artikel stellt Omega her?
+entity#product#Welche Produkte sind in Japan sehr beliebt?
+entity#product#Welche Artikel stellt catrice her?
+entity#product#Welche Artikel werden in den USA am häufigsten benutzt?
+entity#product#Welche Produkte sind Luxusartikel?
+entity#religion#Welche Religionen werden in Asien ausgeübt?
+entity#religion#Was ist die größte Religionsgemeinschaft?
+entity#religion#Welche Glaubensrichtung gibt es in Australien?
+entity#religion#Welcher Glaube herrscht in Afrika?
+entity#religion#Was ist die älteste Religionslehre?
+entity#sport#Welche Sportarten werden mit Bällen ausgeübt?
+entity#sport#Was gibt es für Wassersportarten?
+entity#sport#Was sind Extremsportarten?
+entity#sport#Welcher Sport findet in der Luft statt?
+entity#sport#Was ist der beliebteste Sport?
+entity#substance#Was sind die Bestandteile des Giftes einer Klapperschlange?
+entity#substance#Was ist in Nagellack enthalten?
+entity#substance#Aus was setzt sich die Flüssigkeit in Wasserwagen zusammen?
+entity#substance#Was macht Quecksilber giftig?
+entity#substance#Aus welchen Bestandteilen setzt sich saurer Regen zusammen?
+entity#substance#Aus was besteht Carbon?
+entity#symbol#Welches Symbol wird mit Satanismus in Verbindung gebracht?
+entity#symbol#Welches Symbol vereint Körper, Geist und Seele?
+entity#symbol#Wie heißt das ägyptische Symbol des ewigen Lebens? 
+entity#symbol#Welches Symbol verwenden die Christen, häufig als Aufkleber auf Autos?
+entity#symbol#Welches Symbol steht für entgegengesetzte und dennoch aufeinander bezogene Kräfte in der chinesischen Kultur?
+entity#technique#Wie heißt das biologische Verfahren, welches garantiert, dass nur die stärksten Individuen überleben?
+entity#technique#Wie heißt die Methode, bei der Bilder von beispielsweise Knochenbrüchen gemacht werden?
+entity#technique#Wie heißt die Praktik, bei der Crystal Meth hergestellt wird?
+entity#technique#Wie heißt das Verfahren der Blutreinigung bei Nierenversagen?
+entity#technique#Wie heißt die Methode, bei der Tinte mithilfe einer Nadel unter die Haut gestochen wird?
+entity#technique#Wie heißt das Verfahren, bei dem pathogene Lebewesen den menschlichen Organismus befallen?
+entity#term#Wie kann ein Klavier noch bezeichnet werden?
+entity#term#Wie sagt man zu der Schwimmart Freistil noch?
+entity#term#Wie nennt man eine Geige?
+entity#term#Wie wird das spielen von Computerspielen/Wii Spielen/Playstation etc. genannt?
+entity#term#Wie lautet die Übersetzung von Ofenkäse ins Englische?
+entity#vehicle#Was für ein Flugzeug fliegt Käptain Balu?
+entity#vehicle#Welches Auto fährt Darkwin Duck?
+entity#vehicle#Welche Autos stellt Audi her?
+entity#vehicle#Welche Flugzeuge werden auf der ILA vorgestellt?
+entity#vehicle#Welches Auto fährt Edward Cullen?
+entity#word#Welchen Satz sagte John F. Kennedy 1963, als er zu Besuch in Berlin war?
+entity#word#Welches erste Wort sagt ein Baby?
+entity#word#Welches leuchtende Wort steht auf den gelben Autos in New York?
+entity#word#Welches Wort steht auf der Verpackung mit zwei Schokoriegeln mit Karamel dauf?
+entity#word#Welches Wort steht über dem Knopf auf einer Fernbedienung, wenn ein Gerät lautlos gestellt werden soll?
+human#group#Welche Firma ist Deutschlands erfolgreichster Sportartikelhersteller?
+human#group#Welches Unternehmen hat die meisten Marken?
+human#group#Welcher Verband vereinigt unter seinem Dach die Schwimmverbände in den Bundesländern in Deutschland?
+human#group#Wie heißt Deutschlands erfolgreichster Autohersteller?
+human#group#Wie lautet die Behörde, die das international öffentliche Gesundheitswesen koordiniert?
+human#individual#Wer begründete die Relativitätstheorie?
+human#individual#Welcher Maler zeichnete das Werk “Der Schrei”?
+human#individual#Wer war der King of Pop?
+human#individual#Wer ist momentan Präsident der Vereinigten Statten?
+human#individual#Wer schrieb “Romeo und Julia”?
+human#title#Welchen Beruf übte Marie Curie aus?
+human#title#Welchen militärischen Grad hatte Prinz William?
+human#title#Welchen Beruf übt Queen Elisabeth aus?
+human#title#Was macht Robert Kirkman als Beruf?
+human#title#Welche Titel gewann Alexander Popov?
+human#description#Wer ist Shakespeare?
+human#description#Wer ist Hans Zimmer?
+human#description#Wer war Mozert?
+human#description#Wer war Mahatma Gandhi?
+human#description#Wer war Martin Luther King?
+location#city#Was ist die größte Stadt der USA?
+location#city#Wie lautet die Hauptstadt von Japan?
+location#city#In welcher Stadt fanden die olympischen Sommerspiele 1936 statt?
+location#city#In welchen Städten gibt es einen Vergnügungspark?
+location#city#Welche Städte gibt es in Schweden?
+location#country#Welche Länder sind die ärmsten in der Weltbevölkerung?
+location#country#Welches Land hat die größte Bevölkerungsdichte?
+location#country#Welches Land hat die niedrigste Bevölkerungsdichte?
+location#country#Welche Länder gibt es in Kanada?
+location#country#Welche Länder haben ein Tier in ihrer Landesflagge?
+location#mountain#Was ist der höchste Berg in Asien?
+location#mountain#Welche Gebirge gibt es in den USA?
+location#mountain#Welcher Berg hat die meisten Todesfälle?
+location#mountain#Welche Berge gibt es in Österreich zum Skifahren?
+location#mountain#Welche Berge gibt es in Deutschland?
+location#other#Wo steht das Taj Mahal?
+location#other#Welche Orte bereiste Goethe?
+location#other#Wo fand Siddhartha Gautama seine Erleuchtung?
+location#other#Wo werden Hunde und Katzen gegessen?
+location#other#Wo ist die Suizidrate am höchsten?
+location#state#In welchem Bundesland leben die meisten Einwohner?
+location#state#Welches Bundesland hat die meisten Städte?
+location#state#In welchem Staat der USA leben die dicksten Menschen?
+location#state#In welchen Staaten der USA gibt es die Todesstrafe?
+location#state#Wie heißt das Bundesland, in dem Frankfurt am Main liegt?
+numeric#code#Wie lautet die IBAN der Postbank?  
+numeric#code#Welche PLZ hat Katzenhirn?
+numeric#code#Wie lautet die Telefonnummer des Verbraucherschutzzentrums?  
+numeric#code#Wie lautet die ISBN des Buches “Der Schwarm” von Frank Schätzing?
+numeric#code#Wie lautet der Produktcode des Sims 3 Add-ons „Late Night“?
+numeric#count#Wie viele Einwohner leben in Dresden?
+numeric#count#Wie viele Stadtteile hat Berlin?
+numeric#count#Wie oft gewann Deutschland den Eurovision Songcontest?
+numeric#count#In wie viele Staaten ist die USA unterteilt?
+numeric#count#Wie viele Frauen reisten bereits ins Weltall?
+numeric#date#Wann starb John F. Kennedy?
+numeric#date#Wann wird der amerikanische Unabhängigkeitstag gefeiert?
+numeric#date#Wann ist Halloween?
+numeric#date#AN welchem Tag starb Michael Jackson?
+numeric#date#An welchem Tag betrat Armstrong den Neil Mond?
+numeric#distance#Wie viele Kilometer liegen New York und Los Angeles auseinander?
+numeric#distance#Wie tief ist der Marianengraben?
+numeric#distance#Wie hoch ist der Fujyama?
+numeric#distance#Wie weit ist es von Hoyerswerda nach Barcelona?
+numeric#distance#Wie groß ist die Entfernung zwischen Amsterdam und London?
+numeric#money#Wie teuer ist ein Nike Turnschuh?
+numeric#money#Wie viel kostet ein Plasmafernseher?
+numeric#money#Was kostete eine Kinokarte 1999?
+numeric#money#Wie hoch waren die Produktionskosten für den Film “The Dark Knight”?
+numeric#money#Wie hoch war der höchste Lottogewinn, der jemals ausgezahlt wurde?
+numeric#order#Welchen Platz belegte die deutsche Fussball Nationalmannschaft bei der Weltmeisterschaft 2004?
+numeric#order#Das wievielte Add-on war “Supernatural” der Sims 3?
+numeric#order#Welche Ordnungszahl hat Brom im Periodensystem?
+numeric#order#Welchen Rang nahm “Fifty Shades of Grey” in der Bestsellerliste ein? 
+numeric#order#Welcher Teil aus den Chroniken der Vampire war “Interview mit einem Vampir”?
+numeric#other#Auf welcher Frequenz läuft Fritz im Radio?
+numeric#other#Wie viele Lichtjahre benötigt man bis zum Pluto?
+numeric#other#Wie viele Sterne hat die Milchstraße?
+numeric#other#Wie viel Yen sind ein Euro?
+numeric#other#Wie viele Bakterien leben auf dem menschlichen Körper?
+numeric#period#Wie lange ging der Zweite Weltkrieg?
+numeric#period#Wie lange brauchte die Titanic um unterzugehen?
+numeric#period#Wie lange schrieb James Cameron an “Avatar”?
+numeric#period#Wie alt ist der älteste Mensch der Welt geworden?
+numeric#period#Wie lange dauert es, bis ein Sonnenstrahl die Erde erreicht?
+numeric#percent#Wie hoch ist die Arbeitslosenquote in Deutschland?
+numeric#percent#Wie hoch ist die Trefferquote bei Counter Strike?
+numeric#percent#Wie viel Prozent der Weltbevölkerung essen kein Fleisch?
+numeric#percent#Wie hoch ist die Suizidrate in den USA?
+numeric#percent#Wie viel Wasser bedeckt den Planeten?
+numeric#speed#Wie schnell ist ein Formel 1 Auto?
+numeric#speed#Wie schnell ist die schnellste Achterbahn?
+numeric#speed#Wie langsam ist eine Schnecke?
+numeric#speed#Wie hoch ist die Geschwindigkeit einer Raumkapsel beim Start?
+numeric#speed#Welches Tempo hat ein Gepard?
+numeric#temp#Welche Temperatur herrscht im Death Valley?
+numeric#temp#Wie kalt ist es im Weltall?
+numeric#temp#Wie warm ist ein Kaffee?
+numeric#temp#Wie hoch ist die Durchschnittstemperatur in Finnland?
+numeric#temp#Wie kalt ist das Mittelmeer?
+numeric#volsize#Welchen Umfang hat die USA?
+numeric#volsize#Wie groß kann ein Bonsai werden?
+numeric#volsize#Welches Volumen hat eine ägyptische Pyramide?
+numeric#volsize#Welches Volmen besitzt der menschliche Körper?
+numeric#volsize#Was ist der Umfang von Australien?
+numeric#weight#Wie schwer ist ein Flo?
+numeric#weight#Wie viel wiegt ein Sumoringer?
+numeric#weight#Welches Gewicht hat ein Atom?
+numeric#weight#Wie viel Kilo nimmt ein Mensch im Urlaub zu?
+numeric#weight#Wie viel wiegt eine ganze Kolonie Ameisen?        
+abbreviation#abbreviation#Wie sagt man kurz "what you see is what you get"?
+abbreviation#abbreviation#Wie lautet die Kurzform von Umweltverträglichkeitsprüfung?
+abbreviation#abbreviation#Was ist die Kurzform von Unbekanntes Flugobjekt?
+abbreviation#abbreviation#Was ist die Abkürzung von "Deutsche Mark"?
+abbreviation#abbreviation#Wie lautet "Reichsbahndirektion" abgekürzt?
+abbreviation#expression#Wofür steht ASCII?
+abbreviation#expression#Was bedeutet die Abkürzung RAF?
+abbreviation#expression#Was alles kann mit TDI abgekürzt werden?
+abbreviation#expression#Was bedeutet GHVS ausgeschrieben?
+abbreviation#expression#Wovon leitet sich BMBF ab?
+description#definition#Was versteht man unter einem Anagramm?
+description#definition#Was ist ein Portemanteau?
+description#definition#Was ist ein Herzinfarkt?
+description#definition#Was definiert man als Ambra?
+description#definition#Was ist die Definition von Netbook?
+description#description#Wie sieht ein verrosteter Nagel aus?
+description#description#Wofür stehen die Olympischen Ringe?
+description#description#Was versteht man unter einem Doppelten Palstek?
+description#description#Wozu dient die Blende in optischen Geräten?
+description#manner#Wie funktioniert ein Heizungsthermostat?
+description#manner#Wie isst man Weißwürste?
+description#manner#Wie öffnet man eine Bierflasche mithilfe eines Zollstocks?
+description#manner#Wie erzeugt man einen Ton auf einem Saxophon?
+description#manner#Wie macht man eine Schraube beim Turmspringen?
+description#manner#Wie bekämpfen Bienen einen Eindringling in ihrem Stock?
+description#reason#Warum fliegen manche Vögel in den Süden?
+description#reason#Warum kann Autofahren tödlich sein?
+description#reason#Wie kommt es, dass es Elefanten in Indien und Afrika gibt?
+description#reason#Wie kommt es, dass die Eisenbahn Vorrang hat?
+description#reason#Warum gibt es Wasser auf der Erde?
+entity#animal#Welche Tiere haben Milchzähne?
+entity#animal#Welche Tiere werden in Jurassic Park gezeigt?
+entity#animal#Welches Tier ist schlau und stellt sich dumm?
+entity#animal#Auf welchen Tieren wachsen Seepocken?
+entity#animal#Durch welche Tiere werden Lawinenopfer gefunden?
+entity#body#Durch welche Blutgefäße fließt sauerstoffarmes Blut?
+entity#body#An welcher Stelle im Körper wird Gallensaft gebildet?
+entity#body#Welche Körperteile behandelt ein HNO-Arzt?
+entity#body#Durch welche Organe kann der Mensch Schall wahrnehmen?
+entity#body#Welche Organe kann man lebend spenden?
+entity#color#Welche Farbe hatte der Mars ursprünglich?
+entity#color#Welche Farbe nimmt Kupfer an, wenn es korrodiert?
+entity#color#Wie ist die Farbe des 100-€-Scheines?
+entity#color#Welche Farben kommen im Regenbogen vor?
+entity#color#Welche Farbe hat Licht mit einer Wellenlänge von 695 Nanometer?
+entity#creative#Wie heißt die letzte Sinfonie von Mozart?
+entity#creative#Welches Stück wird bei Trauungen oft gespielt?
+entity#creative#Welche Menuette hat Bach in seiner Zeit in Leipzig komponiert?
+entity#creative#Welches Stück von Bach hat Jethro Tull gecovert?
+entity#creative#Mit welchem Stück beginnt die Oper "Willhelm Tell" von Rossini?
+entity#currency#Womit bezahlt man auf Korfu?
+entity#currency#Wie heißt die Währung in der Schweiz?
+entity#currency#Welche Währungen gibt es in der Karibik?
+entity#currency#Welche Währungen werden in Argentinien genutzt?
+entity#currency#Was ist die Währung auf Schwarzmärkten in Moskau?
+entity#medicine#Welche Krankheit hat man bei erhöhter Körpertemperatur?
+entity#medicine#Woran können Taucher erkranken?
+entity#medicine#Woran leiden beschnittene Männer häufiger?
+entity#medicine#Durch welche Krankheiten kann man erblinden?
+entity#medicine#Wie nennt man eine Erkrankung des Dickdarms?
+entity#event#Was beginnt jedes Jahr am 21. Januar?
+entity#event#Was passierte am 21. Mai 1991 in Indien?
+entity#event#Welches Ereignis gilt als Auslöser des Ersten Weltkriegs?
+entity#event#Was jährt sich an jedem 9. November in Deutschland?
+entity#event#Was wird am 1. Mai in vielen Staaten gefeiert?
+entity#food#Was isst man in Bayern für Wurst?
+entity#food#Was ist das Lieblingsessen von Barack Obama?
+entity#food#Von welchem Essen bekommt man Blähungen?
+entity#food#Welches Essen sättigt am meisten und kostet am wenigsten?
+entity#food#Welche Gerichte kann man mit Haferflocken kochen?
+entity#instrument#Welches Instrument spielt Troubadix aus Asterix und Obelix?
+entity#instrument#Welche Instrumente zählen zu den Holzblasinstrumenten, sind aber nicht aus Holz?
+entity#instrument#Welches ist das älteste Instrument?
+entity#instrument#Welche Instrumente gab es bereits, bevor die Menschen sesshaft wurden?
+entity#instrument#Worauf spielt ein Paukist?
+entity#lang#In welcher Sprache ist der Großteil von wissenschaftlichen Artikeln geschrieben?
+entity#lang#Welche europäische Sprache ist mit dem Finnischen verwandt?
+entity#lang#Welche Sprache haben die Wikinger gesprochen?
+entity#lang#Welche Sprache wird gepfiffen?
+entity#lang#Welches sind die nordischen Sprachen?
+entity#letter#Was für Buchstaben haben die Sumerer genutzt?
+entity#letter#Welcher ist der häufigste Buchstabe in deutschen Texten?
+entity#letter#Welche Buchstaben werden in der Hexadezimalschreibweise genutzt?
+entity#letter#Welcher Buchstabe weist auf die Leipziger Messe hin?
+entity#letter#Mit welchen Buchstaben können Stahlprofile beschrieben werden?
+entity#other#Welche Schriftart wird im Firmenlogo der Deutschen Bahn genutzt?
+entity#other#Was benutzen Fahrraddiebe um Bügelschlösser zu knacken?
+entity#other#Welcher Verwandtschaftsgrad bestand zwischen den deutschen Kaisern Wilhelm I. und Wilhelm II.?
+entity#other#Wie heißt die Open-Source-Variante von Adobe Photohop?
+entity#other#Mit welcher Strafe muss man rechnen, wenn man in Deutschland bei Rot über die Ampel fährt?
+entity#plant#Aus welcher Pflanze gewinnt man Kautschuk?
+entity#plant#Mit welcher Pflanze wird Weihrauch erzeugt?
+entity#plant#Wie heißen die Pflanzen, die Fliegen fangen?
+entity#plant#Wie heißen Pflanzen, die wenig Wasser brauchen?
+entity#plant#Welcher Baum wird meist angebaut, nachdem Regenwald gerodet wurde?
+entity#product#Womit kann man Cola-Fontänen erzeugen?
+entity#product#Von welcher Marke sind die Klaviere, auf denen viele Profi-Pianisten spielen?
+entity#vehicle#Welches Auto besingt Marc Cohn in einem seiner Lieder?
+entity#vehicle#In was für einem Auto wurde John F. Kennedy erschossen?
+entity#vehicle#Welches Auto haben Hippies häufig genutzt?
+entity#religion#Welcher Glauben lehrt Nächstenliebe?
+entity#religion#Welchen Glauben haben Sunniten?
+entity#religion#Zu welcher Religion gehören Synagogen?
+entity#religion#Welche Glaubensrichtungen waren im Dritten Reich verboten?
+entity#religion#In welchem Glauben war es im Mittelalter nicht verboten, Zinsen zu nehmen?
+entity#sport#Mit welchem Sport ist Michael Schumacher bekannt geworden?
+entity#sport#In welchen Sportarten gibt es Strafminuten?
+entity#sport#Welche Sportart ist 1994 olympisch geworden?
+entity#sport#Welcher Sport ist in Frankreich und Großbritannien berühmt?
+entity#sport#Welche Sportart findet im Winter im Wasser statt?
+entity#substance#Woraus besteht C4-Sprengstoff?
+entity#substance#Womit wurde Alexander Litwinenko vergiftet?
+entity#substance#Welcher Stoff wird aus Coltan-Erz gewonnen?
+entity#substance#Was entsteht beim Verbrennen von Polyvinylchlorid?
+entity#substance#Welches Schmerzmittel kann aus Weide gewonnen werden?
+entity#symbol#Was ist das astrologische Symbol für Merkur?
+entity#symbol#Womit wird eine Einbahnstraße gekennzeichnet?
+entity#symbol#Was ist das Symbol für eine leere Menge in der Mathematik?
+entity#symbol#Welches Symbol steht für Frieden?
+entity#symbol#Mit welchem Symbol wurden Homosexuelle in Konzentrationslagern gekennzeichnet?
+entity#technique#Mit welchen Verfahren wird Chlor gewonnen?
+entity#technique#Wie heißt die Methode, mit der archäologische Holzfunde datiert werden?
+entity#technique#Mit welchem Verfahren kann man die Tiefe von Gewässern messen?
+entity#technique#Mit welchem Verfahren wird Steinkohle gefördert?
+entity#technique#Wie heißt die Heilmethode, bei der Nadeln in die Haut gestochen werden?
+entity#term#Was ist ein anderes Wort für Portemanteau?
+entity#term#Wie lauten Synonyme zu "intelligent"?
+entity#term#Was ist ein bekannteres Synonym zu "Rhinoceros"?
+entity#term#Wie lautet ein bekannter Ausspruch aus Richard Fleischers "Soylent Green"?
+entity#term#Wie lautet ein Homophon zu "wagen"?
+entity#vehicle#In was für einem Auto wurde John F. Kennedy erschossen?
+entity#vehicle#Womit bewegt sich Aladin durch die Luft?
+entity#vehicle#Was für ein Gefährt war die LZ 129 "Hindenburg"?
+entity#vehicle#Womit dominierte die Wehrmacht im Zweiten Weltkrieg die See?
+entity#vehicle#Welches Flugzeug wird "Tante Ju" genannt?
+entity#word#Welche Worte stehen auf dem Pantheon in Rom?
+entity#word#Welche Redewendungen stehen häufig auf einem Grabstein?
+entity#word#Mit welchen Worten wirbt Renault?
+entity#word#Mit welchen Worten grüßte man im Antiken Rom?
+entity#word#Welches Wort verwendet man im Tennis für "Null"?
+human#group#Welche Organisation versenkte im August 2008 Granitblöcke in der Deutschen Bucht?
+human#group#Welche Agentur entwickelte den Werbeslogan "Geiz ist geil!"?
+human#group#Welche Unternehmen beherbergt der Main Tower in Frankfurt am Main?
+human#group#Welche Firmen waren am Manhattan Project beteiligt?
+human#group#Welches Architekturbüro baute das Paul-Löbe-Haus in Berlin?
+human#individual#Wer verhüllte 1995 den Reichstag in Berlin?
+human#individual#Wer ist der erfolgreichste Apnoe-Taucher der Welt?
+human#individual#Wer führte die erste Herztransplantation durch?
+human#individual#Welche Staatschefs trafen sich 1945 auf der Jalta-Konferenz?
+human#individual#Wer war 1998 CEO bei Microsoft?
+human#title#Was ist Mark Shuttleworth von Beruf?
+human#title#Welche Ehrendoktortitel hat Angela Merkel?
+human#title#Welchen Order of the British Empire besaß Peter Ustinov?
+human#title#Welchen akademischen Titel erlangt man durch eine Dissertation?
+human#title#Welchen militärischen Rang hat der Oberbefehlshaber der norwegischen Streitkräfte?
+human#description#Wer ist Hercule Poirot?
+human#description#Wer war Hildegard von Bingen?
+human#description#Wer war der Mann mit der Eisernen Maske?
+human#description#Wer ist Lady Gaga?
+human#description#Wer war Andy Warhol?
+location#city#In welchen deutschen Städten steht eine Roland-Figur?
+location#city#In welchen europäischen Städten sind Silversterböller verboten?
+location#city#Wie heißt die Stadt, in der der Eiffelturm steht?
+location#city#Welches sind die drei größten Städte in Spanien?
+location#city#Welche iberischen Städte wurden nach 1800 gegründet?
+location#country#In welchem Land führte die Textilindustrie die Industrialisierung an?
+location#country#Welche Länder gehören zur Euro-Gruppe?
+location#country#Welche asiatischen Länder waren französische Kolonien?
+location#country#Zu welchem Land gehören die Niagara-Fälle?
+location#country#Welche Länder gehören zu Australien?
+location#mountain#Welcher Berg hatte im Jahr 2012 die meisten Touristen?
+location#mountain#Auf welchem Berg in Südamerika gibt es die meisten Großteleskope?
+location#mountain#Welches ist der höchste Berg in Norwegen?
+location#mountain#Wie heißt ein für die Aborigines heiliger Berg in Australien?
+location#mountain#Welches ist der höchste Berg in Sachsen?
+location#other#Wie heißt die tiefste Stelle in Pazifik?
+location#other#In welchem Gebäude wurde Albert Einstein geboren?
+location#other#Wo liegt der geomagnetische Nordpol?
+location#other#Welcher Fluss markiert die Grenze Deutschlands zu Polen?
+location#other#Welches nichteuropäische Land gehört zu Dänemark?
+location#state#Welches Bundesland wurde erst in den 50er Jahren Teil der Bundesrepublik Deutschland?
+location#state#Welches deutsche Bundesland hat die meisten Seen?
+location#state#Welche Bundesländer sind Freistaaten?
+location#state#In welchem Bundesland liegt der Nürburgring?
+location#state#Zu welchem späteren Bundesland zählte Torgau vor der Wende?
+numeric#code#Welches Rufzeichen besitzt German Wings?
+numeric#code#Welche Tonfolge hat Johann Sebastian Bach seinem Namen entsprechend in manche Werke integriert?
+numeric#code#Welche Bezeichnung hat das Luftschiff "Hindenburg"?
+numeric#code#Welches Kennzeichen hatte die "Spirit of St. Louis"?
+numeric#code#Welches Kfz-Kennzeichen hat die Bundeswehr?
+numeric#count#Wie viele Finger hat ein Faultier?
+numeric#count#Aus wie vielen Wörtern besteht Goethes "Faust"?
+numeric#count#Wie viele NGOs existierten Ende 2014 in Deutschland?
+numeric#count#Wie viele Firmen sind am Bau des Flughafens BER beteiligt?
+numeric#count#Wie viele Stück des Airbus A320 sind aktuell im Dienst?
+numeric#date#Wann starb Albert Einsteins Mutter?
+numeric#date#An welchem Tag war die längste Sonnenfinsternis des 20. Jahrhunderts?
+numeric#date#Wann wurde Barack Obama US-Präsident?
+numeric#date#An welchem Tag passiert der Asteroid Apophis zum ersten Mal die Erde?
+numeric#date#Wann wurde der Planet Pluto zum Zwergplaneten herabgestuft?
+numeric#distance#Wie weit ist Berlin in Luftlinie von Genf entfernt?
+numeric#distance#Wie groß ist der Abstand zwischen Sonne und Mittelpunkt der Milchstraße?
+numeric#distance#Wie lang ist die Friedrichstraße in Berlin?
+numeric#distance#Wie groß ist der Tidenhub am Skagerrak?
+numeric#distance#Welchen Abstand haben die Säulen des Brandenburger Tors?
+numeric#money#Wie teuer war der Bau des Burj Dubai?
+numeric#money#Wie viel Geld hatte Känig Ludwig XIV.?
+numeric#money#Welchen Preis hat ein Brötchen in Paris?
+numeric#money#Wie teuer ist der Cappuccino im Café Sacher in Wien?
+numeric#money#Wie viel bezahlt man für einen VW Golf in Südamerika?
+numeric#order#Welchen Rang hat Deutschland bezüglich der Exporteinnahmen?
+numeric#order#Welchen Platz hat Kanada unter den wohlhabendsten Staaten der Erde?
+numeric#order#Welchen Platz muss man in der Regel belegen, um auf dem Siegertreppchen zu stehen?
+numeric#order#Welchen Rang hat der Flughafen Leipzig-Halle hinsichtlich des Frachtaufkommens?
+numeric#order#Auf welchem Platz liegt Frankreich in den Einwohnerzahlen?
+numeric#other#Was ist die Länge einer Boeing 747-400?
+numeric#other#Welchen Durchmesser hat eine Bowlingkugel?
+numeric#other#Wie tief ist der tiefste Brunnen in Deutschland?
+numeric#other#In welchem Winkel steht die Sonne am 14. Juli um 12:00 Uhr?
+numeric#other#Welchen Raumwinkel hat die Venus am erdnächsten Punkt?
+numeric#period#Wie lange dauert die längste Sonnenfinsternis im 21. Jahrhundert?
+numeric#period#Wie lange war Benedikt XVI. im Amt?
+numeric#period#Wie lange ist ein Joint im Blut nachweisbar?
+numeric#period#Wie lange dauern die Sommerferien in Österreich?
+numeric#period#Wie alt kann ein Weißer Hai werden?
+numeric#percent#Welchen Anteil haben Frauen in der Bundeswehr?
+numeric#percent#Wie hoch ist der Spitzensteuersatz in Deutschland?
+numeric#percent#Welcher Anteil hat Krebs als Todesursache in Deutschland?
+numeric#percent#Wieviel Prozent der deutschen Ackerfläche wurden 2014 für Mais genutzt?
+numeric#percent#Welchen Prozentsatz des Staatshaushalts gab Frankreich 2013 für Rüstung aus?
+numeric#speed#Wie schnell flog das Flugzeug, mit dem die Schallmauer das erste Mal durchbrochen wurde?
+numeric#speed#Welche Geschwindigkeit erreicht ein Turmfalke im Sturzflug?
+numeric#speed#Wie schnell drehen sich DVDs in einem Laufwerk?
+numeric#speed#Wie schnell kann man sich ein Mensch unter Wasser fortbewegen?
+numeric#speed#Wie groß ist die Geschwindigkeit der Erdoberfläche gegenüber seiner Rotationsachse?
+numeric#temp#Bei welcher Temperatur wachsen in Krokodileiern Männchen heran?
+numeric#temp#Wie hoch ist die normale Körpertemperatur von Hühnern?
+numeric#temp#Was ist die niedrigste auf der Erde gemessene Temperatur?
+numeric#temp#Wie heiß ist es auf der Sonnenoberfläche?
+numeric#temp#Welche Temperatur muss in Feuerungen überschritten werden, damit kein Dioxin entsteht?
+numeric#volsize#Wie groß ist die Grundfläche des Eiffelturms?
+numeric#volsize#Welches Volumen hat ein Olympisches Schwimmbecken?
+numeric#volsize#Wie groß was das Volumen der Ladebucht des Space Shuttles?
+numeric#volsize#Welche Ausdehnung hat ein Baseballfeld?
+numeric#volsize#Welchen Umfang hat die Insel Rügen?
+numeric#weight#Wieviel wiegt der Eiffelturm?
+numeric#weight#Wieviel wiegt das MacBook Air?
+numeric#weight#Wie schwer kann ein Blauwal werden?
+numeric#weight#Welche Masse hatte die Saturn V?
+numeric#weight#Welches Gewicht hat ein Mammutbaum?
+abbreviation#abbreviation#Kann man unter Umständen abkürzen?
+abbreviation#abbreviation#Wie kürze ich zum Beispiel ab?
+abbreviation#abbreviation#Wie komprimiere Die Bahn ab?
+abbreviation#abbreviation#Was ist die Abkürzung von Television?
+abbreviation#abbreviation#Gibt es eine Abkürzung zu Freundin auf Englisch?
+abbreviation#expression#Was versteht man unter der Abkürzung i.A.?
+abbreviation#expression#Was bedeutet WC ausgeschrieben?
+abbreviation#expression#Was bedeutet CAD ausgesprochen?
+abbreviation#expression#Was bedeutet die Abkürzung z.B.?
+abbreviation#expression#Was ist die lange Form von TTL?
+description#definition#Definiere mir den Begriff Nullstelle.
+description#definition#Welche Definition hat das Säugetier?
+description#definition#Wie ist die Definition von Rohöl?
+description#definition#Wie definiert man dunkle Materie?
+description#definition#Was versteht man unter Schwerkraft?
+description#description#Was ist ein Liger?
+description#description#Was ist eine Totmanntaste?
+description#description#Was ist google?
+description#description#Wie beschreibt man den Begriff Trockenbau?
+description#description#Was ist eine Birke?
+description#manner#Wie öffne ich eine Tür?
+description#manner#Wie entfache ich ein Feuer?
+description#manner#Wie kann ich leute zu Dummheiten anstiften?
+description#manner#Wie fahren Autos?
+description#manner#Wie werde ich betrunken?
+description#reason#Warum ist Gold so wertvoll?
+description#reason#Worin hat eine BLume ihren Ursprung?
+description#reason#Wodurch ist der erste Weltkrieg entstanden?
+description#reason#Was war die Motivation für die Erfindung der Eisenbahn?
+description#reason#Warum gibt es Gesetze?
+entity#animal#Welches Tier ist das schnellste?
+entity#animal#Welche Tierart existiert am längsten?
+entity#animal#Welches Tier töten die meisten Mesnchen?
+entity#animal#Von welchem Tier ist das Fleisch in eine Burger?
+entity#animal#Welches Tier ist dem Menschen am ähnlichsten?
+entity#body#Wo sitz die Leber eines Menschen?
+entity#body#Wieviel Muskeln hat eine menschliche Hand?
+entity#body#Wieviele Knochen hat mein Fuß?
+entity#body#Wieviele Nieren brauch ein Mensch zum leben?
+entity#body#Womit schmecke ich?
+entity#color#Welche Farbe hat der Rasen?
+entity#color#Welche Farbe erhalte ich wenn ich blau und geld mische?
+entity#color#Welche Farbe haben Blätter im Herbst?
+entity#color#Welche Farbe hat ein Reh?
+entity#color#Welche Farbe hat die Haut von Eisbären?
+entity#currency#Womit bezahlt man in Tschechien
+entity#currency#Wie heißt die Währung in Italien?
+entity#currency#Wie nennt man das Geld in Indien?
+entity#currency#Was ist der Name des Geldes in Spanien?
+entity#currency#Womit hat man im alten Rom bezahlt?
+entity#medicine#Was bekommt man wenn man verdorbenes isst?
+entity#medicine#Woran sterben die meisten Menschen in DEutschland?
+entity#medicine#Woran erkranken die meisten Deutschen?
+entity#medicine#Was bekommt man wenn man zu lange raucht?
+entity#event#Was ist diesen Samstag in Dresden los?
+entity#event#Wann ist wieder stadtfest in dresden?
+entity#event#Gibt es diesen Frühling ein Fest in Dresden?
+entity#event#Was ist heute so los in Zimbabwe?
+entity#event#Wo findet das Coolio Konzert statt?
+abbreviation#abbreviation#Was sagt man abgekürzt für "Red Hot Chili Peppers"?
+abbreviation#abbreviation#Wie kürzt man "beispielsweise" ab?
+abbreviation#abbreviation#Gibt es eine Abkürzung für "Deutsche Demokratische Republik"?
+abbreviation#abbreviation#Wie wird "zum Beispiel" abgekürzt?
+abbreviation#abbreviation#Wie kann "Deutsche Bahn" abgekürzt werden?
+abbreviation#abbreviation#Wie lautet das Kürzel für "Volkswagen"?
+abbreviation#expression#Was bedeutet die Abkürzung INRI auf dem Kreuz Jesu?
+abbreviation#expression#Wofür steht das Kürzel BRD?
+abbreviation#expression#Was bedeuetet ggT?
+abbreviation#expression#Was heißt ABS?
+abbreviation#expression#Was bedeutet HN?
+abbreviation#expression#Wie schreibt man TBC aus?
+description#definition#Wofür steht der Begriff "Partizipationsparadoxon"?
+description#definition#Was bedeutet "autonom"?
+description#definition#Was ist die Definition für "Legierung"?
+description#definition#Was versteht man unter "Ökomene"?
+description#definition#Wie kann der Begriff "Stasi" definiert werden?
+description#description#Was charakterisiert eine anorganische Bindung?
+description#description#Was kennzeichnet die deutsche Ingenieurskunst?
+description#description#Was is eine vegane Ernährung?
+description#description#Warum ist die Erde rund?
+description#description#Weshalb gibt es Gewitter?
+description#reason#Warum altern wir?
+description#manner#Würde salziges Wasser besser Strom leiten?
+description#reason#Wieso fallen alle Dinger runter?
+description#manner#Warum brennt Benzin?
+description#manner#Warum kann man nur wenige Zugkräfte auf Steine anwenden?
+description#reason#Was ist der Grund für das Splittern von Holz?
+description#reason#Wieso entstehen Winde?
+description#manner#Warum dreht sich die Erde?
+description#reason#Warum gefriert Wasser?
+description#reason#Warum sterben Pflanzen ohne Licht?
+entity#animal#Welche Tiere können fliegen?
+entity#animal#Welche Schlangen sind besonders giftig?
+entity#animal#Welches sind die häufigsten Haustiere?
+entity#animal#Ist der Maulwurf ein Säugetier?
+entity#animal#Welches Tier gräbgt Gänge im Erdreich?
+entity#animal#Wie bezeichnet man männliche Bienen?
+entity#body#Womit können wir sehen?
+entity#body#Wo sitzt das Gehirn?
+entity#body#Welches Organ baut Alkohol ab?
+entity#body#Von welchem Organ geht Diabetes aus?
+entity#color#Welche Farben hat die Deutsche Flagge?
+entity#color#Welche Farben sind mit RGB gemeint?
+entity#color#Welche Farbe hat Blut?
+entity#color#Welche Farbe erhält man beim Mischen von Gelb und Blau?
+entity#color#Warum ist Wasser türkis?
+entity#creative#Wer hat das Bild "Der Kuss" gemalt?
+entity#creative#Was ist auf dem Bild "Die Kerze" zu sehen?
+entity#creative#Welche Plastiken hat Otto Leibe gefertigt?
+entity#currency#Welche Währung haben die Ägypter?
+entity#currency#Welches Geld benutzen die Russen?
+entity#medicine#Wie heißt die Krankheit, die früher als Seitenkrankheit bekannt war?
+entity#medicine#Bei welcher Krankheit bekommt man eine Unterzuckerung?
+entity#medicine#Wie kann Grippe behandelt werden?
+entity#medicine#Welche Nebenwirkungen hat Aspirin?
+entity#medicine#Welches Medikament bekommt man bei Blutstau?
+entity#medicine#Was sind die Nebenwirkungen von Antibiotika?
+entity#medicine#Welches Medikament hilft bei Kopfschmerzen?
+entity#event#Wie heißt der Zwiebelmarkt der jährlich in Weimar stattfindet?
+entity#event#Welches weltbekannte Open Air Festival war 1969?
+entity#event#Bei welchem Event trat Herbert Grönemeyer zum ersten Mal auf?
+entity#event#Welches Festival findet in Wacken statt?
+entity#event#Wie heißt das Fest bei dem sich Menschen verkleiden?
+entity#food#In welchem Gemüse ist viel Vitamin A?
+entity#food#Welches Lebensmittel enthält Laktose?
+entity#food#Welches Gemüse ist rot?
+entity#food#Welches Nahrungsmittel hat besonders viel Kalorien?
+entity#food#Welches Obst kommt traditionell aus Deutschland?
+entity#instrument#Welches Instrument gibt im Orchester den Stimmton A an?
+entity#instrument#Welche Instrumente gehören zur Gruppe der Holzblasinstrumente?
+entity#instrument#Welches Instrument hat 4 Saiten?
+entity#instrument#Aus welchen Instrumenten bestet ein Kammerorchester?
+entity#lang#Welche Sprache wird in Brasilien gesprochen?
+entity#lang#Was sind die vier Amtssprachen in der Schweiz?
+entity#lang#Wie lautet die Sprache einer Minderheit in der Lausitzer Region?
+entity#lang#Welche Sprachen sind in Kanada vertreten?
+entity#lang#Welche Sprache wird am häufigsten auf der Welt gesprochen?
+entity#letter#Kommt in Atmosphäre ein H vor?
+entity#letter#Wird Schifffahrt mit zwei oder drei F geschrieben?
+entity#letter#Welchen Buchstaben gibt es nur in der Deutschen Sprache?
+entity#letter#Wie kann der Buchstabe Ä auch umschrieben werden?
+entity#letter#Welcher Buchstabe wurde ab 2006 oft durch SS ersetzt?
+numeric#distance#Wie weit ist es bis zum Mond?
+numeric#distance#Wie lange braucht das Licht von der Sonne bis zur Erde?
+description#reason#Warum ist Gras grün?
+description#reason#Warum ist der Himmel blau?
+entity#substance#Welcher Werkstoff wird auch für kugelsichere Westen verwendet?
+entity#plant#Welche Pilze sind giftig?
+entity#plant#Welche Bäume gehören zur Gruppe der Tiefwurzler?
+entity#plant#Welcher Nadelbaum wirft im Winter seine Nadeln ab?
+entity#plant#Welche Pflanzen brauchen extrem wenig Wasser?
+entity#plant#Welche Pflanzen können auf Steinen wachsen?
+entity#product#Was ist eine weitere Zutat für Cola-Fontänen?
+entity#product#In welchem Auto wurde John F. Kennedy erschossen?
+entity#product#Mit welchem Produkt trat Apple ins Mobilfunkgeschäft ein?
+entity#product#Wie hieß der letzte in der DDR produzierte Plattenspieler?
+entity#product#Welche Biermarke wird in Dresden produziert?
+entity#product#Welches Burger-King-Produkt ähnelt einem McChicken?
+entity#religion#Welche Religion ist im Abendland vorherrschend?
+entity#religion#Welcher Konfession gehören die meisten Deutschen an?
+entity#religion#Welchen Glauben vertreten die Spanier?
+entity#religion#Welche Religion ist häufiger Anlass für Anschläge im Nahen Osten?
+entity#religion#Welche Religion üben die Russen aus?
+entity#sport#Welche Sportarten gehören zum Fünfkampf?
+entity#sport#Welche Sportarten benötigen zwei Tore?
+entity#sport#Welche Sportart übt Timo Boll aus?
+entity#sport#In welcher Sportart wird am meisten gedopt?
+entity#sport#Welche Sportarten werden beim Ironman getätigt?
+entity#substance#Wie ist der Name des ersten Antibiotikums?
+entity#substance#Welches chemische Mittel wird zur Schädlingsbekämpfung bei Holz angewendet?
+entity#substance#Welche Substanz ist unter Aspirin zu verstehen?
+entity#substance#Wie heißt das Entlaubungsmittel, welches die USA im Vietnamkrieg eingesetzt hat?
+entity#substance#Welche Stoffe werden beim Gährprozess freigesetzt?
+entity#symbol#Welches Symbol verwenden die Freimaurer?
+entity#symbol#Welche Symbole waren in der Flagge der DDR zu sehen?
+entity#symbol#Wofür steht das Symbol einer schwarzen Eule auf gelben Grund?
+entity#symbol#Welches Symbol ist das Markenzeichen des Roten Kreuzes?
+entity#symbol#Welches kirchliche Symbol verkörpert Frieden?
+entity#technique#Wie wird gesintert?
+entity#technique#Wie wird eine Holzoberfläche glatt gemacht?
+entity#technique#Wie wird eine Holzeckverbindung erstellt?
+entity#technique#Wie funktioniert die Offsetdrucktechnik?
+entity#technique#Was versteht man unter Abbund?
+entity#term#Wie sagt man noch zu „Er ist gestorben.“
+entity#term#Was versteht man unter „Alle Register gezogen.“
+entity#term#Was versteht man unter „Es brennt mir auf den Fingernägeln.“?
+entity#term#Wie nennt man ein kühles helles Pils?
+entity#term#Welche Bezeichnung steht für „stümperhaft“?
+entity#vehicle#Welches ist das meist verkaufte Auto Deutschlands?
+entity#vehicle#Welcher Flugzeugtyp ist vor kurzem in den französischen Alpen abgestürzt?
+entity#vehicle#Wie lautet der Name für das Übungsschiff der deutschen Marine?
+entity#vehicle#Was für ein Schiffstyp ist die Gorch-Fock?
+entity#vehicle#Welche Antriebsart stellt der Autohersteller Tesla her?
+entity#word#Wie wurde die Staatssicherheit zu DDR-Zeiten bezeichnet?
+entity#word#Wie wird die Bauform des Plattenbaus im Volksmund bezeichnet?
+entity#word#Welcher Begriff steht für psychosomatische Erkrankung?
+entity#word#wie bezeichnet man die Vereinigten Staaten von Amerika noch?
+entity#word#Welcher allgemeine Begriff steht für aufputschende Amphetamine?
+human#group#Welches Unternehmen hat einen angebissenen Apfel als Logo?
+human#group#Welche unternehmen sind im Tourismussegment der Lausitzer Region aktiv?
+human#group#Welche Firma ist Deutschlands größter Bahndiensleister?
+human#group#Welcher große Chiphersteller ist in Dresden ansässig?
+human#group#Welche Firma hat die Restaurierungsarbeiten des Fußbodens im Rokokosaal der Herzogin Anna Amalia Bibliothek in Weimar durchgeführt?
+human#individual#Welche Personen wurden mit dem Bundesverdienstkreuz ausgezeichnet?
+human#individual#Wer sind die aktuellen UN-Botschafter?
+human#individual#Wer gilt als der reichste Mann der Welt?
+human#individual#Wer ist aktuell Rektor der Technischen Universität Dresden?
+human#individual#Wer führte die Schulpflicht in Deutschland ein?
+human#title#Was ist Tadao Ando ursprünglich von Beruf gewesen?
+human#title#was war Alfred Nobel von Beruf?
+human#title#Welchen akademischen Grad erlangte Annette Schawan?
+human#title#Welchen Titel hat Theodor zu Gutenberg verloren?
+human#description#Wer war Otto von Bismarck?
+human#description#Wer ist Angela Merkel?
+human#description#Wer war Walter Gropius?
+human#description#Wer ist Barack Obama?
+human#description#Wer ist Edward Snowden?
+location#city#Welche Städte liegen an der Ilm?
+location#city#Welches sind die zehn größten Städte Deutschlands?
+location#city#In welcher Stadt steht das Doppeldenkmal von Schiller und Goethe?
+location#city#Welche Stadt ist gerade 50 Jahre alt geworden?
+location#city#Welche deutsche Stadt wurde 1945 besonders stark zerstört?
+location#country#Welches Land ist das kleinste in Europa?
+location#country#Welche Länder grenzen an Brasilien?
+location#country#Welches Land ist 1990 in Europa verschwunden?
+location#country#Aus welchem Land haben sich die Tschechische Republik und die Slowakei gebildet?
+location#country#Welches Land hat 26 Kantone?
+location#mountain#Wie heißt der höchste Berg in Thüringen?
+location#mountain#Welches ist der höchste Berg Afrikas?
+location#mountain#Wo liegt der Similaun?
+location#mountain#Wie heißt der bekannteste Berg in Deutschland?
+location#mountain#Welcher Berg liegt im Harz?
+location#other#In welcher Region liegt Wernigerode?
+location#other#Wo liegt der Thüringer Rennsteig?
+location#other#Welche Orte liegen in der Oberlausitz?
+location#other#Welches Moor liegt am nächsten an Kamenz?
+location#other#Wo liegt die Lorelei?
+location#state#In welchem Bundesland liegt Weimar?
+location#state#Über welche Bundesländer erstreckt sich die Niederlausitz?
+location#state#Welches ist das kleinste Bundesland Deutschlands?
+location#state#In welchem Bundesland wird Schwäbisch gesprochen?
+location#state#Welches Bundesland war Tauschobjekt für Westberlin bei der Aufteilung Deutschlands durch die Alliierten?
+numeric#code#Wie lautet die BIC für die Hypovereinsbank in Weimar?
+numeric#code#Welcher Ort ist unter der Postleitzahl 10178 zu finden?
+numeric#code#Wie lauten alle PLZ für die Region Weimar?
+numeric#code#Was ist die ISBN für das Buch „50 Jahre Streitfall Halle Neustadt?“
+numeric#code#Welche ISBN hat das Buch „Der alte Mann und das Meer“?
+numeric#count#Wieviele Möglichkeiten gibt es bei "6 aus 49"?
+numeric#count#Wie viele Primzahlen konnten bisher ermittelt werden?
+numeric#count#Wie viele Einwohner waren wir 2011?
+numeric#count#Wie viele Universitäten hat Sachsen?
+numeric#count#Wie viele Studenten haben 2014 an der Technischen Universität Dresden ihr Studium begonnen?
+numeric#count#Wieviele Tasten hat ein Konzertflügel?
+numeric#date#Wann findet die nächste Volkszählung in Deutschland statt?
+numeric#date#Wann wurde der zweite Weltkrieg beendet?
+numeric#date#Wann ging die Webseite www.lausitz-kompass.de online?
+numeric#date#Wann wurde Angela Merkel geboren?
+numeric#date#Wann wird die nächste Bundestagswahl sein?
+numeric#date#Wann ist die nächste Biennale?
+numeric#date#Wann wurde die Mona Lisa gemalt?
+numeric#date#Zu welcher Zeitgattung gehören die Bilder von Claude Monet?
+numeric#distance#Wie weit ist es von Weimar nach Berlin?
+numeric#distance#Wie lang ist die Bahnstrecke von Weimar nach Leipzig?
+numeric#distance#Wie hoch ist die Traufhöhe der Gründerzeithäuser in Berlin?
+numeric#distance#Wie breit ist ein Stellplatz für das Auto?
+numeric#distance#Wie groß ist die Deutsche Eisenbahn Spurweite?
+numeric#money#Wie hoch sind die Baukosten für den Balgrist Campus Zürich?
+numeric#money#Wie hoch waren die Reparationskosten für Deutschland nach dem zweiten Weltkrieg?
+numeric#money#Wie viel Geld hat Deutschland für den Bildungsetat 2015 bereitgestellt?
+numeric#money#Wie hoch ist der Mindestlohn in Griechenland?
+numeric#money#Was ist das Durchschnittsgehalt eines Architekten in Deutschland?
+numeric#order#Welchen Platz hat die Deutsche Nationalmannschaft zur WM 2014 belegt?
+numeric#order#Welchen Platz belegte Michael Schumacher in Melburne?
+numeric#order#Welches Land hatte 2014 die höchsten Kohlenstoffdioxid Emissionswerte?
+numeric#count#Wie viele Brücken besitzt Venedig?
+numeric#count#Wie viele Personen arbeiten an Applecomputern im Verhältnis zu allen Computern in Deutschland?
+numeric#period#Wie lange ist Angela Merkel jetzt schon Bundeskanzlerin?
+numeric#period#Seit wann gibt es die Technische Universität Dresden?
+numeric#period#Wie lange war Napoleon an der Macht?
+numeric#period#Wie lange existierte die DDR?
+numeric#period#Wie lange hat der zweite Weltkrieg gedauert?
+numeric#percent#Wie viel Prozent der Deutschen sind Analphabeten?
+numeric#percent#Um wie viel Prozent hat sich die Arbeitslosigkeit im Januar 2015 im Vergleich zu Januar 2014 verändert?
+numeric#percent#Um wie viel Prozent ist der Franken zum Euro gesunken?
+numeric#percent#Wie stark ist die Inflationsrate des Euros seit 2002?
+numeric#percent#Wie viel Prozent der Bevölkerung fahren mit der Bahn?
+numeric#percent#Wie hoch ist der Anteil an iPhone Besitzern gemessen am gesamten Smartphonebestand in Deutschland?
+numeric#speed#Wie hoch ist die Maximalgeschwindigkeit eines aktuellen ICEs?
+numeric#speed#Wie schnell schlägt ein Kolibri mit seinen Flügeln?
+numeric#speed#Wie lange dauert eine menschliche Schwangerschaft?
+numeric#speed#Welches ist das schnellste Flugzeug?
+numeric#speed#Bei Welcher Geschwindigkeit sind deutsche Autos abgeregelt?
+numeric#temp#Bei welcher Temperatur gefriert Wasser?
+numeric#temp#Wie hoch ist die Körpertemperatur eines Menschen?
+numeric#temp#Wie viel Grad sind 293 Kelvin?
+numeric#temp#Bei welcher Temperatur schmilzt Stahl?
+numeric#temp#Was war die höchste Wettertemperatur in Deutschland, die je gemessen wurde?
+numeric#volsize#Welche Dichte hat Alkohol?
+numeric#volsize#Wie viel Kubikmeter Wasser fließen täglich die Elbe hinunter?
+numeric#volsize#Wie viel Liter passen in eine herkömmliche Bierflasche?
+numeric#volsize#Wie groß ist das Volumen eines iPhone 5?
+numeric#volsize#Wie groß wird ein Mensch im Durchschnitt?
+numeric#weight#Wie schwer ist ein normaler Ziegelstein?
+numeric#weight#Wie ist das Durschnittsgewicht eines Mannes in Amerika?
+numeric#weight#Wie viel wiegt eine volle Bierflasche?
+numeric#weight#Wie schwer ist ein Kubikmeter Beton?
+numeric#weight#Wie viel wiegt eine ausgewachsene Katze?

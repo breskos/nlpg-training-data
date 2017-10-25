@@ -1,0 +1,735 @@
+Was ist die Abkürzung von Master of Science?#ABBREVIATION
+Wie lautet die Abkürzung von Bachelor of Science?#ABBREVIATION
+Wie kürzt man Dresden ab?#ABBREVIATION
+Was ist die Abkürzung von Heckler und Koch?#ABBREVIATION
+Wie kann man Künstliche Intelligenz abkürzen?#ABBREVIATION
+Wie kürzt man das Wort Stadtwerke ab?#ABBREVIATION
+Wie kürzt man Personal Computer ab?#ABBREVIATION
+Was ist die Abkürzung von Traditionelle Chinesische Medizin?#ABBREVIATION
+Wie kann man "Zum Beispiel" abkürzen?#ABBREVIATION
+Was ist die Abkürzung Lehrveranstaltung?#ABBREVIATION
+Was ist die Langform von LV?#ABBREVIATION
+Wie sagt man länger zu MSc?#ABBREVIATION
+Was sagt man länger zu BSc?#ABBREVIATION
+Was ist der lange Ausdruck von DD?#ABBREVIATION
+Was bedeutet die Abkürzung H&K?#ABBREVIATION
+Was ist die Langform K.I.?#ABBREVIATION
+Was sagt man länger zu zB?#ABBREVIATION
+Was ist TCM in der Langform?#ABBREVIATION
+Was ist die Langform von PC?#ABBREVIATION
+Welche Langformen von SW gibt es?#ABBREVIATION
+Was ist die Definition von Informatik?#DESCRIPTION
+Wie definiert man das Wort Biologie?#DESCRIPTION
+Wie erklärt man Architektur?#DESCRIPTION
+Wie lautet die Erklärung vom Ziegenproblem?#DESCRIPTION
+Wie erklärt man das Hamiltonkreisproblem?#DESCRIPTION
+Wie erklärt man die Quadradur des Kreises?#DESCRIPTION
+Was ist die Erklärung vom Brückenproblem?#DESCRIPTION
+Wie erklärt man das Problem des Handelsreisenden?#DESCRIPTION
+Wie erklärt man das Schachproblem?#DESCRIPTION
+Wie lautet die Erklärung des Erfüllbarkeitsproblems?#DESCRIPTION
+Was ist ein Startup?#DESCRIPTION
+Was ist eine Zielgruppe?#DESCRIPTION
+Was ist Aggressiver Humanismus?#DESCRIPTION
+Wie beschreibt man eine Zielgruppe?#DESCRIPTION
+Wie beschreibt man Lösbarkeit?#DESCRIPTION
+Was ist die Beschreibung von Esperanto?#DESCRIPTION
+Wie beschreibt man ein Auto?#DESCRIPTION
+Was ist die Beschreibung vder Evolution?#DESCRIPTION
+Wie kann man die natürliche Selektion beschreiben?#DESCRIPTION
+Wie würde man die Mondphasen beschreiben?#DESCRIPTION
+Wie fahren Lkws?#DESCRIPTION
+Wie funktioniert ein Zweitakter?#DESCRIPTION
+Wie arbeitet ein Viertakter?#DESCRIPTION
+Wie funktioniert ein Extraktor?#DESCRIPTION
+Was ist die Funkionsweise eines Motors?#DESCRIPTION
+Wie läuft eine Gans?#DESCRIPTION
+Wie bewegen sich Gänse fort?#DESCRIPTION
+Wie läuft ein Pferd?#DESCRIPTION
+Wie öffnet man ein Geschäft?#DESCRIPTION
+Wie regelt man die Steuererklärung?#DESCRIPTION
+Was ist der Grund für eine Blasenerkältung?#DESCRIPTION
+Welcher Grund liegt vor wenn man Insolvent geht?#DESCRIPTION
+Was sind die Gründe für einen Aktieneinbruch?#DESCRIPTION
+Welcher Grund ist wichtig bei einem Erfolgreichen Börsengang?#DESCRIPTION
+Welche Gründe gibt es für eine Hochzeit?#DESCRIPTION
+Was sind die Gründe für einen Unternehmens-Exit?#DESCRIPTION
+Welchen Grund gibt es für Diabetes?#DESCRIPTION
+Was sind die Gründe für Kopfschmerzen?#DESCRIPTION
+Was sind die Gründe für Verdauungsprobleme?#DESCRIPTION
+Welche Gründe gibt es für einen Schlaganfall?#DESCRIPTION
+Welches ist das größte Tier der Welt?#ENTITY
+Welche Tiere existieren die schwerer als 10 Kilogramm waren?#ENTITY
+Welche Dinosaurier konnten schwimmen?#ENTITY
+Welche Tiere können fliegen?#ENTITY
+Zu welcher Gattung von Tieren gehören Delphine?#ENTITY
+Welche Körperteile durchläuft ein Döner?#ENTITY
+An welchen Körperstellen bildet sich am häufigsten Krebs bei Männern?#ENTITY
+Welcher Körperteil eines Kranichs ist nicht beweglich?#ENTITY
+Welches ist das größte Organ des Albatros?#ENTITY
+An welchem Organ kann man am meisten Hitze ertragen?#ENTITY
+Welche Farbe hat Feuer?#ENTITY
+In welchen Farben gibt es den Audi A3?#ENTITY
+Welchen Farbton hat das Hygienemuseum in Dresden wirklich?#ENTITY
+Was ist die Lieblingsfarbe von Heidi Klum?#ENTITY
+Was kommt dabei heraus, wenn man die Farben grün und gelb mischt?#ENTITY
+Wie heißt das berühmte Gemälde im Dresdner Zwinger?#ENTITY
+Welches berühmte Bild von Michelangelo ist im Louvre ausgestellt?#ENTITY
+Welche Gemälde malte Salvador Dali?#ENTITY
+Für welches Werk ist Picasso bekannt?#ENTITY
+Was ist das größte Bild der Welt?#ENTITY
+Welche Währung benutzen die Menschen im Jemen?#ENTITY
+Welche Währungen haben die Krone als Münzeinheit?#ENTITY
+Welches Geld haben die Leute in Kanada eigentlich?#ENTITY
+Mit welchem Geld bezahlt man in Brasilien?#ENTITY
+Was ist die wertvollste Währung der Welt?#ENTITY
+Welche Epidemie ist aktuell in Asien ausgebrochen?#ENTITY
+Was hilft gegen Bauchschmerzen?#ENTITY
+Wogegen hilft das Medikament Voltaren?#ENTITY
+Welches Virus verursacht Grippe?#ENTITY
+Wie heißt die Show von Roland Kaiser?#ENTITY
+Wie heißt das Musikfestival in Hildesheim?#ENTITY
+Welche Hardcore-Festivals gibt es nächstes Jahr in Sachsen?#ENTITY
+Was ist die beste Fernsehshow in Spanien?#ENTITY
+Welche Konzerte gabs in Berlin 2014?#ENTITY
+Was gibt es bei Burger King zu Essen?#ENTITY
+Was isst man in Nepal?#ENTITY
+Was kann man nur sehr schwer mit Messer und Gabel essen?#ENTITY
+Welche Genussmittel verursachen Blähungen?#ENTITY
+Was gibt es in Spanien billiges zu essen?#ENTITY
+Was sind die Instrumente, die am leichtesten zu erlernen sind?#ENTITY
+Welche Blechblasinstrumente gibt es?#ENTITY
+Welche Instrumente haben Knöpfe?#ENTITY
+Welches Zupfinstrument hat 7 Löcher?#ENTITY
+Welche Sprache spricht man in Brasilien?#ENTITY
+Welche Dialekte gibt es in Spanien?#ENTITY
+Welche Sprachen spricht Heidi Klum?#ENTITY
+Welche Fremdsprachen werden in Bonner Gymnasien gelehrt?#ENTITY
+Welche Redensarten gibt es in den asiatischen Staaten?#ENTITY
+Womit beginnt das Alphabet im Schwedischen?#ENTITY
+Welche Buchstaben sind im Deutschen wichtig?#ENTITY
+Welcher ist der letzte Buchstabe des Wortes so?#ENTITY
+Welche Schriftzeichen sind im Englischen zwar bekannt und im ASCII Satz enthalten?#ENTITY
+Welches ist der wichtigste Buchstabe in er französischen Sprache?#ENTITY
+Welche noch existierende Pflanze ist die größte der Welt?#ENTITY
+Welche Kräuterpflanzen sind giftig?#ENTITY
+Welche beliebten Pflanzen brachte Columbus nach Spanien?#ENTITY
+Wie nennt man die Frucht des Apfelbaums?#ENTITY
+Wie nennt sich die Pflanzengattung der Lillie?#ENTITY
+Gibt es ein Smartphone dessen Display das größte ist?#ENTITY
+Welche ist die teuerste Telefonnmarke Europas?#ENTITY
+Welche Produkte stellt acer her?#ENTITY
+Mit welchem Gerät kann man Musik hören?#ENTITY
+Was benutzt man zum Wischen?#ENTITY
+Gibt es eine Religion in der man einer Kuh huldigt?#ENTITY
+Welche Sekten gibt es im Buddhismus?#ENTITY
+Welche religiöse Gruppierung singt sich in Trance?#ENTITY
+Welche Glaubensrichtung gibt es in Asien?#ENTITY
+Welche Religion ist die beste für einen Geschäftsmann?#ENTITY
+In welcher Mannschaftssportart spielt Dirk Nowitzki?#ENTITY
+Von welcher Sportart ist der WWF der Verband?#ENTITY
+Welche Ballsportarten lasssen sich gut in der Halle spielen?#ENTITY
+Bei welchem Spiel braucht man einen Ball und einen Korb?#ENTITY
+Wie heißt die Kampfsportart bei der man viel wirft?#ENTITY
+Woraus besteht Wasser?#ENTITY
+Wie setzt sich der Mars chemisch zusammen?#ENTITY
+Welches Element entsteht bei der Spaltung von Plutonium?#ENTITY
+Welche Flüssigkeit oder Substanz ist in einer Pflanze?#ENTITY
+Aus welchen Elementen besteht Blut?#ENTITY
+Welche Zeichen sind vom Verfassungsschutz verboten wurden?#ENTITY
+Welches Zeichen wird häufig zur Kennzeichnung für giftigen Sachen genutzt?#ENTITY
+Mit welchem Zeichen wird auf wilde Tiere aufmerksam gemacht?#ENTITY
+WWelches Symbol nutzt man um das Ende in Notenheften zu kennzeichnen?#ENTITY
+Was ist das Symbol für "Bitte nicht Stören"?#ENTITY
+Mit welcher Technik kann man Lehmhäuser bauen?#ENTITY
+Wie heißt die Methode um Schnaps zu brauen?#ENTITY
+Was ist die Kampftechnik von Terrence Hill?#ENTITY
+Mit welcher Technik kommt de Wumpus durch die Welt?#ENTITY
+Welche Strategie hilft beim Basketball in der Verteidigung?#ENTITY
+Wie bezeichnet man den letzten Mann im Fußball?#ENTITY
+Wie sagt man zu dem Trick vom Hütchenspieler noch?#ENTITY
+Wie sagen Deutschen zu Österreichern?#ENTITY
+Was ist die Bezeichung für spanischen Schinken?#ENTITY
+Wie nennt man Programmieren noch?#ENTITY
+Wie hieß das erste Flugzeug der Welt?#ENTITY
+Welches Schiff ist das berühmteste der Geschichte?#ENTITY
+Was war der Name des esten Raumschiffs bei Star Trek?#ENTITY
+Mit welchem Transportmittel werden Kinder früh zur Schule befördert?#ENTITY
+Welche Bezeichnung trugen die pferdebetriebenen Fahrzeuge?#ENTITY
+Welche Schriftzüge sind oft über den Toren von Stadien zu lesen?#ENTITY
+Welche Wörter aus König der Löwen sind bekannt geworden?#ENTITY
+Mit welchen Worten leitete Kennedy seine Rede in Berlin ein?#ENTITY
+Welche Worte lernt ein Kleinkind zuerst?#ENTITY
+Welches Wörter stehen am Bundestag in Berlin?#ENTITY
+Welcher Verein setzt sich für den Tierschutz ein?#HUMAN
+Wie heißt die Firma die das iPad herstellt?#HUMAN
+Wie nennt sich das Unternehmen in dem Steve Jobs arbeitete?#HUMAN
+Von welcher Organisation setzt sich für den Tierschutz ein?#HUMAN
+Welche Gruppe kämpft für die Unabhängigkeit in Afrika?#HUMAN
+Wie heißt das Oberhaupt von Agentinien?#HUMAN
+Wie hießen berühmte Freiheitskämpfer?#HUMAN
+Welcher Mensch war als erstes am Nordpol?#HUMAN
+Welcher Regisseur erhielt zwei Oscars?#HUMAN
+Wer ist der größte Mensch der Welt?#HUMAN
+Welchen Rang hat Barack Obama bei der US Armeee?#HUMAN
+Welche Position hat Putin in Russland?#HUMAN
+Welchen Titel trug Joseph Weizenbaum?#HUMAN
+Welche Bezeichnung trägt Shiva im Hinduismus?#HUMAN
+Als was arbeitete Andrew Ng?#HUMAN
+Wer ist Joseph Weizenbaum?#HUMAN
+Wer war Gerhard Schröder?#HUMAN
+Wer war Abraham Lincoln?#HUMAN
+Wer ist Alon Musk?#HUMAN
+Wer ist Steve Ballmer?#HUMAN
+In Welche Stadt gibt es die besten Radwege?#LOCATION
+Was ist die Hauptstadt Indonesien?#LOCATION
+Welche ist die kleinste Stadt Brandenburgs?#LOCATION
+In welcher Stadt wurde Alon Musk geboren?#LOCATION
+Wo finden die nächsten Olympischen Winterspiele statt?#LOCATION
+In welchen Ländern kann man überall zelten?#LOCATION
+In welchem Land isst man viele Fische?#LOCATION
+Welches Land hat die wenigsten Einwohner?#LOCATION
+Welches südamerikanische Land liegt auf einer Insel?#LOCATION
+Von welchem Staat war Gerhard Schröder Präsident?#LOCATION
+Welches Gebirge Europa von Asien?#LOCATION
+Wie heißt der höchste Gipfel der Welt?#LOCATION
+Zu welchem Gebirgszug gehört der Kibo?#LOCATION
+Die Spitze welches großen Berges wurde zuerst bestiegen?#LOCATION
+Wie heißt die höchste Erhebung Brasiliens?#LOCATION
+Wo gibt es das billigste Trinken?#LOCATION
+Welches Bistro hat die besten Cocktails in Berlin?#LOCATION
+An welchem Ort wurden Bunker in Deutschland gefunden?#LOCATION
+An welchem Ort lebt Heid Klum in Deutschland?#LOCATION
+Wo ist die Cote Azure?#LOCATION
+In welchen Bundesstaaten Agentiniens gibt es tiefe Täler?#LOCATION
+Welche Staaten der USA erlauben THC?#LOCATION
+Wie heißt das größte Bundesland in Deutschlands?#LOCATION
+In welchem Bundesland liegt Saarbrücken?#LOCATION
+Welche autonome Region hat Aftrika?#LOCATION
+Welche Kontonummer hat das der WWF Deutschland?#NUMERIC
+An welche Postleitzahlen muss die Post gehen damit sie in Berlin ankommt?#NUMERIC
+Welches Postfach hat Fielmann in Dresden?#NUMERIC
+Was sind die Hexadezimalcodes der Farbe Blau in RGB Modell?#NUMERIC
+Welche Autokennzeichen gibt es in Europa?#NUMERIC
+Wieviele Tasten hat eine deutsche Tastatur?#NUMERIC
+Wie hoch ist die Zahl der monatlichen Flugzeugunfälle in Amerika?#NUMERIC
+Wie viele Beine haben zwei Menschen?#NUMERIC
+Wie hoch war die Arbeitslosenzahl 2014 in Polen?#NUMERIC
+Wann fand die letzte Landung auf dem Mond statt?#NUMERIC
+In welchem Jahr wurde Barack Obama gewählt?#NUMERIC
+An welchem Tag ist Ostern?#NUMERIC
+Wann hat Bill Gates Geburtstag?#NUMERIC
+Wie lautet das Sterbedatum von Albert Einstein?#NUMERIC
+Wie weit ist es von Berlin nach Dresden?#NUMERIC
+Wie groß ist der Abstand zwischen Sonne und Merkur?#NUMERIC
+Wie weit ist Dreden von Berlin entfernt?#NUMERIC
+Wie groß ist die Distanz zwischen Chemnitz und dem Leipzig?#NUMERIC
+Was kostet ein Golf?#NUMERIC
+Was muss man für ein Kühlschrank bei AEG bezahlen?#NUMERIC
+Wieviel kostet ein Tee bei McDonalds?#NUMERIC
+Wie teuer ist ein Auto maximal?#NUMERIC
+Wie teuer ist eine Zahnpasta?#NUMERIC
+Welche Tabellenpostition in der NBA belegen die Dallas Mavericks gerade?#NUMERIC
+Welchen Platz gewann Heinz Harald Frentzen 2002 in der Weltmeisterschaft?#NUMERIC
+Auf welchem Platz beendete Borussia Dortmund die Saison?#NUMERIC
+Welchen Rang hat Amerika auf der Reichenliste?#NUMERIC
+Auf welcher Seite beginnt ein jedes Buch?#NUMERIC
+Wie lange dauerte der 1. Weltkrieg?#NUMERIC
+Wie viele Semester ist die Studienzeit für Information auf der HTW Dresden?#NUMERIC
+Wie hoch ist die Lebenserwartung in Japan in Jahren?#NUMERIC
+Wie lange dauert es bis man von Kopenhagen nach Stockholm gelaufen ist?#NUMERIC
+Wie lang verweilt eine junge Biene im Nest?#NUMERIC
+Wie hoch ist die Sterberate bei Katzensäuglingen?#NUMERIC
+Wie hoch ist der Anteil der Tiere in Deutschland in Städten?#NUMERIC
+Aus wie viel Prozent Chlorophyll besteht eine Rose?#NUMERIC
+Wieviel Prozente hat Rum?#NUMERIC
+Wie hoch ist der Zuckergehalt einer Cola?#NUMERIC
+Wie groß ist der Anteil von o2 Molekülen in einem Autoreifen?#NUMERIC
+Wie schnell ist ein Murmeltier?#NUMERIC
+Was ist die Maximalgeschwindigkeit auf der Autobahn?#NUMERIC
+Was ist die Mindestgeschwindigkeit die man auf der Autobahn fahren muss?#NUMERIC
+Wie hoch ist das Tempolimit auf schwedischen Landstraßen?#NUMERIC
+Ab wieviel kmH schnell kann man auf der Landstraße fahren?#NUMERIC
+Wie hoch ist die Durschnittstemperatur im Winter in Deutschland?#NUMERIC
+Ab wieviel Grad Hitze verdampft Öl?#NUMERIC
+Wie hoch ist die Temperatur eines Automotors?#NUMERIC
+Wie kalt ist der kälteste Ort Russlands?#NUMERIC
+Ab welcher Temperatur beginnt Blut zu kochen?#NUMERIC
+Wie hoch ist der Mount Blanc?#NUMERIC
+Wie viel Quadratmeter umfassen Brasilien?#NUMERIC
+Wie groß ist die Landfläche Indiens?#NUMERIC
+Wie breit ist der Amazonas?#NUMERIC
+Wie groß ist die Fläche des Uranus?#NUMERIC
+Wie viel wiegt ein durchschnittlicher Meteriot?#NUMERIC
+Auf wie viele Kilogramm bringt es ein Elefant?#NUMERIC
+Wie schwer ist eine Mücke?#NUMERIC
+Was wiegt ein Elefant?#NUMERIC
+Welche Masse hat eine Fliege?#NUMERIC
+Wie wird Computer definiert?#DESCRIPTION
+Durch was definiert sich eine Allee?#DESCRIPTION
+Wie lautet die Definition für Browser?#DESCRIPTION
+Wie definiert man Kurvendiskussion?#DESCRIPTION
+Wie erklärt man Kommunismus?#DESCRIPTION
+Was ist Demokratie?#DESCRIPTION
+Was ist ein Sanguiniker?#DESCRIPTION
+Wie ist Psychologie?#DESCRIPTION
+Was ist ein Notizbuch?#DESCRIPTION
+Was ist Geografie?#DESCRIPTION
+Wie ist das Verhalten eines Eichhörnchens beim Nüsse sammeln?#DESCRIPTION
+Wie funktioniert die Abseitsfalle?#DESCRIPTION
+Wie werden die Auslastungen von Straßen ermittelt?#DESCRIPTION
+Wie entstehen Pilze im Wald?#DESCRIPTION
+Wie funktioniert ein Autoradio?#DESCRIPTION
+Warum dauert es so lange bis ein Kind geboren wird?#DESCRIPTION
+Warum entsteht ein Wurmloch?#DESCRIPTION
+Was ist der Grund für Radiowellen?#DESCRIPTION
+Wieso werden Umweltverschmutzer nicht inhaftiert?#DESCRIPTION
+Weshalb stirbt eine Eintagsfliege nach einem Tag?#DESCRIPTION
+Welche Tiere sind Wale?#ENTITY
+Welche Tiere leben im Erdreich?#ENTITY
+Welche Tiere leben in der Luft?#ENTITY
+Welches Tier ist schwerer als 5 Kilogramm?#ENTITY
+Welche Tiere sind vom aussterben bedrohte Arten?#ENTITY
+Welches sind die wichtigsten Organe des menschlichen Körpers?#ENTITY
+Welches Teil im Körper produziert die Lymphe?#ENTITY
+Welche Körperteile sind mit 18 Jahren schon ausgewachsen?#ENTITY
+Welche Körperbestandteile prodzuieren Blut?#ENTITY
+Welches Körperteil entscheidet was der Mensch tut?#ENTITY
+Welche Farbe hat das BMW Logo?#ENTITY
+Wie heißt die Farbe die die Gras hat?#ENTITY
+Welche Farbe hat die Sonne?#ENTITY
+Mit welcher Farbe markiert man Hinweisschilder?#ENTITY
+Welche Farben kann erkennt eine Fliege?#ENTITY
+Welches Bild malte Konrad  Zuse?#ENTITY
+Welche Gemälde zeichnete Marilyn Manson?#ENTITY
+Welches Kunstwerk baute Jürgen von Woyski?#ENTITY
+Welche Bilder sind mit Wasserfarben gemalt?#ENTITY
+Welches Werk entwarf Gaudi?#ENTITY
+Wie heißt die Währung in Deutschland?#ENTITY
+Mit was bezahlt man in Weißrussland?#ENTITY
+Welche Währung hat Island?#ENTITY
+Wie heißt die Währung in Südafrika?#ENTITY
+Welche Währung wird in Japan benutzt?#ENTITY
+Welche Krankheiten sind in Asien oft vertreten?#ENTITY
+Welche Krankheiten verlaufen tödlich?#ENTITY
+Welche Krankheiten gibt es in Südamerika?#ENTITY
+Welche Medikamente werden bei Multiple Sklerose verschrieben?#ENTITY
+Welche Medikamente werden gegen Halsschmerzen verschrieben?#ENTITY
+Was für eine Veranstaltung findet monatlich in Dresden statt?#ENTITY
+Welches Event findet jährlich zu Ostern in Wittichenau statt?#ENTITY
+Was für eine Veranstaltung findet jährlich in Indiens Hauptstadt statt?#ENTITY
+Wie hieß die Show von AC/DC auf der letzten Deutschland-Tour?#ENTITY
+Wie hieß die Tour von Rihanna bei ihren Deutschland-Events?#ENTITY
+Welches Getränk hat ganz viel Eiweiß?#ENTITY
+Was ist das beliebteste Gemüse und Obst?#ENTITY
+Welche Speise ist bei Säuglingen beliebt?#ENTITY
+Welches Essen ist man, damit sich Knochen stärken?#ENTITY
+In welchen Getränken ist viel Zucker vorhanden?#ENTITY
+Welche Instrumente haben 5 Knöpfe?#ENTITY
+Welche Instrumente werden aus Metall gefertigt?#ENTITY
+Welche Musikinstrumente sind aus Holz?#ENTITY
+Welches ist das kleinste Musikinstrument?#ENTITY
+Welche sind die bekanntesten Musikinstrument?#ENTITY
+Welche Sprache spricht man in Griechenland?#ENTITY
+Welche Sprache wird in Polen gesprochen?#ENTITY
+Wie spricht man auf den Galapagos Inseln?#ENTITY
+Welche Sprachen werden in Nordamerika gesprochen?#ENTITY
+Welche Sprachen werden in Asien gesprochen?#ENTITY
+Welche Buchstaben gibt es im deutschen Alphabet?#ENTITY
+Welcher Buchstabe wird am häufigsten in der japanischen Sprache benutzt?#ENTITY
+Welche Buchstaben sind im Schriftzug BMW vorhanden?#ENTITY
+Welche Buchstaben kommen nicht in der afrikanischen Sprache vor?#ENTITY
+ Welcher Buchstabe ist der jüngste der englischen Sprache?#ENTITY
+Welche Pflanzen sind Meerespflanzen?#ENTITY
+Was gibt es für Bäume in Mischwäldern?#ENTITY
+Welche Pflanzen sind für Wölfe giftig?#ENTITY
+Was ist die älteste Pflanze der Erde?#ENTITY
+Welche Pflanzen sind Unkraut?#ENTITY
+Welche Artikel stellt Gilette her?#ENTITY
+Welche Produkte sind in Griechenland sehr beliebt?#ENTITY
+Welche Artikel stellt Heckler&Koch her?#ENTITY
+Welche Artikel werden in Mexiko am häufigsten benutzt?#ENTITY
+Welche Produkte sind Billigartikel und kosten weniger als 1 Euro?#ENTITY
+Welche Religionen werden in Südamerika ausgeübt?#ENTITY
+Was ist die kleinste anerkannte Religionsgemeinschaft?#ENTITY
+Welche Glaubensrichtung gibt es in Asien?#ENTITY
+Welcher Glaube herrscht in Indien vor?#ENTITY
+Was ist die jüngste Religionslehre?#ENTITY
+Welche Sportarten werden mit Surfbretts ausgeübt?#ENTITY
+Was gibt es für Sportarten in Deutschland?#ENTITY
+Was sind Extremsportarten die sehr beliebt sind?#ENTITY
+Welcher Sport findet unter Wasser statt?#ENTITY
+Was ist der Sport mit dem meisten Zulauf?#ENTITY
+Was sind die Substanzen des Giftes einer Anakonda?#ENTITY
+Welche chemische Substanz ist in WD40 enthalten?#ENTITY
+Aus was setzt sich die Flüssigkeit in Nagellack zusammen?#ENTITY
+Was macht Stickstoff giftig?#ENTITY
+Aus welchen flüssigen Bestandteilen setzt sich Nagellack zusammen?#ENTITY
+Aus welchen biologischen Bestandteilen besteht Clorophyll?#ENTITY
+Welches Symbol wird mit Buddbismuss in Verbindung gebracht?#ENTITY
+Welches Symbol war bei den Ägyptern heilig?#ENTITY
+Wie heißt das heidnische Symbol des ewigen Lebens?#ENTITY
+Welches Symbol verwenden die Hindus für das 3. Auge?#ENTITY
+Welche Symbole stehen für die Kräfte der Natur?#ENTITY
+Wie heißt das biologische Verfahren, welches garantiert, das nur die besten Produkte?#ENTITY
+Wie heißt die Methode die man PET nennt?#ENTITY
+Wie heißt die Praktik bei der Gold hergestellt wird?#ENTITY
+Wie heißt das Verfahren wie man Felder düngt?#ENTITY
+Wie heißt die Methode, bei der Seen von Pflanzen befreit werden?#ENTITY
+Wie heißt das Verfahren bei dem man den Ölstand eines Autos testet?#ENTITY
+Wie kann eine Flagge noch bezeichnet werden?#ENTITY
+Wie sagt man zum Stufenheck noch?#ENTITY
+Wie nennt man ein Auto noch?#ENTITY
+Wie nennt man die Playstation noch?#ENTITY
+Wie lautet die Übersetzung von Rechner ins Englische?#ENTITY
+Was für ein Flugzeug nutzt die US Armee?#ENTITY
+Welches Auto fährt mit Strom?#ENTITY
+Welche Autos stellt Mercedes-Benz her?#ENTITY
+Welche Flugzeuge werden vom Militär benutzt?#ENTITY
+Welches Auto fährt mit E10?#ENTITY
+Welches Wort lernen Papagaien?#ENTITY
+Welches Wort beschreibt die Türkische Pizza?#ENTITY
+Welche Wörter waren bei der französischen Revolution ausschlaggeben?#ENTITY
+Welches Wort steht für das gelbe Trasnsportmittel?#ENTITY
+Welches Wort lernt ein Papagai nicht?#ENTITY
+Welche Firma ist Deutschlands wichtigster Exporteur?#HUMAN
+Welches Unternehmen hat den höchsten Umsatz?#HUMAN
+Welcher Verband vereinigt alle Fußballverbände?#HUMAN
+Welcher Verein ist der erfolgreichste im Sport?#HUMAN
+Wie heißt der Verein der in der NBA am meisten Titel hat?#HUMAN
+Wer hat das Handy erfunden?#HUMAN
+Welcher Mensch war zuerst in Amerika?#HUMAN
+Wer ist der Erfinder des Autos?#HUMAN
+Wer ist Präsident von Uganda?#HUMAN
+Wer sind die bekanntesten Schauspieler der USA?#HUMAN
+Welchen Beruf übte Konrad Zuse aus?#HUMAN
+Welchen militärischen Grad hatte Theodor zu Guttenberg?#HUMAN
+Welchen Beruf übt Andrew Ng aus?#HUMAN
+Was macht Will Smith als Beruf?#HUMAN
+Welche Titel gewann LeBron James?#HUMAN
+Wer ist David Beckham?#HUMAN
+Wer ist Kobe Bryant?#HUMAN
+Wer war Nelson Mandela?#HUMAN
+Wer ist Steve Wozniak?#HUMAN
+Wer war Charlie Chaplin?#HUMAN
+Was ist die größte Stadt Spaniesn?#LOCATION
+Wie lautet die Hauptstadt von Spanien?#LOCATION
+In welcher Stadt fand die letzte Weltmeisterschaft statt?#LOCATION
+In welchen Städten gibt es einen Vergnügungspark?#LOCATION
+Welche Städte gibt es in Norwegen?#LOCATION
+Welche Länder sind die Reichsten?#LOCATION
+Welche Länder haben die geringste Bevölkerungsdichte?#LOCATION
+Welches Land hat die höchste Bevölkerungsdichte?#LOCATION
+Welche Länder gibt es in Afrika?#LOCATION
+Welche Länder haben ein Schwert in ihrer Landesflagge?#LOCATION
+Was ist der höchste Berg in Afrika?#LOCATION
+Welche Gebirge gibt es in Südamerika?#LOCATION
+Welcher Berg hat die meisten Besteiger?#LOCATION
+Welche Berge gibt es in Deutschland zum Wandern?#LOCATION
+Welche Berge gibt es in Russland?#LOCATION
+Wo steht die Sagrada Familia?#LOCATION
+Welche Orte bereiste Jules Verne?#LOCATION
+Wo fand Jesus den brennenden Busch?#LOCATION
+An welchem Ort ist die Suizidrate am höchsten?#LOCATION
+Wo steht das Olympiastadion?#LOCATION
+In welchen Bundesländern leben die wenigsten Einwohner?#LOCATION
+Welches Bundesland hat die wenigsten Einwohner?#LOCATION
+In welchem Staat der USA leben die sportlichsten Menschen?#LOCATION
+In welchen Staaten der USA ist Marihuana legal?#LOCATION
+Wie heißt das Bundesland, in dem München liegt?#LOCATION
+Wie lautet die IBAN der Deutschen Bank?#NUMERIC
+Welche PLZ hat Stade?#NUMERIC
+Wie lautet die Telefonnummer des Kanzleramts?#NUMERIC
+Wie lautet die ISBN des Buches "Escher Gödel Bach"?#NUMERIC
+Wie lautet der Produktcode des Landwirtschafts-Simulators?#NUMERIC
+Wie viele Einwohner leben in Leipzig?#NUMERIC
+Wie viele Stadtteile hat Dortmund?#NUMERIC
+Wie oft gewann Deutschland die Fußball-Weltmeisterschaft?#NUMERIC
+In wie viele Staaten ist Norwegen unterteilt?#NUMERIC
+Wie viele Menschen leben in Kanada?#NUMERIC
+Wann starb Charles Babbage?#NUMERIC
+Wann war die Mondlandung?#NUMERIC
+Wann ist Weihnachten?#NUMERIC
+An welchem Tag starb Karl der Große?#NUMERIC
+An welchem Tag betrat der erste russische Soldat Berlin?#NUMERIC
+Wie viele Kilometer liegen Boston und Dallas auseinander?#NUMERIC
+Wie tief ist die Ostsee?#NUMERIC
+Wie hoch ist der Mound Blanc?#NUMERIC
+Wie weit ist es von Kamenz nach Cottbus entfernt?#NUMERIC
+Wie groß ist die Entfernung zwischen London und Berlin?#NUMERIC
+Wie teuer ist ein Audi A3?#NUMERIC
+Wie viel kostet ein adidas Schuh?#NUMERIC
+Was kostete ein Trabant?#NUMERIC
+Wie hoch waren die Produktionskosten für den ersten Mercedes?#NUMERIC
+Wie hoch war der höchste Geldgewinn beim Rodeo?#NUMERIC
+Welchen Platz belegte ALBA Berlin in der Saison 2013/2014?#NUMERIC
+Welchen Platz oder Rang belegte Borussia Dortmund letzte Saison?#NUMERIC
+Welche Ordnungszahl hat Wasser im Periodensystem?#NUMERIC
+Welchen Rang nahm "Der Schwarm" in der Bestsellerliste ein?#NUMERIC
+Welchen Platz belegte Eintracht Frankfurt letzte Saison?#NUMERIC
+Wie lange ging der Erste Weltkrieg?#NUMERIC
+Wie lange brauchte die Queen Mary für ihre erste Fahrt?#NUMERIC
+Wie lange schrieb Mandred Spitzer an "Geist im Netz"?#NUMERIC
+Wie alt ist der größte Mensch der Welt geworden?#NUMERIC
+Wie lange dauert es, bis ein Lichtphoton der Sonne die Andromeda Galaxie erreicht?#NUMERIC
+Wie hoch ist die Arbeitslosenquote in Norwegen?#NUMERIC
+Wie hoch ist die Trefferquote beim Lotto?#NUMERIC
+Wie viel Prozent der Weltbevölkerung trinken kein Alkohol?#NUMERIC
+Wie hoch ist die Suizidrate in Finnland#NUMERIC
+Wie viel Prozent Sauerstoff ist in der Luft?#NUMERIC
+Wie schnell ist ein ein Photon?#NUMERIC
+Wie schnell ist der schnellste Monster-Truck?#NUMERIC
+Wie langsam ist eine das langsamste Tier?#NUMERIC
+Wie hoch ist die Geschwindigkeit eines Formel1 Autos beim Start?#NUMERIC
+Welches Tempo hat ein Löwe?#NUMERIC
+Welche Temperatur herrscht im Amazonas Gebiet?#NUMERIC
+Wie kalt ist es im Bismarck Bay?#NUMERIC
+Wie warm ist eine Herdplatte?#NUMERIC
+Wie hoch ist die Durchschnittstemperatur in Kenia?#NUMERIC
+Wie kalt ist das Schwarze Meer?#NUMERIC
+Welchen Umfang hat Deutschland?#NUMERIC
+Wie groß kann ein Bananenbaum werden?#NUMERIC
+Welches Volumen hat eine römische Gallone?#NUMERIC
+Welches Volmen besitzt ein Katzenmagen?#NUMERIC
+Was ist der Umfang von Frankreich?#NUMERIC
+Wie schwer ist ein Elefant?#NUMERIC
+Wie viel wiegt ein durchschnittler Mensch?#NUMERIC
+Welches Gewicht hat ein Neutron?#NUMERIC
+Wie viel Kilo nimmt ein Mensch im Weltall ab?#NUMERIC
+Wie viel wiegt eine ganze Kolonie Ameisen?#NUMERIC
+Was ist die Abkürzung von "Technische Universität"?#ABBREVIATION
+Wie sagt man kürzer zu "Hochschule für Technik und Wirtschaft"?#ABBREVIATION
+Wie ist die Abbreviation von "Bayrische Motorenwere"?#ABBREVIATION
+Wie kürzt man "Catalanien" ab?#ABBREVIATION
+Was ist die kurze Variante von Information Retrieval?#ABBREVIATION
+Wie sagt man zu RGB?#ABBREVIATION
+Was ist die lange Form von CDROM?#ABBREVIATION
+Wie sagt man länger zu STVO?#ABBREVIATION
+Gibt es eine lange Bezeichnung für PC?#ABBREVIATION
+Was bedeutet LAL ausgeschrieben?#ABBREVIATION
+Was ist die Definition von Biologie?#DESCRIPTION
+Wie definiert man Kommunismus?#DESCRIPTION
+Kannst du Demokratie definieren?#DESCRIPTION
+Wie erklärt man Seenot?#DESCRIPTION
+Wie definiert sich ein Personal Computer?#DESCRIPTION
+Was ist Rum?#DESCRIPTION
+Wie beschreibt man Motocross?#DESCRIPTION
+Was ist ein Seeräuber?#DESCRIPTION
+Wie kann man Statistik beschreiben?#DESCRIPTION
+Was ist eine Schaukel?#DESCRIPTION
+Wie funktioniert ein Konter?#DESCRIPTION
+Wie funktioniert das Bankensystem?#DESCRIPTION
+Wie arbeitet eine Drohne?#DESCRIPTION
+Wie umkreist ein Plant seinen Stern?#DESCRIPTION
+Wie verhält sich jemand der eine Bipolare Störung hat?#DESCRIPTION
+Aus welchem Grund muss man sich beim Einwohnermeldeamt melden?#DESCRIPTION
+Was sind die Gründe für Rückenmschmerzen?#DESCRIPTION
+Was ist der Grund für Konrad Zuses Tod#DESCRIPTION
+Was ist der Grund für den Ersten Weltkrieg?#DESCRIPTION
+Aus welchen Gründen wurde die Datenvorratsspeicherung beschlossen?#DESCRIPTION
+Welches Tier ist 10 Gramm schwer?#ENTITY
+Welche Tiere können schwimmen?#ENTITY
+Welche Tiere haben Flossen und tauchen länger als 3 Stunden?#ENTITY
+Welche Tiere sind in Indien zu Hause?#ENTITY
+Welche Tiere sind leben in Nordafrika?#ENTITY
+In welchem Teil des Körpers wird Blut produziert?#ENTITY
+Welche Areale gibt es im Gehirn?#ENTITY
+Was ist der größte Knochen im Körpers?#ENTITY
+Welcher Teil des Körpers beinhält das die Lunge?#ENTITY
+Aus welchen Teilen besteht das menschliche Gehirn?#ENTITY
+Welche Farbe hat einen hohen Blauanteil?#ENTITY
+Welche Farbe nutzte Gaudi oft bei seinen Bauwerken?#ENTITY
+Welche Farben sind im Logo vom ZDF?#ENTITY
+Was sind die Farben in der Fahne von Russland?#ENTITY
+Wie sieht die Farbe aus, die das Moos hat?#ENTITY
+Welche Kunstwerke malte Canaletto?#ENTITY
+Welches Gemälde ist von Salvador Dali?#ENTITY
+Welches bekannte Bild hat Jules Verne gemalt?#ENTITY
+Wie heißt das Bild, dass Casper David Friedrich gemalt hat?#ENTITY
+Welche Währung wird in Italien benutzt?#ENTITY
+Welche Währungen werden in Australien benutzt?#ENTITY
+Mit welchem Geld bezahlt man in Kuba?#ENTITY
+Wie heißt das Geld mit dem man in Südkorea bezahlt?#ENTITY
+Welchen Namen hat das Geld mit dem man in Lettland bezahlt?#ENTITY
+Wie heißt die Krankheit die man bekommt, wenn man zu lang in der Sauna ist?#ENTITY
+Wie nennt man die Krankheiten, die den Tod verursachen?#ENTITY
+Welche Krankheiten gibt es in Europa?#ENTITY
+Welche Krankheit kommt häufig in Südafrika vor?#ENTITY
+An was erkrankt man, bei zu wenig Zucker im Blut?#ENTITY
+Welches Event fand am 12.04.1989 in Dresden statt?#ENTITY
+Was für ein Event findet monatlich in Berlin statt?#ENTITY
+Welche Veranstaltung ist in Nürnberg im Januar?#ENTITY
+Was für eine Versammlung findet im Dezember in Hamburg statt?#ENTITY
+Wie heißt die Show von Olaf Schubert?#ENTITY
+Welches Getränk besteht aus Zitronengras und Zucker?#ENTITY
+Was ist das älteste Bier aus Japan?#ENTITY
+Welche Getränke sind mit Absinthe gemacht?#ENTITY
+Welche Gerichte mit Nudeln gibt es?#ENTITY
+Welche Essen mit Reis sind sehr gut für die Gesundheit?#ENTITY
+Welche Instrumente bestehen aus Blech?#ENTITY
+Welches Musik-Instrument ist ziemlich leise?#ENTITY
+Welche Holz-Instrumente wurden schon in der Antike gespielt?#ENTITY
+Welches Instrument spielt im Staatstheater?#ENTITY
+Welche Sprache wird in Norwegen gesprochen?#ENTITY
+Welche Sprachen spricht man am Nordpol?#ENTITY
+Welche Sprechweise herrscht in Litauen vor?#ENTITY
+Von welcher Mundart stammt das Plattdeutsche ab?#ENTITY
+Welche Redensart wird in Kamerun gesprochen?#ENTITY
+Welcher Buchstabe ist der älteste in der norwegischen Sprache?#ENTITY
+Welche Buchstaben gibt es in der asiatischen Schrift?#ENTITY
+Welcher Letter kommt auf der Tastatur nach E und T?#ENTITY
+Welche Schriftzeichen gibt in der afrikanischen Sprache?#ENTITY
+Welches Schriftzeichen ist im Tesla Motors Logo?#ENTITY
+Welche Pflanze wächst in feuchten Umgebungen?#ENTITY
+Aus welchen Pflanzen kann man Kaffee machen?#ENTITY
+Welches Gewächs blüht ausschließlich im Winter?#ENTITY
+Welcher Baum wächst im Amazonasgebiet?#ENTITY
+Welche Blume kann man zur Heilung verwenden?#ENTITY
+Welche Auto-Marke ist die erfolgreichste in den Europa?#ENTITY
+Welches Produkt ist das billigste der Welt?#ENTITY
+Welche Artikel werden in Deutschland am häufigsten gekauft?#ENTITY
+Welche Hersteller von Kondomen gibt es in Australien?#ENTITY
+Welche Produkte stellt Tesla her?#ENTITY
+Welche Religionen gibt es in Australien?#ENTITY
+Welche Religion wurde von Siddhartha Gautama gegründet?#ENTITY
+Welche Glaubensrichtung herrscht in Uganda vor?#ENTITY
+Welcher Glaube ist in den Südamerika verbreitet?#ENTITY
+Welche religiöse Lehre herrscht in Frankfreich vor?#ENTITY
+Welcher Club ist der erfolgreichste in Europa?#ENTITY
+Welche typischen Ballsportarten gibt es in Australien?#ENTITY
+Welche Sportart wird in Russland am häufigsten gespielt?#ENTITY
+Wie heißt die Sportart die im Wald stattfindet?#ENTITY
+Welche Teams spielen in der NFL Football?#ENTITY
+Welche chemische Benzinmischung nutzen die meisten Motoren?#ENTITY
+Was ist die chemische Hauptzutat von Geschmacksverstärkern?#ENTITY
+Wie setzt sich Metall chemisch zusammen?#ENTITY
+Was sind die flüssigen Bestandteile von Clorophyll?#ENTITY
+Aus welchen Stubstanzen wird Glas hergestellt?#ENTITY
+Was ist das keltische Symbol des Todes?#ENTITY
+Was ist das asiatische Zeichen für das Leben?#ENTITY
+Welche Symbole benutzen die Mongolen?#ENTITY
+Welches Zeichen hat BMW als Logo?#ENTITY
+Welches Kennzeichen haben die Freimaurer?#ENTITY
+Wie heißt die Methode mit der man lernt Auto zu fahren?#ENTITY
+Mit welchem Verfahren kann man CDs brennen?#ENTITY
+Mit welcher Vorgehensweise sind die Mongolen in den Kampf gezogen?#ENTITY
+Wie heißt die Strategie von erfolgreichen Manager?#ENTITY
+Mit welchen Taktiken haben die Wikinger ihre Schlachten gewonnen?#ENTITY
+Wie sagt man in spanisch "Ich liebe dich"?#ENTITY
+Wie bezeichnet man einen Transporter noch?#ENTITY
+Was sagt ein Österreicher zu einem Deutschen?#ENTITY
+Was ist die englische Übersetzung von Roboter?#ENTITY
+Wie übersetzt man Mensch ins Schwedische?#ENTITY
+Welche Schiffe hat die Marine?#ENTITY
+Welche Autos stellt Ford Motors her?#ENTITY
+Wie hieß das Schiff von Klaus Störtebeker?#ENTITY
+Welche Fahrzeuge oder Autos stellt Honda her?#ENTITY
+Wie heißt das Auto von Audi das elektrisch fährt?#ENTITY
+Welches Wort steht am meisten auf Warnwesten?#ENTITY
+Welche Wörter stehen am Parlament?#ENTITY
+Welchen Satz sagte Angela Merkel bei ihrer berühmtesten Rede?#ENTITY
+Welche Wörter waren der Inhalt der deutschen Revolution?#ENTITY
+Welches Wort steht für 10 Pfennig im Sächsischen?#ENTITY
+Welche Firma baute die ersten Zepelline?#HUMAN
+Welche Unternehmen haben sich 2010 in Europa gegründet?#HUMAN
+Welche Gemeinschaften gründeten sich als Geheimbund?#HUMAN
+Welcher Verein hat das Ziel die Flüchtlinge zu beschützen?#HUMAN
+Welche Organisationen wollen das Überfischen der Ozeane verbieten?#HUMAN
+Wer eroberte als erster Mensch Indien?#HUMAN
+Wer regierte Norwegen im Jahre 2000?#HUMAN
+Welche Persönlichkeiten starben im Jahre 1991?#HUMAN
+Welche Menschen waren für den den Ersten Weltkrieg verantwortlich?#HUMAN
+Welche Person ist aktuell Präsident von Kanada?#HUMAN
+Welchen Beruf übt Manfred Spitzer aus aus?#HUMAN
+Welche Berufe hat Leonardo da Vinci ausgeübt?#HUMAN
+Welchen akademischen Grad hat Christopher Manning?#HUMAN
+Welche Titel gewann Michael Schuhmacher?#HUMAN
+Welchen Rang hat Gregor Gysi?#HUMAN
+Wer ist Gregor Gysi?#HUMAN
+Wer war Nero?#HUMAN
+Wer war Anaxagoras?#HUMAN
+Wer war Diogenes im Fass?#HUMAN
+Wer ist Winnie Pooh?#HUMAN
+Welche Städte gibt es in Dänemark?#LOCATION
+Was ist die Hauptstadt von Italien?#LOCATION
+Was ist die Landeshauptstadt vom Saarland?#LOCATION
+Welche Stadt ist bei Moslems beliebt?#LOCATION
+Welcher Großstadt ist bekannt für den CN Tower?#LOCATION
+Welches Land grenzt im Norden an die United States?#LOCATION
+Welche Länder gibt es am Nordpol?#LOCATION
+Welches Land hat die wenigsten Einwohner?#LOCATION
+Welche Länder haben den geringsten Wohlstand?#LOCATION
+Welche Länder haben die Farbe grün und rot in der Flagge?#LOCATION
+Welcher Berg ist der größte in Nordamerika?#LOCATION
+Welches Gebirge verläuft durch Deutschland?#LOCATION
+Welche Berge gibt es in Indien?#LOCATION
+Welche Gipfel hat Nordamerika?#LOCATION
+Auf welchen Gipfeln liegt Schnee?#LOCATION
+Wo war der erste Übergang nach Dänemark?#LOCATION
+Wo war der erste Bahnhof in Deutschland?#LOCATION
+Welcher Ort wird für die Freizeit in Saarbrücken empfohlen?#LOCATION
+In welchem Stadion spielt der VfB Stuttgart?#LOCATION
+Wo werden in Deutschland Gurken hergestellt?#LOCATION
+In welchem Bundesland liegt Weimar?#LOCATION
+In welchen Bundesländern gibt es Naturschutzgebiete?#LOCATION
+In welchen Bundesländern kann man Wildzelten?#LOCATION
+Wie heißt das Bundesland in dem die Stadt Hamburg liegt?#LOCATION
+Was ist das kleinste Bundesland in Deutschland?#LOCATION
+Was ist die Postleitzahl von Quarkenbrück?#NUMERIC
+Welchen Code hat die Stadt Berlin?#NUMERIC
+Welche Telefonnummer hat die Polizei?#NUMERIC
+Welche Telefonnummer hat die Wasserwacht?#NUMERIC
+Was ist die Kennung vom Terminal in Barcelona?#NUMERIC
+Wieviele Menschen leben auf Dörfern?#NUMERIC
+Wieviel Gurken brauch ich für einen Gurkensalat?#NUMERIC
+Wieviel CDs produzierte Herbert Grönemeyer?#NUMERIC
+Wie viele Bücher von Joseph Weizenbaum wurden verkauft?#NUMERIC
+Wieviel Liter Wein trinkt man jährlich auf der Welt?#NUMERIC
+Wann starb Kaiser Nero?#NUMERIC
+An welchem Datum fand der Kriegseintritt der USA statt?#NUMERIC
+Wann wurde die Mond Mission gestartet?#NUMERIC
+An welchem Tag tratt das Deutsche Grundgesetz in Kraft?#NUMERIC
+Wann wurde Alon Musk geboren?#NUMERIC
+Wie groß ist die Entfernung zwischen Erde und Mond?#NUMERIC
+Wie weit ist Weimar von Erfurt entfernt?#NUMERIC
+Was ist die Distanz zwischen Los Angeles und dem Silicon Valley?#NUMERIC
+Wie weit sind Cuxhaven und Hamburg auseinander?#NUMERIC
+Was ist die Entfernung von hier zum Mars?#NUMERIC
+Wie teuer ist das Spiel "Bioshock"?#NUMERIC
+Wieviel kostet der der neuste Audi?#NUMERIC
+Was lege ich an Geld für eine Melone hin?#NUMERIC
+Wie teuer war das erste Auto aller Zeiten?#NUMERIC
+Wieviel kostete das erste Produkt von Alon Musk?#NUMERIC
+Welche Kapitel von Harry Potter sind die Spannendsten?#NUMERIC
+Welchen Platz macht Japan bei den exportierten Produkten?#NUMERIC
+Welchen Platz hatten die Boston Celtics auf der Rangliste im Jahr 2014?#NUMERIC
+Welchen Rang erreichte Katharina Witt im Jahre 2006?#NUMERIC
+Welche Platzierung belegten die Toronto Raptors in der Saison 2010?#NUMERIC
+Wie lang war Angela Merkel Bundeskanzlerin?#NUMERIC
+Wie lang braucht ein Formel1 Auto bis es eine Runde im Nürburgring gefahren ist?#NUMERIC
+Wie alt ist Michelangelo geworden?#NUMERIC
+Wie lange dauert es bis ein Katzenbaby schlüpft?#NUMERIC
+Wieviel Prozent der Weltbevölkerung ist unter 40 Jahren?#NUMERIC
+Wie ist die Rate eines durchschnittlichen 3-Punkte Wurfes?#NUMERIC
+Welcher Anteil der deutschen Bauarbeiter ist unter 30 Jahren?#NUMERIC
+Welche Prozentzahl erreichte die FDP bei der Wahl 2008?#NUMERIC
+Wieviel Prozent Alkohol hat Obstler?#NUMERIC
+Wie schnell ist ein Mittelklasse-Wagen?#NUMERIC
+Welche Schnelligkeit erreicht ein Paddepboot?#NUMERIC
+Mit welcher Geschwindigkeit fährt ein LKW im Durchschnitt?#NUMERIC
+Mit welchem Tempo darf man auf spanischen Landstraßen fahren?#NUMERIC
+Wie schnell darf man in norwegischen Dörfern maximal fahren?#NUMERIC
+Wie heiß kann ein Motorblock durchschnittlich werden?#NUMERIC
+Wieviel Grad kalt ist es an der tiefsten Stelle im Schwarzen Meer?#NUMERIC
+Wie kalt war der kälteste Tag dieses Jahr in Kroatien?#NUMERIC
+Welche Temperatur war am 10.10.2010 in Gelsenkirchen?#NUMERIC
+Wie ist die Durchschnittstemperatur in Israel?#NUMERIC
+Wie groß ist Moskau?#NUMERIC
+Was ist das Volumen eines herkömmlichen Eimers?#NUMERIC
+Welchen Umfang hat Thüringen?#NUMERIC
+Welche Ausdehnung hat das kaspische Meer?#NUMERIC
+Wie schwer ist Shaquille O'Neal?#NUMERIC
+Wieviel wiegt ein Elch?#NUMERIC
+Welche Masse hat ein durchschnittlicher LKW?#NUMERIC
+Welches Körpergewicht hat ein Dinosaurier?#NUMERIC
+Welche Last bringt ein Straußs auf die Waage?#NUMERIC

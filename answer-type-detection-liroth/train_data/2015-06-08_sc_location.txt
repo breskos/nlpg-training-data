@@ -1,0 +1,150 @@
+Welche Städte gibt es in Deutschland?#LOC_CITY
+Was ist die Hauptstadt von Deutschland?#LOC_CITY
+Was ist die Landeshauptstadt von Sachsen?#LOC_CITY
+Welche Stadt ist bei Christen beliebt?#LOC_CITY
+Welcher Großstadt ist bekannt für das Brandenburger Tor?#LOC_CITY
+Welches Land hat ein Ahornblatt in der Flagge?#LOC_COUNTRY
+Welche Länder gibt es in Afrika?#LOC_COUNTRY
+Welches Land hat die meisten Einwohner?#LOC_COUNTRY
+Welche Länder haben den größten Wohlstand?#LOC_COUNTRY
+Welche Länder haben die Farbe blau in der Flagge?#LOC_COUNTRY
+Welcher Berg ist der größte in Europa?#LOC_MOUNTAIN
+Welches Gebirge verläuft durch Russland?#LOC_MOUNTAIN
+Welche Felsen gibt es in Asien?#LOC_MOUNTAIN
+Welche Gipfel hat Südamerika?#LOC_MOUNTAIN
+Auf welchen Berge liegt Schnee?#LOC_MOUNTAIN
+Wo war der erste Übergang der Mauer?#LOC_OTHER
+Wo ist der erste Zoo in Deutschland?#LOC_OTHER
+Welcher Ort wird für die Freizeit in Dresden empfohlen?#LOC_OTHER
+In welchem Stadion spielt Hertha BSC Berlin?#LOC_OTHER
+Wo werden Silicium Chips hergestellt?#LOC_OTHER
+In welchem Bundesland liegt Essen?#LOC_STATE
+In welchen Bundesländern regiert die CDU?#LOC_STATE
+In welchen Bundesländern kann man in Bars rauchen?#LOC_STATE
+Wie heißt das Bundesland in dem die Stadt Erfurt liegt?#LOC_STATE
+Was ist das größte Bundesland in Deutschland?#LOC_STATE
+Welche Städte gibt es in Russland?#LOC_CITY
+Was ist die Hauptstadt von Kasachstan?#LOC_CITY
+Was ist die Landeshauptstadt von Brandenburg?#LOC_CITY
+Welche Stadt ist bei Muslimen beliebt?#LOC_CITY
+Welche Stadt ist bekannt für die Band Kraftklub?#LOC_CITY
+Welches Land die größte Fläche?#LOC_COUNTRY
+Welche Länder gibt es in Asien?#LOC_COUNTRY
+Welches Land hat den niedrigsten Lebensstandard?#LOC_COUNTRY
+Welche Länder haben mehr Frauen als Männer?#LOC_COUNTRY
+Welche Länder haben die Farbe Grün in der Flagge?#LOC_COUNTRY
+Welcher Berg ist der größte der Welt?#LOC_MOUNTAIN
+Welches Gebirge liegt in Sachsen?#LOC_MOUNTAIN
+Welche Felsen gibt es in Europa?#LOC_MOUNTAIN
+Welche Gipfel zählen zu den gefährlichsten der Welt?#LOC_MOUNTAIN
+Auf welchen gibt es einen Lift?#LOC_MOUNTAIN
+Wo ist Stalin begraben?#LOC_OTHER
+Wo ist die älteste Universität Deutschlands?#LOC_OTHER
+Welcher Ort liegt auf einem Berg?#LOC_OTHER
+In welchem Stadion spielt der 1. FC Köln?#LOC_OTHER
+Wo werden Snickers hergestellt?#LOC_OTHER
+In welchem Bundesland liegt Kassel?#LOC_STATE
+In welchen Bundesländern regiert die SPD?#LOC_STATE
+In welchen Bundesländern kann man in Bars nicht rauchen?#LOC_STATE
+Wie heißt das Bundesland in dem die Stadt Köln liegt?#LOC_STATE
+Was ist das kleinste Bundesland in Deutschland?#LOC_STATE
+In Welche Stadt steht der Eiffelturm?#LOC_CITY
+Was ist die Hauptstadt Taiwans?#LOC_CITY
+Welche ist die größte Stadt Sachsens?#LOC_CITY
+In welcher Stadt wurde Adolf Hitler geboren?#LOC_CITY
+Wo fanden die Olymischen Winterspiele 1972 statt?#LOC_CITY
+In welchen Ländern ist Mariuhana legal erwerblich?#LOC_COUNTRY
+In welchem Land essen sie Hunde?#LOC_COUNTRY
+Welches Land hat die glücklichsten Einwohner?#LOC_COUNTRY
+Welches europäische Land liegt vollständig auf einer Insel?#LOC_COUNTRY
+Von welchem Staat war Nelson Mandela Präsident?#LOC_COUNTRY
+Welches Gebirge trennt die iberische Halbinsel von Europa?#LOC_MOUNTAIN
+Wie heißt der zweithöchste Gipfel der Welt?#LOC_MOUNTAIN
+Zu welchem Gebirgsmassiv gehört der Mount Everest?#LOC_MOUNTAIN
+Die Nordwand welches Berges wurde von Heinrich Harrer erstbestiegen?#LOC_MOUNTAIN
+Wie nennt sich die hächste Erhebung Argentiniens?#LOC_MOUNTAIN
+Wo gibt es das billigste Essen?#LOC_OTHER
+Welches Restaurant hat das beste Eisbein in Dresden?#LOC_OTHER
+An welchem Ort wurde die Berliner Mauer zuerst geöffnet?#LOC_OTHER
+Wo lebt Michael Schumacher heute?#LOC_OTHER
+Wo ist Stonehenge?#LOC_OTHER
+In welchen Bundesstaaten der USA kann man Gras kaufen?#LOC_STATE
+Welche Staaten der USA haben die Todesstrafe?#LOC_STATE
+Wie heißt das kleinste Bundesland Deutschlands?#LOC_STATE
+In welchem Bundesland liegt Berlin?#LOC_STATE
+Welche autonomen Regionen hat Spanien?#LOC_STATE
+Was ist die größte Stadt der USA?#LOC_CITY
+Wie lautet die Hauptstadt von Japan?#LOC_CITY
+In welcher Stadt fanden die olympischen Sommerspiele 1936 statt?#LOC_CITY
+In welchen Städten gibt es einen Vergnügungspark?#LOC_CITY
+Welche Städte gibt es in Schweden?#LOC_CITY
+Welche Länder sind die ärmsten in der Weltbevölkerung?#LOC_COUNTRY
+Welches Land hat die größte Bevölkerungsdichte?#LOC_COUNTRY
+Welches Land hat die niedrigste Bevölkerungsdichte?#LOC_COUNTRY
+Welche Länder gibt es in Kanada?#LOC_COUNTRY
+Welche Länder haben ein Tier in ihrer Landesflagge?#LOC_COUNTRY
+Was ist der höchste Berg in Asien?#LOC_MOUNTAIN
+Welche Gebirge gibt es in den USA?#LOC_MOUNTAIN
+Welcher Berg hat die meisten Todesfälle?#LOC_MOUNTAIN
+Welche Berge gibt es in Österreich zum Skifahren?#LOC_MOUNTAIN
+Welche Berge gibt es in Deutschland?#LOC_MOUNTAIN
+Wo steht das Taj Mahal?#LOC_OTHER
+Welche Orte bereiste Goethe?#LOC_OTHER
+Wo fand Siddhartha Gautama seine Erleuchtung?#LOC_OTHER
+Wo werden Hunde und Katzen gegessen?#LOC_OTHER
+Wo ist die Suizidrate am höchsten?#LOC_OTHER
+In welchem Bundesland leben die meisten Einwohner?#LOC_STATE
+Welches Bundesland hat die meisten Städte?#LOC_STATE
+In welchem Staat der USA leben die dicksten Menschen?#LOC_STATE
+In welchen Staaten der USA gibt es die Todesstrafe?#LOC_STATE
+Wie heißt das Bundesland, in dem Frankfurt am Main liegt?#LOC_STATE
+In welchen deutschen Städten steht eine Roland-Figur?#LOC_CITY
+In welchen europäischen Städten sind Silversterböller verboten?#LOC_CITY
+Wie heißt die Stadt, in der der Eiffelturm steht?#LOC_CITY
+Welches sind die drei größten Städte in Spanien?#LOC_CITY
+Welche iberischen Städte wurden nach 1800 gegründet?#LOC_CITY
+In welchem Land führte die Textilindustrie die Industrialisierung an?#LOC_COUNTRY
+Welche Länder gehören zur Euro-Gruppe?#LOC_COUNTRY
+Welche asiatischen Länder waren französische Kolonien?#LOC_COUNTRY
+Zu welchem Land gehören die Niagara-Fälle?#LOC_COUNTRY
+Welche Länder gehören zu Australien?#LOC_COUNTRY
+Welcher Berg hatte im Jahr 2012 die meisten Touristen?#LOC_MOUNTAIN
+Auf welchem Berg in Südamerika gibt es die meisten Großteleskope?#LOC_MOUNTAIN
+Welches ist der höchste Berg in Norwegen?#LOC_MOUNTAIN
+Wie heißt ein für die Aborigines heiliger Berg in Australien?#LOC_MOUNTAIN
+Welches ist der höchste Berg in Sachsen?#LOC_MOUNTAIN
+Wie heißt die tiefste Stelle in Pazifik?#LOC_OTHER
+In welchem Gebäude wurde Albert Einstein geboren?#LOC_OTHER
+Wo liegt der geomagnetische Nordpol?#LOC_OTHER
+Welcher Fluss markiert die Grenze Deutschlands zu Polen?#LOC_OTHER
+Welches nichteuropäische Land gehört zu Dänemark?#LOC_OTHER
+Welches Bundesland wurde erst in den 50er Jahren Teil der Bundesrepublik Deutschland?#LOC_STATE
+Welches deutsche Bundesland hat die meisten Seen?#LOC_STATE
+Welche Bundesländer sind Freistaaten?#LOC_STATE
+In welchem Bundesland liegt der Nürburgring?#LOC_STATE
+Zu welchem späteren Bundesland zählte Torgau vor der Wende?#LOC_STATE
+Welche Städte liegen an der Ilm?#LOC_CITY
+Welches sind die zehn größten Städte Deutschlands?#LOC_CITY
+In welcher Stadt steht das Doppeldenkmal von Schiller und Goethe?#LOC_CITY
+Welche Stadt ist gerade 50 Jahre alt geworden?#LOC_CITY
+Welche deutsche Stadt wurde 1945 besonders stark zerstört?#LOC_CITY
+Welches Land ist das kleinste in Europa?#LOC_COUNTRY
+Welche Länder grenzen an Brasilien?#LOC_COUNTRY
+Welches Land ist 1990 in Europa verschwunden?#LOC_COUNTRY
+Aus welchem Land haben sich die Tschechische Republik und die Slowakei gebildet?#LOC_COUNTRY
+Welches Land hat 26 Kantone?#LOC_COUNTRY
+Wie heißt der höchste Berg in Thüringen?#LOC_MOUNTAIN
+Welches ist der höchste Berg Afrikas?#LOC_MOUNTAIN
+Wo liegt der Similaun?#LOC_MOUNTAIN
+Wie heißt der bekannteste Berg in Deutschland?#LOC_MOUNTAIN
+Welcher Berg liegt im Harz?#LOC_MOUNTAIN
+In welcher Region liegt Wernigerode?#LOC_OTHER
+Wo liegt der Thüringer Rennsteig?#LOC_OTHER
+Welche Orte liegen in der Oberlausitz?#LOC_OTHER
+Welches Moor liegt am nächsten an Kamenz?#LOC_OTHER
+Wo liegt die Lorelei?#LOC_OTHER
+In welchem Bundesland liegt Weimar?#LOC_STATE
+Über welche Bundesländer erstreckt sich die Niederlausitz?#LOC_STATE
+Welches ist das kleinste Bundesland Deutschlands?#LOC_STATE
+In welchem Bundesland wird Schwäbisch gesprochen?#LOC_STATE
+Welches Bundesland war Tauschobjekt für Westberlin bei der Aufteilung Deutschlands durch die Alliierten?#LOC_STATE

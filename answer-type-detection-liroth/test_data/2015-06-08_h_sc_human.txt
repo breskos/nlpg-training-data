@@ -1,0 +1,60 @@
+Welcher Verein setzt sich für den Tierschutz ein?#HUM_GROUP
+Wie heißt die Firma die das iPad herstellt?#HUM_GROUP
+Wie nennt sich das Unternehmen in dem Steve Jobs arbeitete?#HUM_GROUP
+Von welcher Organisation setzt sich für den Tierschutz ein?#HUM_GROUP
+Welche Gruppe kämpft für die Unabhängigkeit in Afrika?#HUM_GROUP
+Wie heißt das Oberhaupt von Agentinien?#HUM_INDIVIDUAL
+Wie hießen berühmte Freiheitskämpfer?#HUM_INDIVIDUAL
+Welcher Mensch war als erstes am Nordpol?#HUM_INDIVIDUAL
+Welcher Regisseur erhielt zwei Oscars?#HUM_INDIVIDUAL
+Wer ist der größte Mensch der Welt?#HUM_INDIVIDUAL
+Welchen Rang hat Barack Obama bei der US Armeee?#HUM_TITLE
+Welche Position hat Putin in Russland?#HUM_TITLE
+Welchen Titel trug Joseph Weizenbaum?#HUM_TITLE
+Welche Bezeichnung trägt Shiva im Hinduismus?#HUM_TITLE
+Als was arbeitete Andrew Ng?#HUM_TITLE
+Wer ist Joseph Weizenbaum?#HUM_DESCRIPTION
+Wer war Gerhard Schröder?#HUM_DESCRIPTION
+Wer war Abraham Lincoln?#HUM_DESCRIPTION
+Wer ist Alon Musk?#HUM_DESCRIPTION
+Wer ist Steve Ballmer?#HUM_DESCRIPTION
+Welche Firma ist Deutschlands wichtigster Exporteur?#HUM_GROUP
+Welches Unternehmen hat den höchsten Umsatz?#HUM_GROUP
+Welcher Verband vereinigt alle Fußballverbände?#HUM_GROUP
+Welcher Verein ist der erfolgreichste im Sport?#HUM_GROUP
+Wie heißt der Verein der in der NBA am meisten Titel hat?#HUM_GROUP
+Wer hat das Handy erfunden?#HUM_INDIVIDUAL
+Welcher Mensch war zuerst in Amerika?#HUM_INDIVIDUAL
+Wer ist der Erfinder des Autos?#HUM_INDIVIDUAL
+Wer ist Präsident von Uganda?#HUM_INDIVIDUAL
+Wer sind die bekanntesten Schauspieler der USA?#HUM_INDIVIDUAL
+Welchen Beruf übte Konrad Zuse aus?#HUM_TITLE
+Welchen militärischen Grad hatte Theodor zu Guttenberg?#HUM_TITLE
+Welchen Beruf übt Andrew Ng aus?#HUM_TITLE
+Was macht Will Smith als Beruf?#HUM_TITLE
+Welche Titel gewann LeBron James?#HUM_TITLE
+Wer ist David Beckham?#HUM_DESCRIPTION
+Wer ist Kobe Bryant?#HUM_DESCRIPTION
+Wer war Nelson Mandela?#HUM_DESCRIPTION
+Wer ist Steve Wozniak?#HUM_DESCRIPTION
+Wer war Charlie Chaplin?#HUM_DESCRIPTION
+Welche Firma baute die ersten Zepelline?#HUM_GROUP
+Welche Unternehmen haben sich 2010 in Europa gegründet?#HUM_GROUP
+Welche Gemeinschaften gründeten sich als Geheimbund?#HUM_GROUP
+Welcher Verein hat das Ziel die Flüchtlinge zu beschützen?#HUM_GROUP
+Welche Organisationen wollen das Überfischen der Ozeane verbieten?#HUM_GROUP
+Wer eroberte als erster Mensch Indien?#HUM_INDIVIDUAL
+Wer regierte Norwegen im Jahre 2000?#HUM_INDIVIDUAL
+Welche Persönlichkeiten starben im Jahre 1991?#HUM_INDIVIDUAL
+Welche Menschen waren für den den Ersten Weltkrieg verantwortlich?#HUM_INDIVIDUAL
+Welche Person ist aktuell Präsident von Kanada?#HUM_INDIVIDUAL
+Welchen Beruf übt Manfred Spitzer aus aus?#HUM_TITLE
+Welche Berufe hat Leonardo da Vinci ausgeübt?#HUM_TITLE
+Welchen akademischen Grad hat Christopher Manning?#HUM_TITLE
+Welche Titel gewann Michael Schuhmacher?#HUM_TITLE
+Welchen Rang hat Gregor Gysi?#HUM_TITLE
+Wer ist Gregor Gysi?#HUM_DESCRIPTION
+Wer war Nero?#HUM_DESCRIPTION
+Wer war Anaxagoras?#HUM_DESCRIPTION
+Wer war Diogenes im Fass?#HUM_DESCRIPTION
+Wer ist Winnie Pooh?#HUM_DESCRIPTION

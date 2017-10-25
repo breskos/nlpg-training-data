@@ -1,0 +1,678 @@
+Welches Tier ist 60kg schwer?#ENT_ANIMAL
+Welche Tiere können fliegen?#ENT_ANIMAL
+Welche Tiere haben Flügel und fliegen länger als 3 Stunden?#ENT_ANIMAL
+Welche Tiere sind in Europa zu Hause?#ENT_ANIMAL
+Welche Tiere sind leben in Südamerika?#ENT_ANIMAL
+In welchem Teil des Körpers wird Essen verdaut?#ENT_BODY
+Welche Bereiche gibt es im menschlichen Gehirn?#ENT_BODY
+Was ist der größte Muskel des Körpers?#ENT_BODY
+Welcher Teil des Körpers beinhält das Limbische System?#ENT_BODY
+Aus welchen Teilen besteht das menschliche Auge?#ENT_BODY
+Welche Farbe hat einen hohen Rotanteil?#ENT_COLOR
+Welche Farbe nutzte Michelangelo bei seiner Madonna?#ENT_COLOR
+Welche Farben sind im Logo von McDonalds?#ENT_COLOR
+Was sind die Farben in der Fahne von Deutschland?#ENT_COLOR
+Wie sieht die Farbe aus, die das Meer hat?#ENT_COLOR
+Welche Kunstwerke malte Michelangelo?#ENT_CREATIVE
+Welches Gemälde ist von Canaletto?#ENT_CREATIVE
+Welches Bild hat Leonardo da Vinci gemalt?#ENT_CREATIVE
+Wie heißt das Bild, dass Canaletto gemalt hat?#ENT_CREATIVE
+Welche Währung wird in China benutzt?#ENT_CURRENCY
+Welche Währungen werden in Europa benutzt?#ENT_CURRENCY
+Mit welchem Geld bezahlt man in Paraguay?#ENT_CURRENCY
+Wie heißt das Geld mit dem man in China bezahlt?#ENT_CURRENCY
+Welchen Namen hat das Geld mit dem man in Russland bezahlt?#ENT_CURRENCY
+Wie heißt die Krankheit die man bekommt, wenn man zu lang im kalten ist?#ENT_MEDICINE
+Wie nennt man die Krankheit, die den Tod verursacht?#ENT_MEDICINE
+Welche Krankheiten gibt es in Europa?#ENT_MEDICINE
+Welche Krankheit kommt häufig in Südamerika vor?#ENT_MEDICINE
+An was erkrankt man, bei zu viel Zucker im Blut?#ENT_MEDICINE
+Welches Event fand am 21.12.2012 in Berlin statt?#ENT_EVENT
+Was für ein Event findet jährlich in Dresden statt?#ENT_EVENT
+Welche Veranstaltung ist in München im Oktober?#ENT_EVENT
+Was für eine Versammlung findet im Januar in Dresden statt?#ENT_EVENT
+Wie heißt die Show von Mario Barth?#ENT_EVENT
+Welches Getränk besteht aus Vermouth und Kräutern?#ENT_FOOD
+Was ist das älteste Bier aus Deutschland?#ENT_FOOD
+Welche Getränke sind mit Rum gemacht?#ENT_FOOD
+Welche Gerichte mit Spaghetti gibt es?#ENT_FOOD
+Welches Essen mit Kartoffeln ist sehr gesund für die Gesundheit?#ENT_FOOD
+Welche Instrumente bestehen aus Holz?#ENT_INSTRUMENT
+Welches Musik-Instrument ist sehr laut?#ENT_INSTRUMENT
+Welche Instrumente wurden schon in der Antike gespielt?#ENT_INSTRUMENT
+Welches Instrument spielt im normalen Orchester?#ENT_INSTRUMENT
+Welche Sprache wird in Paraguay gesprochen?#ENT_LANG
+Welche Sprachen spricht man in Europa?#ENT_LANG
+Welche Sprechweise herrscht in Schweden vor?#ENT_LANG
+Von welcher Mundart stammt das Indogermanische ab?#ENT_LANG
+Welche Redensart wird in Südafrika gesprochen?#ENT_LANG
+Welcher Buchstabe ist der älteste in der deutschen Sprache?#ENT_LETTER
+Welche Buchstaben gibt es in der Runenschrift?#ENT_LETTER
+Welcher Letter kommt auf der Tastatur nach A und S?#ENT_LETTER
+Welche Schriftzeichen gibt in der chinesischen Sprache?#ENT_LETTER
+Welches Schriftzeichen ist im McDonalds Logo?#ENT_LETTER
+Welche Videoformate gibt es?#ENT_OTHER
+Wofür hielten die Inker und Maya die Konquistadore?#ENT_OTHER
+Was hat Martin Luther an die Kirche in Wittenberg geschlagen?#ENT_OTHER
+Wie hießt das Schwert von König Arthur?#ENT_OTHER
+Was muss man tun, um ein Held zu sein?#ENT_OTHER
+Welche Pflanze wächst bei trockenen Temmperaturen?#ENT_PLANT
+Aus welchen Pflanzen kann man Tee machen?#ENT_PLANT
+Welches Gewächs blüht auch im Winter?#ENT_PLANT
+Welcher Baum wächst in Paraguay?#ENT_PLANT
+Welche Blume kann man gut verschenken?#ENT_PLANT
+Welche Auto-Marke ist die erfolgreichste in den USA?#ENT_PRODUCT
+Welches Produkt ist das teuerste der Welt?#ENT_PRODUCT
+Welcher Artikel wird in Deutschland am häufigsten gekauft?#ENT_PRODUCT
+Welche Auto-Hersteller gibt es in Asien?#ENT_PRODUCT
+Welche Waren stellt IBM her?#ENT_PRODUCT
+Welche Religionen gibt es in Asien?#ENT_RELIGION
+Welche Religion wurde von Abraham gegründet?#ENT_RELIGION
+Welche Glaubensrichtung herrscht in Israel vor?#ENT_RELIGION
+Welcher Glaube ist in den USA verbreitet?#ENT_RELIGION
+Welche religiöse Lehre herrscht in Deutschland vor?#ENT_RELIGION
+Welche Mannschaft ist die erfolgreichste in der Geschichte?#ENT_SPORT
+Welche typischen Ballsportarten gibt es in Europa?#ENT_SPORT
+Welche Sportart wird in Asien gespielt?#ENT_SPORT
+Wie heißt die Sportart die im Wasser stattfindet?#ENT_SPORT
+Welche Teams spielen in der NBA Basketball?#ENT_SPORT
+Welches Benzin nutzen Flugzeuge?#ENT_SUBSTANCE
+Was ist die Hauptzutat von Joghurt?#ENT_SUBSTANCE
+Wie setzt sich Stahl chemisch zusammen?#ENT_SUBSTANCE
+Was sind die Bestandteile von Geldmünzen?#ENT_SUBSTANCE
+Aus welchen Bestandteilen besteht Glas?#ENT_SUBSTANCE
+Was ist das keltische Symbol des Lebens?#ENT_SYMBOL
+Was ist das indische Zeichen für die Sonne?#ENT_SYMBOL
+Welche Symbole benutzen die Kelten?#ENT_SYMBOL
+Welches Zeichen hat Mercedes als Logo?#ENT_SYMBOL
+Welches Kennzeichen haben die Illuminati?#ENT_SYMBOL
+Wie heißt die Methode mit der man lernt zu dunken?#ENT_TECHNIQUE
+Mit welchem Verfahren kann man Alkohol brennen?#ENT_TECHNIQUE
+Mit welcher Vorgehensweise sind die Römer in die Schlacht gezogen?#ENT_TECHNIQUE
+Wie heißt die Strategie von erfolgreichen Wirtschaftsfirmen?#ENT_TECHNIQUE
+Mit welchen Taktiken haben die Römer ihre Schlachten geschlagen?#ENT_TECHNIQUE
+Wie sagt man in niederländisch "Ich liebe dich"?#ENT_TERM
+Wie bezeichnet man einen Roboter noch?#ENT_TERM
+Was sagt ein Deutscher zu einem Österreicher?#ENT_TERM
+Was ist die englische Übersetzung von Kunde?#ENT_TERM
+Wie übersetzt man Liebe ins Schwedische?#ENT_TERM
+Welche Helikopter hat die Bundeswehr?#ENT_VEHICLE
+Welche Autos stellt BMW her?#ENT_VEHICLE
+Wie hieß das Schiff von Christopher Columbus?#ENT_VEHICLE
+Welches Namen hat das Auto in Knight Rider?#ENT_VEHICLE
+Wie heißt das Auto von BMW das im Jahr 2012 herauskam?#ENT_VEHICLE
+Welches Wort steht am meisten auf Straßenschildern?#ENT_WORD
+Welche Wörter stehen am Bundestag?#ENT_WORD
+Welchen Satz sagte Barack Obama bei seiner Antrittsrede?#ENT_WORD
+Welche Wörter waren der Inhalt der französischen Revolution?#ENT_WORD
+Welches Wort steht für einen faulen Menschen?#ENT_WORD
+Welches Tier ist 100kg schwer?#ENT_ANIMAL
+Welche Tiere können kriechen?#ENT_ANIMAL
+Welche Tiere haben Flossen, aber haben trotzdem Lungen?#ENT_ANIMAL
+Welche Tiere sind in Australien zu Hause?#ENT_ANIMAL
+Welche Tiere leben in Spanien?#ENT_ANIMAL
+In welchem Teil des Körpers wird Alkohol abgebaut?#ENT_BODY
+Welche Muskeln gibt es am Kopf?#ENT_BODY
+Was sind primäre Geschlechtsorgane?#ENT_BODY
+Welcher Teil des Körpers ist für das Sehen verantwortlich?#ENT_BODY
+Aus wie vielen Muskeln besteht ein Unterarm?#ENT_BODY
+Welche Farbe hat ein Blatt?#ENT_COLOR
+Welche Farbe hat eine Feuerwehr?#ENT_COLOR
+Welche Farben sind im Logo von Globalfoundries?#ENT_COLOR
+Was sind die Farben im Wappen der Stadt Hoyerswerda?#ENT_COLOR
+Wie sieht die Farbe aus, die das Blut hat?#ENT_COLOR
+Welche Kunstwerke malte Edvard Munch?#ENT_CREATIVE
+Welches Gemälde ist von Picasso?#ENT_CREATIVE
+Welches Bild hat Rembrandt gemalt?#ENT_CREATIVE
+Wie heißt das Bild, dass im Louvre hängt?#ENT_CREATIVE
+Welche Währung wird in Taiwan benutzt?#ENT_CURRENCY
+Welche Währungen werden in Asien benutzt?#ENT_CURRENCY
+Mit welchem Geld bezahlt man in Kasachstan?#ENT_CURRENCY
+Wie heißt das Geld mit dem man in Rumänien bezahlt?#ENT_CURRENCY
+Welchen Namen hat das Geld mit dem man in Nordamerika bezahlt?#ENT_CURRENCY
+Wie heißt die Krankheit die man bekommt, wenn man seine Zähne nicht putzt?#ENT_MEDICINE
+Wie nennt man die Krankheit, die Übelkeit verursacht?#ENT_MEDICINE
+Welche Krankheiten gibt es in Australien?#ENT_MEDICINE
+Welche Krankheit kommt häufig bei Neugeborenen vor?#ENT_MEDICINE
+An was erkrankt man, zu hohem Blutdruck?#ENT_MEDICINE
+Welches Event findet jedes Jahr in Lärz statt?#ENT_EVENT
+Was für ein Event findet jährlich am Nürburgring statt?#ENT_EVENT
+Welche Veranstaltung ist in München im Oktober?#ENT_EVENT
+Wie heißt das das bekannteste Festival der Welt?#ENT_EVENT
+Wie heißt die Show von Serdar Somuncu?#ENT_EVENT
+Welches Getränk hält wach?#ENT_FOOD
+Was ist Antipasti?#ENT_FOOD
+Welche Getränke sind mit Wodka gemacht?#ENT_FOOD
+Welche Gerichte kann man überbacken?#ENT_FOOD
+Mit welchem Essen findet man keine Freunde?#ENT_FOOD
+Welche Instrumente zählen zu den Blechblasinstrumenten?#ENT_INSTRUMENT
+Welches Instrument ist einfach zu lernen?#ENT_INSTRUMENT
+Welche Instrumente kommen in „Peter und der Wolf“ vor?#ENT_INSTRUMENT
+Welche Rhythmusinstrumente gibt es?#ENT_INSTRUMENT
+Welches Instrument spielt in einer Band?#ENT_INSTRUMENT
+Welche Sprache wird in Japan gesprochen?#ENT_LANG
+Welche Sprachen spricht man in Südamerika?#ENT_LANG
+Welche Sprache ist die häufigste auf der Welt?#ENT_LANG
+Aus welcher Sprachfamilie kommt die deutsche Sprache?#ENT_LANG
+Welche Redensart wird in China gesprochen?#ENT_LANG
+Welcher Buchstabe ist der häufigste in der deutschen Sprache?#ENT_LETTER
+Welche Buchstaben gibt es in der arabischen Sprache?#ENT_LETTER
+Welcher Letter kommt auf der Tastatur nach C und V?#ENT_LETTER
+Welche Schriftzeichen gibt in der japanischen Sprache?#ENT_LETTER
+Welcher Buchstabe ist der erste im Alphabet?#ENT_LETTER
+Welche Abteilungen hat eine Firma?#ENT_OTHER
+Wofür hielten die Menschen früher die Erde?#ENT_OTHER
+Was wird kürzer je länger man daran zieht?#ENT_OTHER
+Wie hießt die Eule von Harry Potter?#ENT_OTHER
+Was muss man tun, um eine Frau flachzulegen?#ENT_OTHER
+Welche Pflanze benötigt wenig Wasser?#ENT_PLANT
+Aus welchen Pflanzen kann man Salben machen?#ENT_PLANT
+Welches Gewächs blüht auf dem Wasser?#ENT_PLANT
+Welcher Baum ist der älteste der Welt?#ENT_PLANT
+Welche Blume schenkt man seiner Liebsten?#ENT_PLANT
+Welche Fastfood-Marke ist die erfolgreichste in den USA?#ENT_PRODUCT
+Welches Produkt hat den meisten Markenwert?#ENT_PRODUCT
+Welcher Artikel wird zum Putzen der Zähne gebraucht?#ENT_PRODUCT
+Welche Auto-Hersteller gibt es in Deutschland?#ENT_PRODUCT
+Welche Waren stellt Mars her?#ENT_PRODUCT
+Welche monotheistischen Religionen gibt es?#ENT_RELIGION
+Welche Religion prägte das Mittelalter?#ENT_RELIGION
+Welche Glaubensrichtung wurde von L. Ron Hubbard gegründet?#ENT_RELIGION
+Welcher Glaube ist in Japan verbreitet?#ENT_RELIGION
+Welche religiöse Lehre herrscht in Indien vor?#ENT_RELIGION
+Welches Land hat die meisten olympischen Medaillen?#ENT_SPORT
+Welche typischen Mannschaftssportarten gibt es in Europa?#ENT_SPORT
+Welche Sportart ist in Amerika populär?#ENT_SPORT
+Wie heißt die Sportart die mit Wellen zu tun hat?#ENT_SPORT
+Welche Teams spielen in der Champions League?#ENT_SPORT
+Welches Flüssigkeit gefriert bei 0°C?#ENT_SUBSTANCE
+Was ist die Hauptzutat für Käse?#ENT_SUBSTANCE
+Wie setzt sich Blut chemisch zusammen?#ENT_SUBSTANCE
+Was sind die Bestandteile von Plastik?#ENT_SUBSTANCE
+Aus welchen Bestandteilen besteht Sperma?#ENT_SUBSTANCE
+Was ist das chinesische Symbol des Lebens?#ENT_SYMBOL
+Was ist das altägyptische Zeichen für die Sonne?#ENT_SYMBOL
+Welche Symbole benutzen die Germanen?#ENT_SYMBOL
+Welches Zeichen hat Apple als Logo?#ENT_SYMBOL
+Wie heißt die Methode mit der man lernt zu streiten?#ENT_TECHNIQUE
+Mit welchem Verfahren kann man Stahl verhütten?#ENT_TECHNIQUE
+Mit welcher Strategie haben die Alliierten den Zweiten Weltkrieg gewonnen?#ENT_TECHNIQUE
+Wie heißt die Strategie von Unilever?#ENT_TECHNIQUE
+Mit welcher Technik gelingt es Strom zu erzeugen?#ENT_TECHNIQUE
+Wie sagt man auf Italienisch "Ich liebe dich"?#ENT_TERM
+Wie bezeichnet man ein Auto noch?#ENT_TERM
+Was sagt ein Perser zu Türken?#ENT_TERM
+Was ist die englische Übersetzung von Baum?#ENT_TERM
+Wie übersetzt man Zorn ins Rumänische?#ENT_TERM
+Welches Flugzeug ist am 24.03.2015 abgestürzt?#ENT_VEHICLE
+Welche Autos stellt VW her?#ENT_VEHICLE
+Wie heißt das Auto von Batman?#ENT_VEHICLE
+Wie hieß das Flugzeug, das mit Überschallgeschwindigkeit fliegen konnte?#ENT_VEHICLE
+Wie heißt das größte Flugzeug der Welt?#ENT_VEHICLE
+Welches Wort steht bezeichnet einen Fluss in China?#ENT_WORD
+Welche Wörter stehen in einem Kalender?#ENT_WORD
+Welchen Satz sagte John F. Kennedy bei seiner Rede in Berlin?#ENT_WORD
+Welche Wörter waren der Inhalt des amerikanischen Freiheitsvertrages?#ENT_WORD
+Welches Wort steht für einen schlechten Witz?#ENT_WORD
+Welches ist das schnellste Tier der Welt?#ENT_ANIMAL
+Welche Tiere haben existiert, die schwerer als 10 Tonnen waren?#ENT_ANIMAL
+Welche Dinosaurier konnten fliegen?#ENT_ANIMAL
+Welche Tierarten können sowohl schwimmen, laufen, als auch fliegen?#ENT_ANIMAL
+Zu welcher Gattung gehören Pferde?#ENT_ANIMAL
+Welche Körperteile durchwandert eine Pizza wenn man sie isst?#ENT_BODY
+An welchen Stellen bildet sich am häufigsten Krebs bei Frauen?#ENT_BODY
+Welcher Körperteil einer Qualle ist nicht transparent?#ENT_BODY
+Welches ist das größte Organ des Menschen?#ENT_BODY
+An welchem Organ kann man am meisten Hitze ertragen?#ENT_BODY
+Welche Farbe hat Wasser?#ENT_COLOR
+In welchen Farben gibt es Crystal Meth?#ENT_COLOR
+Welchen Farbton hat das Blaue Wunder in Dresden wirklich?#ENT_COLOR
+Was ist die beliebteste Lieblingsfarbe?#ENT_COLOR
+Was kommt dabei heraus, wenn man rot und blau mischt?#ENT_COLOR
+Wie heißt nochmal das berühmte Deckengemälde in der Sixtinischen Kapelle?#ENT_CREATIVE
+Welches berühmte Bild von Leonardo da Vinci ist im Louvre ausgestellt?#ENT_CREATIVE
+Welche Gemälde malte Picasso?#ENT_CREATIVE
+Für welches Werk ist Dali bekannt?#ENT_CREATIVE
+Was ist das kleinste Bild der Welt?#ENT_CREATIVE
+Welche Währung benutzen die Menschen auf der Krim?#ENT_CURRENCY
+Welche Währungen haben den Cent als Münzeinheit?#ENT_CURRENCY
+Welches Geld haben die Leute in Neufundland eigentlich?#ENT_CURRENCY
+Mit welchem Geld bezahlt man in Schottland?#ENT_CURRENCY
+Was ist die wertloseste Währung der Welt?#ENT_CURRENCY
+Welche Epidemie ist derzeit in Afrika ausgebrochen?#ENT_MEDICINE
+Was hilft gegen Kopfschmerzen?#ENT_MEDICINE
+Wogegen hilft Aspirin?#ENT_MEDICINE
+Welches Virus verursacht AIDS?#ENT_MEDICINE
+Wie heißt die Show von Dave Chapelle?#ENT_EVENT
+Wie heißt dieses großartige Musikfestival in Mecklenburg-Vorpommern?#ENT_EVENT
+Welche Metal-Festivals gibt es nächstes Jahr in Deutschland?#ENT_EVENT
+Was ist die beliebteste Fernsehshow in Amerika?#ENT_EVENT
+Welche Konzerte gab es in Dresden 2013?#ENT_EVENT
+Was gibt es bei McDonalds zu Essen?#ENT_FOOD
+Was isst man in China?#ENT_FOOD
+Was kann man nur sehr schwer mit Stäbchen essen?#ENT_FOOD
+Welche Genussmittel verursachen mutmaßlich Krebs?#ENT_FOOD
+Was gibt es in Italien leckeres zu essen?#ENT_FOOD
+Was sind die Instrumente, die am schwersten zu erlernen sind?#ENT_INSTRUMENT
+Welche Holzblasinstrumente gibt es?#ENT_INSTRUMENT
+Welche Instrumente haben Saiten?#ENT_INSTRUMENT
+Welches Zupfinstrument hat 4 Saiten?#ENT_INSTRUMENT
+Was spricht man in Südamerika?#ENT_LANG
+Welche Dialekte gibt es in Deutschland?#ENT_LANG
+Welche Sprachen spricht Angela Merkel?#ENT_LANG
+Welche Fremdsprachen werden in Berliner Mittelschulen gelehrt?#ENT_LANG
+Welche Redensarten gibt es in den Baltischen Staaten?#ENT_LANG
+Womit beginnt das Alphabet im Chineschen?#ENT_LETTER
+Welche Buchstaben hat das Wort Ente wenn man E nicht mitzählt?#ENT_LETTER
+Welcher ist der letzte Buchstabe des Wortes so?#ENT_LETTER
+Welche Schriftzeichen sind im Deutschen zwar geläufig, jedoch im ASCII Zeichensatz nicht enthalten?#ENT_LETTER
+Welches ist der häufigste Buchstabe in er deutschen Sprache?#ENT_LETTER
+Welchen Arbeitstitel trägt Windows 10?#ENT_OTHER
+Welches Musikstück von Thomas Bergersen wurde auf der Eröffnungszeremonie der Fußballweltmeisterschaft 2014 gespielt?#ENT_OTHER
+Wofür kämpften die Rebellen in der französischen Revolution?#ENT_OTHER
+Womit brachte Neo die Matrix zu Fall?#ENT_OTHER
+Was wird zu Ostern für Kinder versteckt?#ENT_OTHER
+Welche noch existierende Baumart stellt den höchsten Baum der Welt?#ENT_PLANT
+Welche Pilze sind giftig?#ENT_PLANT
+Welche beliebte Knollenpflanze brachte Christoph Columbus nach Europa?#ENT_PLANT
+Wie nennt man die Frucht des Kaktus?#ENT_PLANT
+Wie nennt sich die Pflanzengattung der Engelstrompete?#ENT_PLANT
+Gibt es ein Handy dessen Akku länger als einen Tag hält?#ENT_PRODUCT
+Welche ist die teuerste Uhrenmarke der Welt?#ENT_PRODUCT
+Welchen Gegenstand braucht man zum Golf spielen?#ENT_PRODUCT
+Mit welchem Eingabegerät bedient man Computer?#ENT_PRODUCT
+Was benutzt man zum Zähne putzen?#ENT_PRODUCT
+Gibt es eine Religion in der man einer Ziege dient?#ENT_RELIGION
+Welche Sekten-Ausgründungen des Christentums gibt es?#ENT_RELIGION
+Welche religiöse Gruppe trägt ein Nudelsieb als Kopfbedeckung?#ENT_RELIGION
+Welche Glaubensrichtung wurde von L. Ron Hubbard gegründet?#ENT_RELIGION
+Welche Religion ist die richtige für mich als Student?#ENT_RELIGION
+In welcher Mannschaftssportart wurde Deutschland 2014 Weltmeister?#ENT_SPORT
+Von welcher Sportart ist die WTF der Dachverband?#ENT_SPORT
+Welche Ballsportart lässt sich auch gut im Wasser spielen?#ENT_SPORT
+Bei welchem Spiel braucht man einen Ball, ein Netz, und Sand?#ENT_SPORT
+Wie heißt eine japanische Kampfsportart bei der Kutten getragen werden und man versucht den Gegner auf den Rücken zu werfen?#ENT_SPORT
+Woraus besteht Feuer?#ENT_SUBSTANCE
+Wie setzt sich die Sonne chemisch zusammen?#ENT_SUBSTANCE
+Welches Element entsteht bei der Spaltung von Uran 238?#ENT_SUBSTANCE
+Was ist der Hauptbestandteil von einer handelsüblichen Batterie?#ENT_SUBSTANCE
+Aus welchen Elementen besteht Chlorophyll?#ENT_SUBSTANCE
+Welche Symbole sind vom deutschen Verfassungsschutz verboten?#ENT_SYMBOL
+Welches Zeichen wird häufig zur Kennzeichnung für Währungen genutzt?#ENT_SYMBOL
+Mit welchem Zeichen wird in europäischen Sprachen das Ende eines Satzes gekennzeichnet?#ENT_SYMBOL
+Womit wird in Notenheften eine Pause in einem Musikstück markiert?#ENT_SYMBOL
+Wie nennt man das umgekehrte Ausrufezeichen welches im Spanischen existiert?#ENT_SYMBOL
+Mit welcher Technik kann man Ziegel mit der Hand zerbrechen?#ENT_TECHNIQUE
+Wie heißt die Methode um Schnaps herzustellen?#ENT_TECHNIQUE
+Was ist Chuck Norris' berühmteste Kampftechnik?#ENT_TECHNIQUE
+Mit welcher Technik der maschinellen Lernens kann ein Agent durch Ausprobieren von Aktionen seine Strategie verbessern?#ENT_TECHNIQUE
+Welche Strategie hilft beim Lernen für Klassenarbeiten?#ENT_TECHNIQUE
+Wie bezeichnet man eine Regierungsform in der zwar eine Familie das Land symbolisch regiert, die Tagespolitik aber von gewählten Volksvertetern übernommen wird?#ENT_TERM
+Wie sagt man zu dem Trick um jemanden mit dem Arm auf dem Rücken zu fixieren?#ENT_TERM
+Wie sagen Mexikaner zu weißen Nordamerikanern?#ENT_TERM
+Was sind spanische Flüche?#ENT_TERM
+Wie nennt sich dieser kleine Zipfel der manchmal zwischen zwei Erdnusshälften ist?#ENT_TERM
+Wie hieß das Flugzeug mit dem die erste Atombombe abgeworfen wurde?#ENT_VEHICLE
+Welches Kreuzfahrtschiff ging 1912 an einem Eisberg zu bruch?#ENT_VEHICLE
+Was war der Name der ersten Raumstation im Weltall?#ENT_VEHICLE
+Mit welchem Transportmittel werden Astronauten ins Weltall befördert?#ENT_VEHICLE
+Welche Bezeichnugn tragen die pferdebetriebenen Fahrzeuge, die auch heute noch in Paraguay eingesetzt werden?#ENT_VEHICLE
+Welcher Schriftzug war über dem Eingangstor zum Konzentrationslager Buchenwald zu lesen?#ENT_WORD
+Welche Worte sagte Faust zu Mephisto in Auerbachs Keller?#ENT_WORD
+Mit welchen Worten leitete Martin Luther King seine berühmte Rede ein?#ENT_WORD
+Welche Worte sind die ersten die ein Baby lernt zu sprechen?#ENT_WORD
+Welches Wort merkiert den Ausgang auf dem Hauptahnhof in Prag?#ENT_WORD
+Welche Tiere sind Spinnentiere?#ENT_ANIMAL
+Welche Tiere sind nachtaktiv?#ENT_ANIMAL
+Welches Tier lebt in der Arktis?#ENT_ANIMAL
+Welches Tier ist schwerer als eine Tonne?#ENT_ANIMAL
+Welche Tiere sind vom aussterben bedrohte Arten?#ENT_ANIMAL
+Welches ist das kleinste Organ des menschlichen Körpers?#ENT_BODY
+Welche Körperbestandteile/Organe sind irreparabel?#ENT_BODY
+Welche Körperteile sind bei Vampiren beliebt?#ENT_BODY
+Welche Körperbestandteile beinhalten Eiweiß?#ENT_BODY
+Welches Körperteil besitzt die meisten Bakterien?#ENT_BODY
+Welche Farbe hat die Nacht?#ENT_COLOR
+Wie heißt die Farbe im Telekom Logo?#ENT_COLOR
+Welche Farben sieht man in einem Kaleidoskop?#ENT_COLOR
+Mit welcher Farbe wird die Liebe in Verbindung gebracht?#ENT_COLOR
+Welche Farben kann eine Katze unterscheiden?#ENT_COLOR
+Welches Bild zeichnete Edvard Munch?#ENT_CREATIVE
+Welche Gemälde zeichnete Salvador Dalí?#ENT_CREATIVE
+Welches Kunstwerk zeichnete van Gogh?#ENT_CREATIVE
+Welche Bilder sind von Victoria Frances?#ENT_CREATIVE
+Welches Werk entwarf Joan Miró?#ENT_CREATIVE
+Wie heißt die Währung in Kanada?#ENT_CURRENCY
+Mit was bezahlt man in Japan?#ENT_CURRENCY
+Welche Währung hat Grönland?#ENT_CURRENCY
+Wie heißt die Währung in Kuba?#ENT_CURRENCY
+Welche Währung wird in auf den Galapagos Inseln benutzt?#ENT_CURRENCY
+Welche Krankheiten wurden im Laufe der Jahre ausgerottet?#ENT_MEDICINE
+Welche Krankheit verläuft immer tödlich?#ENT_MEDICINE
+Welche Krankheiten gibt es in Afrika?#ENT_MEDICINE
+Welche Medikamente werden bei Diabetes verabreicht?#ENT_MEDICINE
+Welche Medikamente werden bei Krebs verschrieben?#ENT_MEDICINE
+Was für eine Veranstaltung findet jährlich in Leipzig zu Pfingsten statt?#ENT_EVENT
+Welches Event findet jährlich am ersten Juli Wochenende in Stralsund statt?#ENT_EVENT
+Was für eine Veranstaltung findet am 24.12 so gut wie weltweit statt?#ENT_EVENT
+Wie hieß die Show von Rihanna zur Tour 2013?#ENT_EVENT
+Wie hieß die geplante Show von Michael Jackson zu seinem Comeback?#ENT_EVENT
+Welches Getränk besteht zum Großteil aus Zucker?#ENT_FOOD
+Was ist die beliebteste Süßigkeit?#ENT_FOOD
+Welche Speise ist bei Kindern sehr beliebt?#ENT_FOOD
+Was isst man, wenn man krank ist, um wieder gesund zu werden?#ENT_FOOD
+In welchen Getränken ist Alkohol vorhanden?#ENT_FOOD
+Welche Instrumente besitzen Saiten?#ENT_INSTRUMENT
+Welche Instrumente werden geschlagen?#ENT_INSTRUMENT
+Welche Musikinstrumente gehören zu den Streichinstrumenten?#ENT_INSTRUMENT
+Welches ist das größte Musikinstrument?#ENT_INSTRUMENT
+Welches ist das älteste Musikinstrument?#ENT_INSTRUMENT
+Welche Sprache spricht man in Kenia?#ENT_LANG
+Welche Sprache wird in Grönland gesprochen?#ENT_LANG
+Wie spricht man auf den Philippinen?#ENT_LANG
+Welche Sprachen werden in Kanada gesprochen?#ENT_LANG
+Welche Sprachen werden in Skandinavien gesprochen?#ENT_LANG
+Welche Buchstaben gibt es im japanischen Alphabet?#ENT_LETTER
+Welcher Buchstabe wird am häufigsten in der deutschen Sprache benutzt?#ENT_LETTER
+Welche Buchstaben gibt es in anderen Sprachen nicht?#ENT_LETTER
+Welche Buchstaben kommen nicht in der deutschen Sprache vor?#ENT_LETTER
+ Welcher Buchstabe ist der jüngste der deutschen Sprache?#ENT_LETTER
+Welche Möglichkeiten gibt es Dateien zu verschlüsseln?#ENT_OTHER
+Wie wird man die Angst vor Nadeln los?#ENT_OTHER
+Was ist der leckerste Kuchen auf der Welt?#ENT_OTHER
+Gibt es den Lotuseffekt auch für menschliche Haare?#ENT_OTHER
+Kommt der Körper theoretisch gesehen auch ohne Schlaf aus?#ENT_OTHER
+Welche Pflanzen sind Sumpfpflanzen?#ENT_PLANT
+Was gibt es für fleischfressende Pflanzen?#ENT_PLANT
+Welche Pflanzen sind für den Menschen giftig?#ENT_PLANT
+Was ist der älteste Baum der Erde?#ENT_PLANT
+Welche Pflanzen kann man essen?#ENT_PLANT
+Welche Artikel stellt Omega her?#ENT_PRODUCT
+Welche Produkte sind in Japan sehr beliebt?#ENT_PRODUCT
+Welche Artikel stellt catrice her?#ENT_PRODUCT
+Welche Artikel werden in den USA am häufigsten benutzt?#ENT_PRODUCT
+Welche Produkte sind Luxusartikel?#ENT_PRODUCT
+Welche Religionen werden in Asien ausgeübt?#ENT_RELIGION
+Was ist die größte Religionsgemeinschaft?#ENT_RELIGION
+Welche Glaubensrichtung gibt es in Australien?#ENT_RELIGION
+Welcher Glaube herrscht in Afrika?#ENT_RELIGION
+Was ist die älteste Religionslehre?#ENT_RELIGION
+Welche Sportarten werden mit Bällen ausgeübt?#ENT_SPORT
+Was gibt es für Wassersportarten?#ENT_SPORT
+Was sind Extremsportarten?#ENT_SPORT
+Welcher Sport findet in der Luft statt?#ENT_SPORT
+Was ist der beliebteste Sport?#ENT_SPORT
+Was sind die Bestandteile des Giftes einer Klapperschlange?#ENT_SUBSTANCE
+Was ist in Nagellack enthalten?#ENT_SUBSTANCE
+Aus was setzt sich die Flüssigkeit in Wasserwagen zusammen?#ENT_SUBSTANCE
+Was macht Quecksilber giftig?#ENT_SUBSTANCE
+Aus welchen Bestandteilen setzt sich saurer Regen zusammen?#ENT_SUBSTANCE
+Aus was besteht Carbon?#ENT_SUBSTANCE
+Welches Symbol wird mit Satanismus in Verbindung gebracht?#ENT_SYMBOL
+Welches Symbol vereint Körper, Geist und Seele?#ENT_SYMBOL
+Wie heißt das ägyptische Symbol des ewigen Lebens?#ENT_SYMBOL
+Welches Symbol verwenden die Christen, häufig als Aufkleber auf Autos?#ENT_SYMBOL
+Welches Symbol steht für entgegengesetzte und dennoch aufeinander bezogene Kräfte in der chinesischen Kultur?#ENT_SYMBOL
+Wie heißt das biologische Verfahren, welches garantiert, dass nur die stärksten Individuen überleben?#ENT_TECHNIQUE
+Wie heißt die Methode, bei der Bilder von beispielsweise Knochenbrüchen gemacht werden?#ENT_TECHNIQUE
+Wie heißt die Praktik, bei der Crystal Meth hergestellt wird?#ENT_TECHNIQUE
+Wie heißt das Verfahren der Blutreinigung bei Nierenversagen?#ENT_TECHNIQUE
+Wie heißt die Methode, bei der Tinte mithilfe einer Nadel unter die Haut gestochen wird?#ENT_TECHNIQUE
+Wie heißt das Verfahren, bei dem pathogene Lebewesen den menschlichen Organismus befallen?#ENT_TECHNIQUE
+Wie kann ein Klavier noch bezeichnet werden?#ENT_TERM
+Wie sagt man zu der Schwimmart Freistil noch?#ENT_TERM
+Wie nennt man eine Geige?#ENT_TERM
+Wie wird das spielen von Computerspielen/Wii Spielen/Playstation etc. genannt?#ENT_TERM
+Wie lautet die Übersetzung von Ofenkäse ins Englische?#ENT_TERM
+Was für ein Flugzeug fliegt Käptain Balu?#ENT_VEHICLE
+Welches Auto fährt Darkwin Duck?#ENT_VEHICLE
+Welche Autos stellt Audi her?#ENT_VEHICLE
+Welche Flugzeuge werden auf der ILA vorgestellt?#ENT_VEHICLE
+Welches Auto fährt Edward Cullen?#ENT_VEHICLE
+Welchen Satz sagte John F. Kennedy 1963, als er zu Besuch in Berlin war?#ENT_WORD
+Welches erste Wort sagt ein Baby?#ENT_WORD
+Welches leuchtende Wort steht auf den gelben Autos in New York?#ENT_WORD
+Welches Wort steht auf der Verpackung mit zwei Schokoriegeln mit Karamel dauf?#ENT_WORD
+Welches Wort steht über dem Knopf auf einer Fernbedienung, wenn ein Gerät lautlos gestellt werden soll?#ENT_WORD
+Welche Tiere haben Milchzähne?#ENT_ANIMAL
+Welche Tiere werden in Jurassic Park gezeigt?#ENT_ANIMAL
+Welches Tier ist schlau und stellt sich dumm?#ENT_ANIMAL
+Auf welchen Tieren wachsen Seepocken?#ENT_ANIMAL
+Durch welche Tiere werden Lawinenopfer gefunden?#ENT_ANIMAL
+Durch welche Blutgefäße fließt sauerstoffarmes Blut?#ENT_BODY
+An welcher Stelle im Körper wird Gallensaft gebildet?#ENT_BODY
+Welche Körperteile behandelt ein HNO-Arzt?#ENT_BODY
+Durch welche Organe kann der Mensch Schall wahrnehmen?#ENT_BODY
+Welche Organe kann man lebend spenden?#ENT_BODY
+Welche Farbe hatte der Mars ursprünglich?#ENT_COLOR
+Welche Farbe nimmt Kupfer an, wenn es korrodiert?#ENT_COLOR
+Wie ist die Farbe des 100-€-Scheines?#ENT_COLOR
+Welche Farben kommen im Regenbogen vor?#ENT_COLOR
+Welche Farbe hat Licht mit einer Wellenlänge von 695 Nanometer?#ENT_COLOR
+Wie heißt die letzte Sinfonie von Mozart?#ENT_CREATIVE
+Welches Stück wird bei Trauungen oft gespielt?#ENT_CREATIVE
+Welche Menuette hat Bach in seiner Zeit in Leipzig komponiert?#ENT_CREATIVE
+Welches Stück von Bach hat Jethro Tull gecovert?#ENT_CREATIVE
+Mit welchem Stück beginnt die Oper "Willhelm Tell" von Rossini?#ENT_CREATIVE
+Womit bezahlt man auf Korfu?#ENT_CURRENCY
+Wie heißt die Währung in der Schweiz?#ENT_CURRENCY
+Welche Währungen gibt es in der Karibik?#ENT_CURRENCY
+Welche Währungen werden in Argentinien genutzt?#ENT_CURRENCY
+Was ist die Währung auf Schwarzmärkten in Moskau?#ENT_CURRENCY
+Welche Krankheit hat man bei erhöhter Körpertemperatur?#ENT_MEDICINE
+Woran können Taucher erkranken?#ENT_MEDICINE
+Woran leiden beschnittene Männer häufiger?#ENT_MEDICINE
+Durch welche Krankheiten kann man erblinden?#ENT_MEDICINE
+Wie nennt man eine Erkrankung des Dickdarms?#ENT_MEDICINE
+Was beginnt jedes Jahr am 21. Januar?#ENT_EVENT
+Was passierte am 21. Mai 1991 in Indien?#ENT_EVENT
+Welches Ereignis gilt als Auslöser des Ersten Weltkriegs?#ENT_EVENT
+Was jährt sich an jedem 9. November in Deutschland?#ENT_EVENT
+Was wird am 1. Mai in vielen Staaten gefeiert?#ENT_EVENT
+Was isst man in Bayern für Wurst?#ENT_FOOD
+Was ist das Lieblingsessen von Barack Obama?#ENT_FOOD
+Von welchem Essen bekommt man Blähungen?#ENT_FOOD
+Welches Essen sättigt am meisten und kostet am wenigsten?#ENT_FOOD
+Welche Gerichte kann man mit Haferflocken kochen?#ENT_FOOD
+Welches Instrument spielt Troubadix aus Asterix und Obelix?#ENT_INSTRUMENT
+Welche Instrumente zählen zu den Holzblasinstrumenten, sind aber nicht aus Holz?#ENT_INSTRUMENT
+Welches ist das älteste Instrument?#ENT_INSTRUMENT
+Welche Instrumente gab es bereits, bevor die Menschen sesshaft wurden?#ENT_INSTRUMENT
+Worauf spielt ein Paukist?#ENT_INSTRUMENT
+In welcher Sprache ist der Großteil von wissenschaftlichen Artikeln geschrieben?#ENT_LANG
+Welche europäische Sprache ist mit dem Finnischen verwandt?#ENT_LANG
+Welche Sprache haben die Wikinger gesprochen?#ENT_LANG
+Welche Sprache wird gepfiffen?#ENT_LANG
+Welches sind die nordischen Sprachen?#ENT_LANG
+Was für Buchstaben haben die Sumerer genutzt?#ENT_LETTER
+Welcher ist der häufigste Buchstabe in deutschen Texten?#ENT_LETTER
+Welche Buchstaben werden in der Hexadezimalschreibweise genutzt?#ENT_LETTER
+Welcher Buchstabe weist auf die Leipziger Messe hin?#ENT_LETTER
+Mit welchen Buchstaben können Stahlprofile beschrieben werden?#ENT_LETTER
+Welche Schriftart wird im Firmenlogo der Deutschen Bahn genutzt?#ENT_OTHER
+Was benutzen Fahrraddiebe um Bügelschlösser zu knacken?#ENT_OTHER
+Welcher Verwandtschaftsgrad bestand zwischen den deutschen Kaisern Wilhelm I. und Wilhelm II.?#ENT_OTHER
+Wie heißt die Open-Source-Variante von Adobe Photohop?#ENT_OTHER
+Mit welcher Strafe muss man rechnen, wenn man in Deutschland bei Rot über die Ampel fährt?#ENT_OTHER
+Aus welcher Pflanze gewinnt man Kautschuk?#ENT_PLANT
+Mit welcher Pflanze wird Weihrauch erzeugt?#ENT_PLANT
+Wie heißen die Pflanzen, die Fliegen fangen?#ENT_PLANT
+Wie heißen Pflanzen, die wenig Wasser brauchen?#ENT_PLANT
+Welcher Baum wird meist angebaut, nachdem Regenwald gerodet wurde?#ENT_PLANT
+Womit kann man Cola-Fontänen erzeugen?#ENT_PRODUCT
+Von welcher Marke sind die Klaviere, auf denen viele Profi-Pianisten spielen?#ENT_PRODUCT
+Welches Auto besingt Marc Cohn in einem seiner Lieder?#ENT_VEHICLE
+In was für einem Auto wurde John F. Kennedy erschossen?#ENT_VEHICLE
+Welches Auto haben Hippies häufig genutzt?#ENT_VEHICLE
+Welcher Glauben lehrt Nächstenliebe?#ENT_RELIGION
+Welchen Glauben haben Sunniten?#ENT_RELIGION
+Zu welcher Religion gehören Synagogen?#ENT_RELIGION
+Welche Glaubensrichtungen waren im Dritten Reich verboten?#ENT_RELIGION
+In welchem Glauben war es im Mittelalter nicht verboten, Zinsen zu nehmen?#ENT_RELIGION
+Mit welchem Sport ist Michael Schumacher bekannt geworden?#ENT_SPORT
+In welchen Sportarten gibt es Strafminuten?#ENT_SPORT
+Welche Sportart ist 1994 olympisch geworden?#ENT_SPORT
+Welcher Sport ist in Frankreich und Großbritannien berühmt?#ENT_SPORT
+Welche Sportart findet im Winter im Wasser statt?#ENT_SPORT
+Woraus besteht C4-Sprengstoff?#ENT_SUBSTANCE
+Womit wurde Alexander Litwinenko vergiftet?#ENT_SUBSTANCE
+Welcher Stoff wird aus Coltan-Erz gewonnen?#ENT_SUBSTANCE
+Was entsteht beim Verbrennen von Polyvinylchlorid?#ENT_SUBSTANCE
+Welches Schmerzmittel kann aus Weide gewonnen werden?#ENT_SUBSTANCE
+Was ist das astrologische Symbol für Merkur?#ENT_SYMBOL
+Womit wird eine Einbahnstraße gekennzeichnet?#ENT_SYMBOL
+Was ist das Symbol für eine leere Menge in der Mathematik?#ENT_SYMBOL
+Welches Symbol steht für Frieden?#ENT_SYMBOL
+Mit welchem Symbol wurden Homosexuelle in Konzentrationslagern gekennzeichnet?#ENT_SYMBOL
+Mit welchen Verfahren wird Chlor gewonnen?#ENT_TECHNIQUE
+Wie heißt die Methode, mit der archäologische Holzfunde datiert werden?#ENT_TECHNIQUE
+Mit welchem Verfahren kann man die Tiefe von Gewässern messen?#ENT_TECHNIQUE
+Mit welchem Verfahren wird Steinkohle gefördert?#ENT_TECHNIQUE
+Wie heißt die Heilmethode, bei der Nadeln in die Haut gestochen werden?#ENT_TECHNIQUE
+Was ist ein anderes Wort für Portemanteau?#ENT_TERM
+Wie lauten Synonyme zu "intelligent"?#ENT_TERM
+Was ist ein bekannteres Synonym zu "Rhinoceros"?#ENT_TERM
+Wie lautet ein bekannter Ausspruch aus Richard Fleischers "Soylent Green"?#ENT_TERM
+Wie lautet ein Homophon zu "wagen"?#ENT_TERM
+In was für einem Auto wurde John F. Kennedy erschossen?#ENT_VEHICLE
+Womit bewegt sich Aladin durch die Luft?#ENT_VEHICLE
+Was für ein Gefährt war die LZ 129 "Hindenburg"?#ENT_VEHICLE
+Womit dominierte die Wehrmacht im Zweiten Weltkrieg die See?#ENT_VEHICLE
+Welches Flugzeug wird "Tante Ju" genannt?#ENT_VEHICLE
+Welche Worte stehen auf dem Pantheon in Rom?#ENT_WORD
+Welche Redewendungen stehen häufig auf einem Grabstein?#ENT_WORD
+Mit welchen Worten wirbt Renault?#ENT_WORD
+Mit welchen Worten grüßte man im Antiken Rom?#ENT_WORD
+Welches Wort verwendet man im Tennis für "Null"?#ENT_WORD
+Welches Tier ist das schnellste?#ENT_ANIMAL
+Welche Tierart existiert am längsten?#ENT_ANIMAL
+Welches Tier töten die meisten Mesnchen?#ENT_ANIMAL
+Von welchem Tier ist das Fleisch in eine Burger?#ENT_ANIMAL
+Welches Tier ist dem Menschen am ähnlichsten?#ENT_ANIMAL
+Wo sitz die Leber eines Menschen?#ENT_BODY
+Wieviel Muskeln hat eine menschliche Hand?#ENT_BODY
+Wieviele Knochen hat mein Fuß?#ENT_BODY
+Wieviele Nieren brauch ein Mensch zum leben?#ENT_BODY
+Womit schmecke ich?#ENT_BODY
+Welche Farbe hat der Rasen?#ENT_COLOR
+Welche Farbe erhalte ich wenn ich blau und geld mische?#ENT_COLOR
+Welche Farbe haben Blätter im Herbst?#ENT_COLOR
+Welche Farbe hat ein Reh?#ENT_COLOR
+Welche Farbe hat die Haut von Eisbären?#ENT_COLOR
+Womit bezahlt man in Tschechien#ENT_CURRENCY
+Wie heißt die Währung in Italien?#ENT_CURRENCY
+Wie nennt man das Geld in Indien?#ENT_CURRENCY
+Was ist der Name des Geldes in Spanien?#ENT_CURRENCY
+Womit hat man im alten Rom bezahlt?#ENT_CURRENCY
+Was bekommt man wenn man verdorbenes isst?#ENT_MEDICINE
+Woran sterben die meisten Menschen in DEutschland?#ENT_MEDICINE
+Woran erkranken die meisten Deutschen?#ENT_MEDICINE
+Was bekommt man wenn man zu lange raucht?#ENT_MEDICINE
+Was ist diesen Samstag in Dresden los?#ENT_EVENT
+Wann ist wieder stadtfest in dresden?#ENT_EVENT
+Gibt es diesen Frühling ein Fest in Dresden?#ENT_EVENT
+Was ist heute so los in Zimbabwe?#ENT_EVENT
+Wo findet das Coolio Konzert statt?#ENT_EVENT
+Welche Tiere können fliegen?#ENT_ANIMAL
+Welche Schlangen sind besonders giftig?#ENT_ANIMAL
+Welches sind die häufigsten Haustiere?#ENT_ANIMAL
+Ist der Maulwurf ein Säugetier?#ENT_ANIMAL
+Welches Tier gräbgt Gänge im Erdreich?#ENT_ANIMAL
+Wie bezeichnet man männliche Bienen?#ENT_ANIMAL
+Womit können wir sehen?#ENT_BODY
+Wo sitzt das Gehirn?#ENT_BODY
+Welches Organ baut Alkohol ab?#ENT_BODY
+Von welchem Organ geht Diabetes aus?#ENT_BODY
+Welche Farben hat die Deutsche Flagge?#ENT_COLOR
+Welche Farben sind mit RGB gemeint?#ENT_COLOR
+Welche Farbe hat Blut?#ENT_COLOR
+Welche Farbe erhält man beim Mischen von Gelb und Blau?#ENT_COLOR
+Warum ist Wasser türkis?#ENT_COLOR
+Wer hat das Bild "Der Kuss" gemalt?#ENT_CREATIVE
+Was ist auf dem Bild "Die Kerze" zu sehen?#ENT_CREATIVE
+Welche Plastiken hat Otto Leibe gefertigt?#ENT_CREATIVE
+Welche Währung haben die Ägypter?#ENT_CURRENCY
+Welches Geld benutzen die Russen?#ENT_CURRENCY
+Wie heißt die Krankheit, die früher als Seitenkrankheit bekannt war?#ENT_MEDICINE
+Bei welcher Krankheit bekommt man eine Unterzuckerung?#ENT_MEDICINE
+Wie kann Grippe behandelt werden?#ENT_MEDICINE
+Welche Nebenwirkungen hat Aspirin?#ENT_MEDICINE
+Welches Medikament bekommt man bei Blutstau?#ENT_MEDICINE
+Was sind die Nebenwirkungen von Antibiotika?#ENT_MEDICINE
+Welches Medikament hilft bei Kopfschmerzen?#ENT_MEDICINE
+Wie heißt der Zwiebelmarkt der jährlich in Weimar stattfindet?#ENT_EVENT
+Welches weltbekannte Open Air Festival war 1969?#ENT_EVENT
+Bei welchem Event trat Herbert Grönemeyer zum ersten Mal auf?#ENT_EVENT
+Welches Festival findet in Wacken statt?#ENT_EVENT
+Wie heißt das Fest bei dem sich Menschen verkleiden?#ENT_EVENT
+In welchem Gemüse ist viel Vitamin A?#ENT_FOOD
+Welches Lebensmittel enthält Laktose?#ENT_FOOD
+Welches Gemüse ist rot?#ENT_FOOD
+Welches Nahrungsmittel hat besonders viel Kalorien?#ENT_FOOD
+Welches Obst kommt traditionell aus Deutschland?#ENT_FOOD
+Welches Instrument gibt im Orchester den Stimmton A an?#ENT_INSTRUMENT
+Welche Instrumente gehören zur Gruppe der Holzblasinstrumente?#ENT_INSTRUMENT
+Welches Instrument hat 4 Saiten?#ENT_INSTRUMENT
+Aus welchen Instrumenten bestet ein Kammerorchester?#ENT_INSTRUMENT
+Welche Sprache wird in Brasilien gesprochen?#ENT_LANG
+Was sind die vier Amtssprachen in der Schweiz?#ENT_LANG
+Wie lautet die Sprache einer Minderheit in der Lausitzer Region?#ENT_LANG
+Welche Sprachen sind in Kanada vertreten?#ENT_LANG
+Welche Sprache wird am häufigsten auf der Welt gesprochen?#ENT_LANG
+Kommt in Atmosphäre ein H vor?#ENT_LETTER
+Wird Schifffahrt mit zwei oder drei F geschrieben?#ENT_LETTER
+Welchen Buchstaben gibt es nur in der Deutschen Sprache?#ENT_LETTER
+Wie kann der Buchstabe Ä auch umschrieben werden?#ENT_LETTER
+Welcher Buchstabe wurde ab 2006 oft durch SS ersetzt?#ENT_LETTER
+Welcher Werkstoff wird auch für kugelsichere Westen verwendet?#ENT_SUBSTANCE
+Welche Pilze sind giftig?#ENT_PLANT
+Welche Bäume gehören zur Gruppe der Tiefwurzler?#ENT_PLANT
+Welcher Nadelbaum wirft im Winter seine Nadeln ab?#ENT_PLANT
+Welche Pflanzen brauchen extrem wenig Wasser?#ENT_PLANT
+Welche Pflanzen können auf Steinen wachsen?#ENT_PLANT
+Was ist eine weitere Zutat für Cola-Fontänen?#ENT_PRODUCT
+In welchem Auto wurde John F. Kennedy erschossen?#ENT_PRODUCT
+Mit welchem Produkt trat Apple ins Mobilfunkgeschäft ein?#ENT_PRODUCT
+Wie hieß der letzte in der DDR produzierte Plattenspieler?#ENT_PRODUCT
+Welche Biermarke wird in Dresden produziert?#ENT_PRODUCT
+Welches Burger-King-Produkt ähnelt einem McChicken?#ENT_PRODUCT
+Welche Religion ist im Abendland vorherrschend?#ENT_RELIGION
+Welcher Konfession gehören die meisten Deutschen an?#ENT_RELIGION
+Welchen Glauben vertreten die Spanier?#ENT_RELIGION
+Welche Religion ist häufiger Anlass für Anschläge im Nahen Osten?#ENT_RELIGION
+Welche Religion üben die Russen aus?#ENT_RELIGION
+Welche Sportarten gehören zum Fünfkampf?#ENT_SPORT
+Welche Sportarten benötigen zwei Tore?#ENT_SPORT
+Welche Sportart übt Timo Boll aus?#ENT_SPORT
+In welcher Sportart wird am meisten gedopt?#ENT_SPORT
+Welche Sportarten werden beim Ironman getätigt?#ENT_SPORT
+Wie ist der Name des ersten Antibiotikums?#ENT_SUBSTANCE
+Welches chemische Mittel wird zur Schädlingsbekämpfung bei Holz angewendet?#ENT_SUBSTANCE
+Welche Substanz ist unter Aspirin zu verstehen?#ENT_SUBSTANCE
+Wie heißt das Entlaubungsmittel, welches die USA im Vietnamkrieg eingesetzt hat?#ENT_SUBSTANCE
+Welche Stoffe werden beim Gährprozess freigesetzt?#ENT_SUBSTANCE
+Welches Symbol verwenden die Freimaurer?#ENT_SYMBOL
+Welche Symbole waren in der Flagge der DDR zu sehen?#ENT_SYMBOL
+Wofür steht das Symbol einer schwarzen Eule auf gelben Grund?#ENT_SYMBOL
+Welches Symbol ist das Markenzeichen des Roten Kreuzes?#ENT_SYMBOL
+Welches kirchliche Symbol verkörpert Frieden?#ENT_SYMBOL
+Wie wird gesintert?#ENT_TECHNIQUE
+Wie wird eine Holzoberfläche glatt gemacht?#ENT_TECHNIQUE
+Wie wird eine Holzeckverbindung erstellt?#ENT_TECHNIQUE
+Wie funktioniert die Offsetdrucktechnik?#ENT_TECHNIQUE
+Was versteht man unter Abbund?#ENT_TECHNIQUE
+Wie sagt man noch zu „Er ist gestorben.“#ENT_TERM
+Was versteht man unter „Alle Register gezogen.“#ENT_TERM
+Was versteht man unter „Es brennt mir auf den Fingernägeln.“?#ENT_TERM
+Wie nennt man ein kühles helles Pils?#ENT_TERM
+Welche Bezeichnung steht für „stümperhaft“?#ENT_TERM
+Welches ist das meist verkaufte Auto Deutschlands?#ENT_VEHICLE
+Welcher Flugzeugtyp ist vor kurzem in den französischen Alpen abgestürzt?#ENT_VEHICLE
+Wie lautet der Name für das Übungsschiff der deutschen Marine?#ENT_VEHICLE
+Was für ein Schiffstyp ist die Gorch-Fock?#ENT_VEHICLE
+Welche Antriebsart stellt der Autohersteller Tesla her?#ENT_VEHICLE
+Wie wurde die Staatssicherheit zu DDR-Zeiten bezeichnet?#ENT_WORD
+Wie wird die Bauform des Plattenbaus im Volksmund bezeichnet?#ENT_WORD
+Welcher Begriff steht für psychosomatische Erkrankung?#ENT_WORD
+wie bezeichnet man die Vereinigten Staaten von Amerika noch?#ENT_WORD
+Welcher allgemeine Begriff steht für aufputschende Amphetamine?#ENT_WORD

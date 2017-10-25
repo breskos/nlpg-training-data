@@ -1,0 +1,75 @@
+In Welche Stadt gibt es die besten Radwege?#LOC_CITY
+Was ist die Hauptstadt Indonesien?#LOC_CITY
+Welche ist die kleinste Stadt Brandenburgs?#LOC_CITY
+In welcher Stadt wurde Alon Musk geboren?#LOC_CITY
+Wo finden die nächsten Olympischen Winterspiele statt?#LOC_CITY
+In welchen Ländern kann man überall zelten?#LOC_COUNTRY
+In welchem Land isst man viele Fische?#LOC_COUNTRY
+Welches Land hat die wenigsten Einwohner?#LOC_COUNTRY
+Welches südamerikanische Land liegt auf einer Insel?#LOC_COUNTRY
+Von welchem Staat war Gerhard Schröder Präsident?#LOC_COUNTRY
+Welches Gebirge Europa von Asien?#LOC_MOUNTAIN
+Wie heißt der höchste Gipfel der Welt?#LOC_MOUNTAIN
+Zu welchem Gebirgszug gehört der Kibo?#LOC_MOUNTAIN
+Die Spitze welches großen Berges wurde zuerst bestiegen?#LOC_MOUNTAIN
+Wie heißt die höchste Erhebung Brasiliens?#LOC_MOUNTAIN
+Wo gibt es das billigste Trinken?#LOC_OTHER
+Welches Bistro hat die besten Cocktails in Berlin?#LOC_OTHER
+An welchem Ort wurden Bunker in Deutschland gefunden?#LOC_OTHER
+An welchem Ort lebt Heid Klum in Deutschland?#LOC_OTHER
+Wo ist die Cote Azure?#LOC_OTHER
+In welchen Bundesstaaten Agentiniens gibt es tiefe Täler?#LOC_STATE
+Welche Staaten der USA erlauben THC?#LOC_STATE
+Wie heißt das größte Bundesland in Deutschlands?#LOC_STATE
+In welchem Bundesland liegt Saarbrücken?#LOC_STATE
+Welche autonome Region hat Aftrika?#LOC_STATE
+Was ist die größte Stadt Spaniesn?#LOC_CITY
+Wie lautet die Hauptstadt von Spanien?#LOC_CITY
+In welcher Stadt fand die letzte Weltmeisterschaft statt?#LOC_CITY
+In welchen Städten gibt es einen Vergnügungspark?#LOC_CITY
+Welche Städte gibt es in Norwegen?#LOC_CITY
+Welche Länder sind die Reichsten?#LOC_COUNTRY
+Welche Länder haben die geringste Bevölkerungsdichte?#LOC_COUNTRY
+Welches Land hat die höchste Bevölkerungsdichte?#LOC_COUNTRY
+Welche Länder gibt es in Afrika?#LOC_COUNTRY
+Welche Länder haben ein Schwert in ihrer Landesflagge?#LOC_COUNTRY
+Was ist der höchste Berg in Afrika?#LOC_MOUNTAIN
+Welche Gebirge gibt es in Südamerika?#LOC_MOUNTAIN
+Welcher Berg hat die meisten Besteiger?#LOC_MOUNTAIN
+Welche Berge gibt es in Deutschland zum Wandern?#LOC_MOUNTAIN
+Welche Berge gibt es in Russland?#LOC_MOUNTAIN
+Wo steht die Sagrada Familia?#LOC_OTHER
+Welche Orte bereiste Jules Verne?#LOC_OTHER
+Wo fand Jesus den brennenden Busch?#LOC_OTHER
+An welchem Ort ist die Suizidrate am höchsten?#LOC_OTHER
+Wo steht das Olympiastadion?#LOC_OTHER
+In welchen Bundesländern leben die wenigsten Einwohner?#LOC_STATE
+Welches Bundesland hat die wenigsten Einwohner?#LOC_STATE
+In welchem Staat der USA leben die sportlichsten Menschen?#LOC_STATE
+In welchen Staaten der USA ist Marihuana legal?#LOC_STATE
+Wie heißt das Bundesland, in dem München liegt?#LOC_STATE
+Welche Städte gibt es in Dänemark?#LOC_CITY
+Was ist die Hauptstadt von Italien?#LOC_CITY
+Was ist die Landeshauptstadt vom Saarland?#LOC_CITY
+Welche Stadt ist bei Moslems beliebt?#LOC_CITY
+Welcher Großstadt ist bekannt für den CN Tower?#LOC_CITY
+Welches Land grenzt im Norden an die United States?#LOC_COUNTRY
+Welche Länder gibt es am Nordpol?#LOC_COUNTRY
+Welches Land hat die wenigsten Einwohner?#LOC_COUNTRY
+Welche Länder haben den geringsten Wohlstand?#LOC_COUNTRY
+Welche Länder haben die Farbe grün und rot in der Flagge?#LOC_COUNTRY
+Welcher Berg ist der größte in Nordamerika?#LOC_MOUNTAIN
+Welches Gebirge verläuft durch Deutschland?#LOC_MOUNTAIN
+Welche Berge gibt es in Indien?#LOC_MOUNTAIN
+Welche Gipfel hat Nordamerika?#LOC_MOUNTAIN
+Auf welchen Gipfeln liegt Schnee?#LOC_MOUNTAIN
+Wo war der erste Übergang nach Dänemark?#LOC_OTHER
+Wo war der erste Bahnhof in Deutschland?#LOC_OTHER
+Welcher Ort wird für die Freizeit in Saarbrücken empfohlen?#LOC_OTHER
+In welchem Stadion spielt der VfB Stuttgart?#LOC_OTHER
+Wo werden in Deutschland Gurken hergestellt?#LOC_OTHER
+In welchem Bundesland liegt Weimar?#LOC_STATE
+In welchen Bundesländern gibt es Naturschutzgebiete?#LOC_STATE
+In welchen Bundesländern kann man Wildzelten?#LOC_STATE
+Wie heißt das Bundesland in dem die Stadt Hamburg liegt?#LOC_STATE
+Was ist das kleinste Bundesland in Deutschland?#LOC_STATE

@@ -1,0 +1,141 @@
+Was ist die Definition von Weltschmerz?#DES_DEFINITION
+Wie definiert man Informatik?#DES_DEFINITION
+Kannst du Informatik definieren?#DES_DEFINITION
+Wie erklärt man Frauenparkplätze?#DES_DEFINITION
+Wie definiert sich eine Qualle?#DES_DEFINITION
+Was ist Absinthe?#DES_DESCRIPTION
+Wie beschreibt man Tee?#DES_DESCRIPTION
+Was ist ein MacBook?#DES_DESCRIPTION
+Wie kann man das Wort Pizzeria beschreiben?#DES_DESCRIPTION
+Was ist ein Jugendstil-Bau?#DES_DESCRIPTION
+Wie funktioniert das Studium?#DES_MANNER
+Wie geht Basketball?#DES_MANNER
+Wie arbeitet ein Computer?#DES_MANNER
+Wie umkreist ein Comet die Erde?#DES_MANNER
+Wie verhält sich jemand der Alzheimer hat?#DES_MANNER
+Aus welchem Grund muss man sich beim Meldeamt melden?#DES_REASON
+Was sind die Gründe für Kopfschmerzen?#DES_REASON
+Was ist der Grund für Konrad Zuses Tod?#DES_REASON
+Was ist der Grund für den Fall der Mauer?#DES_REASON
+Aus welchen Gründen wurde die Vorratsdatenspeicherung beschlossen?#DES_REASON
+Was ist die Definition von Instabilität?#DES_DEFINITION
+Wie definiert man Lernen?#DES_DEFINITION
+Kannst du Biomechanik definieren?#DES_DEFINITION
+Wie erklärt man Bücher?#DES_DEFINITION
+Wie definiert sich ein Haus?#DES_DEFINITION
+Was ist Wind?#DES_DESCRIPTION
+Wie beschreibt man Liebe?#DES_DESCRIPTION
+Was ist ein Binominalkoeffizient?#DES_DESCRIPTION
+Wie kann man das Wort Spielplatz beschreiben?#DES_DESCRIPTION
+Was ist ein Herrenhaus?#DES_DESCRIPTION
+Wie funktioniert das Abitur?#DES_MANNER
+Wie geht Sex?#DES_MANNER
+Wie arbeitet ein Mechaniker?#DES_MANNER
+Wie gehen die Ameisen?#DES_MANNER
+Wie verhält sich ein krankes Kind?#DES_MANNER
+Aus welchem Grund ist der Himmel blau?#DES_REASON
+Was sind die Gründe für Nervosität?#DES_REASON
+Was ist der Grund für Gaudis Tod?#DES_REASON
+Was ist der Grund für den zweiten Weltkrieg?#DES_REASON
+Aus welchen Gründen wurde die rezeptfreie Pille danach beschlossen?#DES_REASON
+Was ist die Definition von Gerechtigkeit?#DES_DEFINITION
+Wie definierst du dich?#DES_DEFINITION
+Was macht ein Erste-Welt-Land aus?#DES_DEFINITION
+Definiere den Begriff Roboter.#DES_DEFINITION
+Wie wird die Mehrzahl im Deutschen gebildet?#DES_DEFINITION
+Was ist ein Blue Screen?#DES_DESCRIPTION
+Wie sieht eine Universität von innen aus?#DES_DESCRIPTION
+Wie schmeckt Pizza?#DES_DESCRIPTION
+Was ist das tolle an dem iPhone?#DES_DESCRIPTION
+Wie funktioniert Mathematik?#DES_MANNER
+Wie kann man eine Kugel wenden?#DES_MANNER
+Wie sollte man eine Mango öffnen um besser an das Fruchtfleisch zu gelangen?#DES_MANNER
+Wie gelangt man auf das Dach eines Hauses wenn es keine Feuerleiter gibt?#DES_MANNER
+Wie läuft ein Pingiun?#DES_MANNER
+Aus welchem Grund hat Hong Kong immer noch keine eigene Regierung?#DES_REASON
+Warum ist ein Mac besser als ein PC?#DES_REASON
+Wieso muss eine einflussreiche Person, die Millionen an Steuern hinterzieht, nicht genauso ins Gefängnis wie jeder normale Bürger der dies täte?#DES_REASON
+Was spricht für den Mindestlohn?#DES_REASON
+Gibt es einen Grund weshalb Windows für ein Update neu starten muss?#DES_REASON
+Wie wird Liebe definiert?#DES_DEFINITION
+Durch was definiert sich eine Sonnenfinsternis?#DES_DEFINITION
+Wie lautet die Definition von Kunst?#DES_DEFINITION
+Wie definiert man Geisteskrankheit?#DES_DEFINITION
+Wie erklärt man Loyalität?#DES_DEFINITION
+Was ist Politik?#DES_DESCRIPTION
+Was ist eine Programmiersprache?#DES_DESCRIPTION
+Wie ist Empathie?#DES_DESCRIPTION
+Was ist ein Choleriker?#DES_DESCRIPTION
+Was ist Naturheilkunde?#DES_DESCRIPTION
+Wie ist das Verhalten eines bipolar gestörten Menschen?#DES_MANNER
+Wie funktioniert ein Funkwecker?#DES_MANNER
+Wie werden Einschaltquoten von TV Sendungen ermittelt?#DES_MANNER
+Wie entstehen Krebszellen im Körper?#DES_MANNER
+Wie entschlüsselt man Hieroglyphen?#DES_MANNER
+Warum dauert es so lange bis das Licht der Sonne auf die Erde trifft?#DES_REASON
+Warum entstehen schwarze Löcher?#DES_REASON
+Was ist der Grund für fehlende Empathie?#DES_REASON
+Wieso werden Tierquäler nicht weggesperrt?#DES_REASON
+Weshalb verliert das Ökosystem sein Gleichgewicht?#DES_REASON
+Was versteht man unter einem Anagramm?#DES_DEFINITION
+Was ist ein Portemanteau?#DES_DEFINITION
+Was ist ein Herzinfarkt?#DES_DEFINITION
+Was definiert man als Ambra?#DES_DEFINITION
+Was ist die Definition von Netbook?#DES_DEFINITION
+Wie sieht ein verrosteter Nagel aus?#DES_DESCRIPTION
+Wofür stehen die Olympischen Ringe?#DES_DESCRIPTION
+Was versteht man unter einem Doppelten Palstek?#DES_DESCRIPTION
+Wozu dient die Blende in optischen Geräten?#DES_DESCRIPTION
+Wie funktioniert ein Heizungsthermostat?#DES_MANNER
+Wie isst man Weißwürste?#DES_MANNER
+Wie öffnet man eine Bierflasche mithilfe eines Zollstocks?#DES_MANNER
+Wie erzeugt man einen Ton auf einem Saxophon?#DES_MANNER
+Wie macht man eine Schraube beim Turmspringen?#DES_MANNER
+Wie bekämpfen Bienen einen Eindringling in ihrem Stock?#DES_MANNER
+Warum fliegen manche Vögel in den Süden?#DES_REASON
+Warum kann Autofahren tödlich sein?#DES_REASON
+Wie kommt es, dass es Elefanten in Indien und Afrika gibt?#DES_REASON
+Wie kommt es, dass die Eisenbahn Vorrang hat?#DES_REASON
+Warum gibt es Wasser auf der Erde?#DES_REASON
+Definiere mir den Begriff Nullstelle.#DES_DEFINITION
+Welche Definition hat das Säugetier?#DES_DEFINITION
+Wie ist die Definition von Rohöl?#DES_DEFINITION
+Wie definiert man dunkle Materie?#DES_DEFINITION
+Was versteht man unter Schwerkraft?#DES_DEFINITION
+Was ist ein Liger?#DES_DESCRIPTION
+Was ist eine Totmanntaste?#DES_DESCRIPTION
+Was ist google?#DES_DESCRIPTION
+Wie beschreibt man den Begriff Trockenbau?#DES_DESCRIPTION
+Was ist eine Birke?#DES_DESCRIPTION
+Wie öffne ich eine Tür?#DES_MANNER
+Wie entfache ich ein Feuer?#DES_MANNER
+Wie kann ich leute zu Dummheiten anstiften?#DES_MANNER
+Wie fahren Autos?#DES_MANNER
+Wie werde ich betrunken?#DES_MANNER
+Warum ist Gold so wertvoll?#DES_REASON
+Worin hat eine BLume ihren Ursprung?#DES_REASON
+Wodurch ist der erste Weltkrieg entstanden?#DES_REASON
+Was war die Motivation für die Erfindung der Eisenbahn?#DES_REASON
+Warum gibt es Gesetze?#DES_REASON
+Wofür steht der Begriff "Partizipationsparadoxon"?#DES_DEFINITION
+Was bedeutet "autonom"?#DES_DEFINITION
+Was ist die Definition für "Legierung"?#DES_DEFINITION
+Was versteht man unter "Ökomene"?#DES_DEFINITION
+Wie kann der Begriff "Stasi" definiert werden?#DES_DEFINITION
+Was charakterisiert eine anorganische Bindung?#DES_DESCRIPTION
+Was kennzeichnet die deutsche Ingenieurskunst?#DES_DESCRIPTION
+Was is eine vegane Ernährung?#DES_DESCRIPTION
+Warum ist die Erde rund?#DES_DESCRIPTION
+Weshalb gibt es Gewitter?#DES_DESCRIPTION
+Warum altern wir?#DES_REASON
+Würde salziges Wasser besser Strom leiten?#DES_MANNER
+Wieso fallen alle Dinger runter?#DES_REASON
+Warum brennt Benzin?#DES_MANNER
+Warum kann man nur wenige Zugkräfte auf Steine anwenden?#DES_MANNER
+Was ist der Grund für das Splittern von Holz?#DES_REASON
+Wieso entstehen Winde?#DES_REASON
+Warum dreht sich die Erde?#DES_MANNER
+Warum gefriert Wasser?#DES_REASON
+Warum sterben Pflanzen ohne Licht?#DES_REASON
+Warum ist Gras grün?#DES_REASON
+Warum ist der Himmel blau?#DES_REASON
